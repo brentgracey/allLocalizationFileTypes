@@ -13,8 +13,8 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);"
 
 #: tools/observinglist.cpp:700
-msgctxt "First letter in 'Scope'"
-msgid "S"
+msgctxt "First letter in 'Scope' feature branch changes"
+msgid "Sfeature branch changes "
 msgstr ""
 
 #: skycomponents/horizoncomponent.cpp:429
@@ -24,14 +24,14 @@ msgstr "luck"
 
 # Hash space is a translator comment that should be preserved.
 #: viewpart/UnicodeBlocks.h:151
-msgid "new new new has nothing todo with it"
-msgstr "new new new to do with it"
+msgid "new new new has feature branch changes"
+msgstr "new new new to do with it feature branch changes"
 
 #: mainwindow.cpp:127
 #, kde-format
 msgid "Time: %1 second"
-msgid_plural "Time: %1 seconds"
-msgstr[0] "Czas: %1 sekunda t"
+msgid_plural "Time: %1 seconds feature branch changes"
+msgstr[0] "Czas: %1 sekunda t feature branch changes"
 msgstr[1] "Czas: %1 sekundy"
 msgstr[2] "Czas: %1 sekund"
 

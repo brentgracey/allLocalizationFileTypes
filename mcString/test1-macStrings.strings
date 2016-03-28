@@ -2,13 +2,13 @@
 "Item_Without_semicolon" = "Text1";
 
 /* Comment 2 */
-"Item_With_semicolon" = "Text2 %ld %lx %C;Text3";
+"Item_With_semicolon feature branch changes" = "Text2 %ld %lx %C;Text3";
 
 /* Comment 3 */
-"Item_With_colon" = "Text4:Text5";
+"Item_With_colon" = "Text4:Text5 feature branch changes";
 
 /* Comment 4 */
-"Item_With_colon" = "Text4:Text5";
+"Item_With_colon" = "Text4:Text feature branch changes5";
 
 /* Comment 5 */
-"Item_With_colon" = "Cancel";
+"Item_With_colon" = "Cancel feature branch changes";
