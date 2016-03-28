@@ -1,14 +1,14 @@
 /* Comment 1 */
-"Item_Without_semicolon" = "Text1";
+"Item_Without_semicolon" = "Text1 from branch";
 
 /* Comment 2 */
-"Item_With_semicolon" = "Text2 %ld %lx %C;Text3";
+"Item_With_semicolon  from branch" = "Text2 %ld %lx %C;Text3  from branch";
 
 /* Comment 3 */
 "Item_With_colon" = "Text4:Text5";
 
 /* Comment 4 */
-"Item_With_colon" = "Text4:Text5";
+"Item_With_colon  from branch" = "Text4:Text5";
 
 /* Comment 5 */
 "Item_With_colon" = "Cancel";
