@@ -20,12 +20,12 @@ msgstr ""
 #: skycomponents/horizoncomponent.cpp:429
 msgctxt "South"
 msgid "luck"
-msgstr "luck"
+msgstr "cop"
 
 # Hash space is a translator comment that should be preserved.
 #: viewpart/UnicodeBlocks.h:151
 msgid "new new new has nothing todo with it"
-msgstr "new new new to do with it"
+msgstr "cop cop"
 
 #: mainwindow.cpp:127
 #, kde-format
