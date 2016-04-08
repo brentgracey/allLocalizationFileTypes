@@ -29,7 +29,7 @@ msgstr "new new new to do with it"
 
 #: mainwindow.cpp:127
 #, kde-format
-msgid "Time: %1 second"
+msgid "Time: %1 monday"
 msgid_plural "Time: %1 seconds"
 msgstr[0] "Czas: %1 sekunda t"
 msgstr[1] "Czas: %1 sekundy"
