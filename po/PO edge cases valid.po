@@ -19,7 +19,7 @@ msgstr ""
 
 #: skycomponents/horizoncomponent.cpp:429
 msgctxt "South"
-msgid "luck"
+msgid "here"
 msgstr "luck"
 
 # Hash space is a translator comment that should be preserved.
