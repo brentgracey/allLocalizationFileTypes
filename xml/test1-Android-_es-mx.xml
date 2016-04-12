@@ -1,7 +1,7 @@
-<?xml sfd
-<LinearLayout asdf
+<?xml Sfd
+<LinearLayout Hklhjk
     android:%s Password: \n name: weight: %03dkg
-    android:Iniciar Sesi\u00f3n
+    android:dsf
     android:Spanish zsadfasdf
     >
 
@@ -18,7 +18,7 @@
     <TextView
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="Login:"
+        android:text="WRONG:"
         />
     <EditText
         android:id="@+id/username"
@@ -40,7 +40,7 @@
     />
     <Button
         android:id="@+id/login_button"
-        android:text="Login"
+        android:text="Login -00"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
     />
@@ -56,7 +56,7 @@
         android:layout_height="wrap_content"
         />
 </LinearLayout>
-       android:singleLine="true"
+   android:singleLine="true"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
     />
@@ -65,4 +65,5 @@
         android:layout_height="wrap_content"
         android:text="Password: name: %s weight: %03dkg\n"
         />
-    <Ed
+    <EditText
+       
