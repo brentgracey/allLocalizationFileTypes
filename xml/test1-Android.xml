@@ -29,7 +29,7 @@
     <TextView
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="Password: name: %s weight: %03dkg\n"
+        android:text="Password -pull message-: name: %s weight: %03dkg\n"
         />
     <EditText
         android:id="@+id/password"
