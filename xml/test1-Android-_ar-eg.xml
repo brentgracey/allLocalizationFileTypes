@@ -1,8 +1,8 @@
-<?xml DUPLICATE
-<LinearLayout DUPLICATE
-    android:DUPLICATE%s\n
-    android:DUPLICATE
-    android:DUPLICATE
+<?xml arabic duplicate
+<LinearLayout arabic duplicate
+    android:arabic duplicate%s\n
+    android:arabic duplicate
+    android:arabic duplicate
     >
 
 <EditText id="text"
@@ -63,7 +63,4 @@
     <TextView
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="Password: name: %s weight: %03dkg\n"
-        />
-    <EditText
-       
+        android:text="Password: name: %s weight: %03dkg\

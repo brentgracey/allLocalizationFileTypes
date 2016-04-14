@@ -1,6 +1,6 @@
 <?xml DUPLICATE
-<LinearLayout DUPLICATE
-    android:DUPLICATE%s\n
+<LinearLayout No dup
+    android:%s DUPLICATE \n
     android:DUPLICATE
     android:DUPLICATE
     >
@@ -18,7 +18,7 @@
     <TextView
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="WRONG 2 files changed:"
+        android:text="WRONG:"
         />
     <EditText
         android:id="@+id/username"
@@ -66,4 +66,4 @@
         android:text="Password: name: %s weight: %03dkg\n"
         />
     <EditText
-       
+        android:id="@+id
