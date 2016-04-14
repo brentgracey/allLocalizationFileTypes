@@ -1,8 +1,8 @@
-<?xml sfd
-<LinearLayout asdf
-    android:%s Password: \n name: weight: %03dkg
-    android:Iniciar Sesi\u00f3n
-    android:Spanish zsadfasdf
+<?xml Sfd
+<LinearLayout No dup
+    android:%s DUPLICATE \n
+    android:DUPLICATE
+    android:DUPLICATE
     >
 
 <EditText id="text"
@@ -18,7 +18,7 @@
     <TextView
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="Login:"
+        android:text="WRONG:"
         />
     <EditText
         android:id="@+id/username"
@@ -29,7 +29,7 @@
     <TextView
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="Password: name: %s weight: %03dkg\n"
+        android:text="aaa Password: name: %s weight: %03dkg\n"
         />
     <EditText
         android:id="@+id/password"
@@ -56,13 +56,14 @@
         android:layout_height="wrap_content"
         />
 </LinearLayout>
-       android:singleLine="true"
+   android:singleLine="true"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
     />
     <TextView
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="Password: name: %s weight: %03dkg\n"
+        android:text="aaa Password: name: %s weight: %03dkg\n"
         />
-    <Ed
+    <EditText
+        android:id="@+id/p
