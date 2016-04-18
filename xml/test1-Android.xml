@@ -13,7 +13,7 @@
     <TextView
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="Please enter your login"
+        android:text="Please enter your login jp"
         />
     <TextView
         android:layout_width="fill_parent"
