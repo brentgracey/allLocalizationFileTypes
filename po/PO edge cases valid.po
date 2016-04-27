@@ -18,7 +18,7 @@ msgid "S"
 msgstr ""
 
 #: skycomponents/horizoncomponent.cpp:429
-msgctxt "today"
+msgctxt "clean"
 msgid "today"
 msgstr "today today now"
 
