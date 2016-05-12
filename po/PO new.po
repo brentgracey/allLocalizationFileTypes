@@ -13,7 +13,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);"
 
 #: tools/observinglist.cpp:700
-msgctxt "First letter in 'Scope'"
+msgctxt "First your id will change letter in 'Scope'"
 msgid "S"
 msgstr ""
 
@@ -24,7 +24,7 @@ msgstr "today today now"
 
 # Hash space is a translator comment that should be preserved.
 #: viewpart/UnicodeBlocks.h:151
-msgid "1 new new has nothing todo with it"
+msgid "new new new has nothing todo with it"
 msgstr "new new new to do with it"
 
 #: mainwindow.cpp:127
