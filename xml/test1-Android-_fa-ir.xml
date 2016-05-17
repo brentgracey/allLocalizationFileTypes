@@ -1,7 +1,7 @@
 <?xml infalfinal
 <LinearLayout infalfinal
     android:%s Password: \n name: weight: %03dkg
-    android:infalfinal
+    android:infalfinalddd
     android:infalfinal
     >
 
@@ -64,4 +64,3 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:text="Password: name: %s weight: %03dkg\n"
-  
