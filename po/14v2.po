@@ -1,0 +1,43 @@
+msgid "msgid "1""
+msgstr "msgid "1""
+
+msgid "msgstr "2""
+msgstr "msgstr "2""
+
+msgid "msgstr "3""
+msgstr "msgstr "3""
+
+msgid "msgstr "4""
+msgstr "msgstr "4""
+
+msgid "msgstr "5""
+msgstr "msgstr "5""
+
+msgid "msgstr "6""
+msgstr "msgstr "6""
+
+msgid "msgstr "7""
+msgstr "msgstr "7""
+
+msgid "msgstr "8""
+msgstr "msgstr "8""
+
+msgid "msgstr "9""
+msgstr "msgstr "9""
+
+msgid "msgstr "10""
+msgstr "msgstr "10""
+
+msgid "msgstr "11""
+msgstr "msgstr "11""
+
+msgid "msgstr "12""
+msgstr "msgstr "12""
+
+msgid "msgstr "13""
+msgstr "msgstr "13""
+
+msgid "msgstr "14""
+msgstr "msgstr "14""
+
+
