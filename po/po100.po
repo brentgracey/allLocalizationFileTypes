@@ -1,0 +1,304 @@
+msgid "contend "1""
+msgstr "contend "1""
+
+msgid "contend "2""
+msgstr "contend "2""
+
+msgid "contend "3""
+msgstr "contend "3""
+
+msgid "contend "4""
+msgstr "contend "4""
+
+msgid "contend "5""
+msgstr "contend "5""
+
+msgid "contend "6""
+msgstr "contend "6""
+
+msgid "contend "7""
+msgstr "contend "7""
+
+msgid "contend "8""
+msgstr "contend "8""
+
+msgid "contend "9""
+msgstr "contend "9""
+
+msgid "contend "10""
+msgstr "contend "10""
+
+msgid "contend "11""
+msgstr "contend "11""
+
+msgid "contend "12""
+msgstr "contend "12""
+
+msgid "contend "13""
+msgstr "contend "13""
+
+msgid "contend "14""
+msgstr "contend "14""
+
+msgid "contend "15""
+msgstr "contend "15""
+
+msgid "contend "16""
+msgstr "contend "16""
+
+msgid "contend "17""
+msgstr "contend "17""
+
+msgid "contend "18""
+msgstr "contend "18""
+
+msgid "contend "19""
+msgstr "contend "19""
+
+msgid "contend "20""
+msgstr "contend "20""
+
+msgid "contend "21""
+msgstr "contend "21""
+
+msgid "contend "22""
+msgstr "contend "22""
+
+msgid "contend "23""
+msgstr "contend "23""
+
+msgid "contend "24""
+msgstr "contend "24""
+
+msgid "contend "25""
+msgstr "contend "25""
+
+msgid "contend "26""
+msgstr "contend "26""
+
+msgid "contend "27""
+msgstr "contend "27""
+
+msgid "contend "28""
+msgstr "contend "28""
+
+msgid "contend "29""
+msgstr "contend "29""
+
+msgid "contend "30""
+msgstr "contend "30""
+
+msgid "contend "31""
+msgstr "contend "31""
+
+msgid "contend "32""
+msgstr "contend "32""
+
+msgid "contend "33""
+msgstr "contend "33""
+
+msgid "contend "34""
+msgstr "contend "34""
+
+msgid "contend "35""
+msgstr "contend "35""
+
+msgid "contend "36""
+msgstr "contend "36""
+
+msgid "contend "37""
+msgstr "contend "37""
+
+msgid "contend "38""
+msgstr "contend "38""
+
+msgid "contend "39""
+msgstr "contend "39""
+
+msgid "contend "40""
+msgstr "contend "40""
+
+msgid "contend "41""
+msgstr "contend "41""
+
+msgid "contend "42""
+msgstr "contend "42""
+
+msgid "contend "43""
+msgstr "contend "43""
+
+msgid "contend "44""
+msgstr "contend "44""
+
+msgid "contend "45""
+msgstr "contend "45""
+
+msgid "contend "46""
+msgstr "contend "46""
+
+msgid "contend "47""
+msgstr "contend "47""
+
+msgid "contend "48""
+msgstr "contend "48""
+
+msgid "contend "49""
+msgstr "contend "49""
+
+msgid "contend "50""
+msgstr "contend "50""
+
+msgid "contend "51""
+msgstr "contend "51""
+
+msgid "contend "52""
+msgstr "contend "52""
+
+msgid "contend "53""
+msgstr "contend "53""
+
+msgid "contend "54""
+msgstr "contend "54""
+
+msgid "contend "55""
+msgstr "contend "55""
+
+msgid "contend "56""
+msgstr "contend "56""
+
+msgid "contend "57""
+msgstr "contend "57""
+
+msgid "contend "58""
+msgstr "contend "58""
+
+msgid "contend "59""
+msgstr "contend "59""
+
+msgid "contend "60""
+msgstr "contend "60""
+
+msgid "contend "61""
+msgstr "contend "61""
+
+msgid "contend "62""
+msgstr "contend "62""
+
+msgid "contend "63""
+msgstr "contend "63""
+
+msgid "contend "64""
+msgstr "contend "64""
+
+msgid "contend "65""
+msgstr "contend "65""
+
+msgid "contend "66""
+msgstr "contend "66""
+
+msgid "contend "67""
+msgstr "contend "67""
+
+msgid "contend "68""
+msgstr "contend "68""
+
+msgid "contend "69""
+msgstr "contend "69""
+
+msgid "contend "70""
+msgstr "contend "70""
+
+msgid "contend "71""
+msgstr "contend "71""
+
+msgid "contend "72""
+msgstr "contend "72""
+
+msgid "contend "73""
+msgstr "contend "73""
+
+msgid "contend "74""
+msgstr "contend "74""
+
+msgid "contend "75""
+msgstr "contend "75""
+
+msgid "contend "76""
+msgstr "contend "76""
+
+msgid "contend "77""
+msgstr "contend "77""
+
+msgid "contend "78""
+msgstr "contend "78""
+
+msgid "contend "79""
+msgstr "contend "79""
+
+msgid "contend "80""
+msgstr "contend "80""
+
+msgid "contend "81""
+msgstr "contend "81""
+
+msgid "contend "82""
+msgstr "contend "82""
+
+msgid "contend "83""
+msgstr "contend "83""
+
+msgid "contend "84""
+msgstr "contend "84""
+
+msgid "contend "85""
+msgstr "contend "85""
+
+msgid "contend "86""
+msgstr "contend "86""
+
+msgid "contend "87""
+msgstr "contend "87""
+
+msgid "contend "88""
+msgstr "contend "88""
+
+msgid "contend "89""
+msgstr "contend "89""
+
+msgid "contend "90""
+msgstr "contend "90""
+
+msgid "contend "91""
+msgstr "contend "91""
+
+msgid "contend "92""
+msgstr "contend "92""
+
+msgid "contend "93""
+msgstr "contend "93""
+
+msgid "contend "94""
+msgstr "contend "94""
+
+msgid "contend "95""
+msgstr "contend "95""
+
+msgid "contend "96""
+msgstr "contend "96""
+
+msgid "contend "97""
+msgstr "contend "97""
+
+msgid "contend "98""
+msgstr "contend "98""
+
+msgid "contend "99""
+msgstr "contend "99""
+
+msgid "contend "100""
+msgstr "contend "100""
+
+msgid "contend "101""
+msgstr "contend "101""
+
+
