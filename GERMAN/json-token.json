@@ -1,0 +1,37 @@
+{
+  "result": "tt",
+  "token": "t",
+  "remember_me": "tt",
+  "loggedUser": {
+    "id": "1tt",
+    "first_name": "tt",
+    "last_name": "t",
+    "email": "t",
+    "name": "t",
+    "avatar": "Https://storage.googleapis.com/dev-env-storage/c86ef738-4a95-4087-ad44-fac14deb94ba_admin a __scaled_256__ cropped__scaled_32.pngtt",
+    "organizations": [
+      {
+        "id": "2tt"
+      },
+      {
+        "name": "t"
+      },
+      {
+        "role": "tt"
+      },
+      {
+        "id": "1002t"
+      },
+      {
+        "name": "tt"
+      },
+      {
+        "role": "tt"
+      }]
+    ,
+    "timezone": "tt",
+    "created_at": "1420066800000",
+    "phone_number": "12345621",
+    "last_online": "1469609210000"
+  }
+}
