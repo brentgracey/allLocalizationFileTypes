@@ -1,0 +1,7 @@
+en:
+  obj:
+    field:
+      prop: trans
+      slogan: trans<qordoba-new-line/>trans
+      greeting: trans<qordoba-new-line/>
+      farewell: trans
