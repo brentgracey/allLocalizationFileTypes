@@ -25,7 +25,7 @@ msgstr "today today sha sha"
 # Hash space is a translator comment that should be preserved.
 #: viewpart/UnicodeBlocks.h:151
 msgid "new new new has nothing todo with it"
-msgstr "new new new to do with it"
+msgstr "new new new to do sha sha it"
 
 #: mainwindow.cpp:127
 #, kde-format
