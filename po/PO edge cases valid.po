@@ -20,7 +20,7 @@ msgstr "sss"
 #: skycomponents/horizoncomponent.cpp:429
 msgctxt "today"
 msgid "topoday"
-msgstr "today today sha sha"
+msgstr "today today sha calzz"
 
 # Hash space is a translator comment that should be preserved.
 #: viewpart/UnicodeBlocks.h:151
