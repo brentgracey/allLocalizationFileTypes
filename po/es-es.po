@@ -1,0 +1,32 @@
+#: 
+msgid ""
+msgstr ""
+"Project-Id-Version: Test\n"
+"PO-Revision-Date: 2016-01-13 14:45+0000\n"
+"Last-Translator: Brent\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: tools/observinglist.cpp:700
+msgctxt "First letter in 'sssScope'"
+msgid "Ssss"
+msgstr "sss"
+
+#: skycomponents/horizoncomponent.cpp:429
+msgctxt "toy"
+msgid "topoday"
+msgstr "today today now"
+
+#: viewpart/UnicodeBlocks.h:151
+msgid "new new new has nothing todo with it"
+msgstr "new new new to do with it"
+
+#: mainwindow.cpp:127
+msgid "Time: %1 second"
+msgid_plural "Time: %1 seconds"
+msgstr[0] "Czas: %1 sekunda t"
+msgstr[1] "Czas: %1 sekundy"
+msgstr[2] "Czas: %1 sekund"
+
