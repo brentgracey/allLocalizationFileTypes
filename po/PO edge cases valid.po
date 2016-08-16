@@ -18,7 +18,7 @@ msgid "Ssss"
 msgstr "sss"
 
 #: skycomponents/horizoncomponent.cpp:429
-msgctxt "today"
+msgctxt "toy"
 msgid "topoday"
 msgstr "today today sha calzz"
 
