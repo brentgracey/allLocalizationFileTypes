@@ -32,6 +32,6 @@ msgstr "new new new to do with it"
 msgid "Time: %1 second"
 msgid_plural "Time: %1 seconds"
 msgstr[0] "Czas: %1 sekunda t"
-msgstr[1] "Czas: %1 sekundy"
-msgstr[2] "Czas: %1 sekund"
+msgstr[1] "Czas: %1 sekundy123 "
+msgstr[2] "Czas: %1 sekund 123 "
 
