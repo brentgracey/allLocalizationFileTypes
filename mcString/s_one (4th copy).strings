@@ -1,0 +1,27 @@
+/* Pop-up asking to allow the app (OKpanda) send push notifications */
+"AppDelegate.Alert.AllowPushNotification.Button.Cancel.Title" = "Don't Allow";
+
+/* Pop-up asking to allow the app (OKpanda) send push notifications */
+"AppDelegate.Alert.AllowPushNotification.Button.OK.Title" = "OK";
+
+/* Pop-up asking to allow the app (OKpanda) send push notifications */
+"AppDelegate.Alert.AllowPushNotification.Message" = "Allow messages, text, sound and icon badges";
+
+/* Title for pop-up asking to allow the app (OKpanda) send push notifications */
+"AppDelegate.Alert.AllowPushNotification.Title" = "To help you learn and easily communicate with your teacher, OKpanda would like to send you push notifications. Is that OK?";
+
+/* Message for pop-up saying that the app (Okpanda) needs updating */
+"AppDelegate.Alert.UnsupportedVersion.Message" = "Your app version is no longer supported. Please update the app via the App Store.";
+
+/* Title of pop-up saying that the app needs updating */
+"AppDelegate.Alert.UnsupportedVersion.Title" = "Unsupported Version";
+
+/* Text in error pop up that appears when there has been an error logging in */
+"Authentication.Alert.LoginError.Message.General" = "There was an error. Please try again.";
+
+/* Text in error pop up that appears when a user enters an invalid email address (for example, no @) */
+"Authentication.Alert.LoginError.Message.InvalidEmail" = "Please enter a valid email";
+
+/* Text in error pop up that appears when a user enters the wrong email or password */
+"Authentication.Alert.LoginError.Message.InvalidEmailOrPassword" = "Invalid email or password";
+

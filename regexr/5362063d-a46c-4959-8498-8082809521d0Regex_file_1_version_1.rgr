@@ -1,0 +1,7 @@
+This is the regex start [TEMPLATE 1]
+
+<BEGIN>file_1 segment common<END>
+
+<BEGIN>file_1 segment to be deleted<END>
+
+This is the end of regex template

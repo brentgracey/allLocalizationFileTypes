@@ -12,20 +12,20 @@ msgstr ""
 "Language: zh_CN\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);"
 
-#: tools/observinglist.cpp:700
-msgctxt "First letter in 'Scope'"
-msgid "msgid 1"
-msgstr "msgstr 1"
-
 #: skycomponents/horizoncomponent.cpp:429
 msgctxt "today"
 msgid "msgid 2"
 msgstr "msgstr 2"
 
-# Hash space is a translator comment that should be preserved.
-#: viewpart/UnicodeBlocks.h:151
-msgid "msgid 3"
-msgstr "msgstr 3"
+#: skycomponents/horizoncomponent.cpp:429
+msgctxt "111"
+msgid "3333"
+msgstr "555"
+
+#: skycomponents/horizoncomponent.cpp:429
+msgctxt "abc"
+msgid "32"
+msgstr "23"
 
 #: mainwindow.cpp:127
 #, kde-format
