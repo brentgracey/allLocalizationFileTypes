@@ -1,0 +1,18 @@
+<plist version="1.0">
+    <dict>
+        <key>%d file(s) remaining</key>
+        <dict>
+            …
+        </dict>
+        <key>%d service hour(s)</key>
+        <dict>
+            …
+        </dict>
+        <key>%d award(s)</key>
+        <dict>
+            …
+        </dict>
+    </dict>
+</plist>
+
+

@@ -55,13 +55,13 @@
   >
    <prop type="Domain">Cooking</prop>
    <tuv xml:lang="EN">
-    <seg>menu</seg>
+    <seg>menu one</seg>
    </tuv>
    <tuv xml:lang="FR-CA">
-    <seg>menu</seg>
+    <seg>menu one</seg>
    </tuv>
    <tuv xml:lang="FR-FR">
-    <seg>menu</seg>
+    <seg>menu one</seg>
    </tuv>
   </tu>
  </body>

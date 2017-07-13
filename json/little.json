@@ -1,0 +1,9 @@
+{
+  "result" : "success",
+  "token" : "",
+  "remember_me" : null,
+  "arr": [
+	"string",
+         { "1": 2 }
+  ]
+}
