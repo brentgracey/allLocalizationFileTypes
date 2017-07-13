@@ -1,0 +1,1666 @@
+
+"AppDelegate.Alert.AllowPushNotification.Button.Cancel.Title" = "";
+
+"AppDelegate.Alert.AllowPushNotification.Button.OK.Title" = "";
+
+"AppDelegate.Alert.AllowPushNotification.Message" = "";
+
+"AppDelegate.Alert.AllowPushNotification.Title" = "";
+
+"AppDelegate.Alert.UnsupportedVersion.Message" = "";
+
+"AppDelegate.Alert.UnsupportedVersion.Title" = "";
+
+"Authentication.Alert.LoginError.Message.General" = "";
+
+"Authentication.Alert.LoginError.Message.InvalidEmail" = "";
+
+"Authentication.Alert.LoginError.Message.InvalidEmailOrPassword" = "";
+
+"Authentication.Alert.LoginError.Message.MissingEmailOrPassword" = "";
+
+"Authentication.Alert.LoginError.Message.NoPassword" = "";
+
+"Authentication.Alert.LoginError.Title" = "";
+
+"Authentication.Alert.PasswordResetError.Message" = "";
+
+"Authentication.Alert.PasswordResetError.Title" = "";
+
+"Authentication.AuthorizationBaseScreen.Button.ForgotPassword.Title" = "";
+
+"Authentication.AuthorizationBaseScreen.Button.Login.Title" = "";
+
+"Authentication.AuthorizationBaseScreen.Button.Signup.Title" = "";
+
+"Authentication.AuthorizationBaseScreen.Label.PasswordRules.Text" = "";
+
+"Authentication.AuthorizationBaseScreen.TextField.Email.PlaceholderText" = "";
+
+"Authentication.AuthorizationBaseScreen.TextField.FirstName.PlaceholderText" = "";
+
+"Authentication.AuthorizationBaseScreen.TextField.LastName.PlaceholderText" = "";
+
+"Authentication.AuthorizationBaseScreen.TextField.Password.PlaceholderText" = "";
+
+"Authentication.EditProfileScreen.Button.ResendEmail.Title" = "";
+
+"Authentication.EditProfileScreen.Label.EmailVerification.Text" = "";
+
+"Authentication.EditProfileScreen.NavigationBar.Title" = "";
+
+"Authentication.EmailConfirmationRegisterScreen.Button.RegisterEmail.Title" = "";
+
+"Authentication.EmailConfirmationRegisterScreen.Label.Detail.Text" = "";
+
+"Authentication.EmailConfirmationRegisterScreen.Label.InvalidEmail.Text" = "";
+
+"Authentication.EmailConfirmationRegisterScreen.Label.Title.Text" = "";
+
+"Authentication.EmailConfirmationRegisterScreenTextField.Email.Placeholder" = "";
+
+"Authentication.EmailConfirmationScreen.TextField.Email.Placeholder" = "";
+
+"Authentication.EmailConfirmationSentScreen.Button.ChangeEmailAddress.Title" = "";
+
+"Authentication.EmailConfirmationSentScreen.Button.SendEmailAgain.Title" = "";
+
+"Authentication.EmailConfirmationSentScreen.Label.Detail.Text" = "";
+
+"Authentication.EmailConfirmationSentScreen.Label.Title.Text" = "";
+
+"Authentication.Error.EmailAlreadyTaken" = "";
+
+"Authentication.Error.FirstNameNotInEnglish" = "";
+
+"Authentication.Error.InvalidEmail" = "";
+
+"Authentication.Error.InvalidLanguage" = "";
+
+"Authentication.Error.InvalidPasswordNoDigit" = "";
+
+"Authentication.Error.InvalidPasswordNoLetter" = "";
+
+"Authentication.Error.InvalidPasswordTooShort" = "";
+
+"Authentication.Error.InvalidTimezone" = "";
+
+"Authentication.Error.LastNameNotInEnglish" = "";
+
+"Authentication.ForgotPasswordScreen.Alert.ResetPassword.Button.No.Title" = "";
+
+"Authentication.ForgotPasswordScreen.Alert.ResetPassword.Button.Yes.Title" = "";
+
+"Authentication.ForgotPasswordScreen.Alert.ResetPassword.Message" = "";
+
+"Authentication.ForgotPasswordScreen.Alert.ResetPassword.Title" = "";
+
+"Authentication.ForgotPasswordScreen.Button.ResetPassword.Title" = "";
+
+"Authentication.ForgotPasswordScreen.Label.EnterEmail.Text" = "";
+
+"Authentication.ForgotPasswordScreen.Label.InvalidEmail.Text" = "";
+
+"Authentication.ForgotPasswordScreen.Label.SendPassword.Text" = "";
+
+"Authentication.ForgotPasswordScreen.NavigationBar.Title" = "";
+
+"Authentication.ForgotSentEmailScreen.Button.GoBackToLogin.Title" = "";
+
+"Authentication.ForgotSentEmailScreen.Label.SentPasswordToEmail.Text" = "";
+
+"Authentication.ForgotSentEmailScreen.NavigationBar.Title" = "";
+
+"Authentication.LoginScreen.NavigationBar.Title" = "";
+
+"Authentication.SetPasswordPopup.Alert.PasswordsDontMatch.Message" = "";
+
+"Authentication.SetPasswordPopup.Alert.PasswordsDontMatch.Title" = "";
+
+"Authentication.SetPasswordPopup.Alert.SetPasswordError.Message" = "";
+
+"Authentication.SetPasswordPopup.Alert.SetPasswordError.Title" = "";
+
+"Authentication.SetPasswordPopup.Button.SetPassword.Title" = "";
+
+"Authentication.SetPasswordPopup.Label.Explanation.Text" = "";
+
+"Authentication.SetPasswordPopup.Label.PasswordRules.Text" = "";
+
+"Authentication.SetPasswordPopup.Label.PasswordsDontMatch.Text" = "";
+
+"Authentication.SetPasswordPopup.TextField.Password.Placeholder" = "";
+
+"Authentication.SetPasswordPopup.TextField.PasswordVerification.Placeholder" = "";
+
+"Authentication.SetPasswordPopup.Title" = "";
+
+"Authentication.SignupBaseScreen.Button.Login.Title" = "";
+
+"Authentication.SignupBaseScreen.Button.SaveProfile.Title" = "";
+
+"Authentication.SignupBaseScreen.Button.Signup.Title" = "";
+
+"Authentication.SignupScreen.Alert.InvalidPasswordError.Message" = "";
+
+"Authentication.SignupScreen.Alert.InvalidPasswordError.Title" = "";
+
+"Authentication.SignupScreen.Alert.SignupError.DefaultMessage" = "";
+
+"Authentication.SignupScreen.Alert.SignupError.Title" = "";
+
+"Authentication.SignupScreen.NavigationBar.Title" = "";
+
+"Booking.Alert.SubscriptionCancelled.Button.GotoPlans.Title" = "";
+
+"Booking.AppRatingPromptPopup.Button.Close.Title" = "";
+
+"Booking.AppRatingPromptPopup.Button.DoNotShowAgain.Title" = "";
+
+"Booking.AppRatingPromptPopup.Button.RateApp.Title" = "";
+
+"Booking.AppRatingPromptPopupNew.Label.BannerLabel.Text" = "";
+
+"Booking.AppRatingPromptPopupNew.Label.PromptLabel.Text" = "";
+
+"Booking.AppRatingPromptPopupUpdate.Label.BannerLabel.Text" = "";
+
+"Booking.AppRatingPromptPopupUpdate.Label.PromptLabel.Text" = "";
+
+"Booking.Authentication.Alert.ProfileSaved.Message" = "";
+
+"Booking.Authentication.Alert.ProfileSaved.Title" = "";
+
+"Booking.Authentication.Alert.ProfileSaveError.Message" = "";
+
+"Booking.Authentication.Alert.ProfileSaveError.Title" = "";
+
+"Booking.BookAnotherLessonAfterBadLessonPopup.Button.Book.Title" = "";
+
+"Booking.BookAnotherLessonAfterBadLessonPopup.Label.TopTeachers.Text" = "";
+
+"Booking.BookAnotherLessonAfterBadLessonPopup.Label.TryTopTeachers.Text" = "";
+
+"Booking.BookAnotherLessonPopupBase.Button.BookNextWeek.Title" = "";
+
+"Booking.BookAnotherLessonPopupBase.Button.BookTomorrow.Title" = "";
+
+"Booking.BookAnotherLessonPopupBase.Label.BookAnotherLesson.Text" = "";
+
+"Booking.BookAnotherLessonPopupBase.Label.BookPopularTeacher.Text" = "";
+
+"Booking.BookAnotherLessonPopupBase.Label.BookSameTimeLesson.Text" = "";
+
+"Booking.BookAnotherLessonPopupBase.Label.Suggestion.Text" = "";
+
+"Booking.BookConfirmationForUnconvertedStudentScreen.Label.Endorsement.Text" = "";
+
+"Booking.BookConfirmationForUnconvertedStudentScreen.NavigationBar.Title" = "";
+
+"Booking.BookConfirmationScreen.Button.ConfirmBooking.Title" = "";
+
+"Booking.BookConfirmationScreen.NavigationBar.Title" = "";
+
+"Booking.BookedLessonsScreen.Alert.CancelBookedLessonError.Title" = "";
+
+"Booking.BookedLessonsScreen.Alert.CancelLesson.Button.No.Title" = "";
+
+"Booking.BookedLessonsScreen.Alert.CancelLesson.Button.Yes.Title" = "";
+
+"Booking.BookedLessonsScreen.Alert.CancelLesson.Message" = "";
+
+"Booking.BookedLessonsScreen.Alert.CancelLesson.Title" = "";
+
+"Booking.BookedLessonsScreen.Alert.NoCredits.Button.Cancel.Title" = "";
+
+"Booking.BookedLessonsScreen.Alert.NoCredits.Button.OK.Title" = "";
+
+"Booking.BookedLessonsScreen.Alert.NoCredits.Message" = "";
+
+"Booking.BookedLessonsScreen.Alert.NoCredits.Title" = "";
+
+"Booking.BookedLessonsScreen.Alert.RescheduleLesson.Button.No.Title" = "";
+
+"Booking.BookedLessonsScreen.Alert.RescheduleLesson.Button.Yes.Title" = "";
+
+"Booking.BookedLessonsScreen.Alert.RescheduleLesson.Message" = "";
+
+"Booking.BookedLessonsScreen.Alert.RescheduleLesson.Title" = "";
+
+"Booking.BookedLessonsScreen.NavigationBar.Button.Edit.Title" = "";
+
+"Booking.BookedLessonsScreen.NavigationBar.Button.Finish.Title" = "";
+
+"Booking.BookedLessonsScreen.NavigationBar.Title" = "";
+
+"Booking.BookedLessonsScreen.ScheduleTableViewCell.NoScheduledLessons" = "";
+
+"Booking.BookedLessonsScreen.SegmentedControl.Booked" = "";
+
+"Booking.BookedLessonsScreen.SegmentedControl.History" = "";
+
+"Booking.BookingCompletedPopup.Button.OK.Title" = "";
+
+"Booking.BookingCompletedPopup.Label.Message.Text" = "";
+
+"Booking.BookingCompletedPopup.Title" = "";
+
+"Booking.BookingDoneBaseScreen.Button.BookAnotherLesson.Title" = "";
+
+"Booking.BookingDoneBaseScreen.Button.LessonGuidelines.Title" = "";
+
+"Booking.BookingDoneBaseScreen.Button.ToTeacherList.Title" = "";
+
+"Booking.BookingDoneScreen.Button.ReturnToChat.Title" = "";
+
+"Booking.BookingDoneScreen.Label.BookingComplete.Text" = "";
+
+"Booking.BookingDoneScreen.Label.RemainingTrialLessons.Text" = "";
+
+"Booking.CalendarScreen.Button.NextFiveDays.Title" = "";
+
+"Booking.CalendarScreen.Button.PreviousFiveDays.Title" = "";
+
+"Booking.CalendarScreen.Label.Date.Text" = "";
+
+"Booking.CalendarScreen.Label.Saturday.Text" = "";
+
+"Booking.CalendarScreen.Label.Sunday.Text" = "";
+
+"Booking.CalendarScreen.NavigationBar.Title" = "";
+
+"Booking.CalendarScreen.TableViewCell.CalendarRange.Label.Title.Text" = "";
+
+"Booking.CalendarScreen.TableViewCell.NoInternet.Label.SubTitle.Text" = "";
+
+"Booking.CalendarScreen.TableViewCell.NoInternet.Label.Title.Text" = "";
+
+"Booking.CalendarScreen.TableViewCell.NoLessons.Label.Title.Text" = "";
+
+"Booking.CancellationScreen.Alert.CouldNotCancelLesson.Message" = "";
+
+"Booking.CancellationScreen.Alert.CouldNotCancelLesson.Title" = "";
+
+"Booking.CancellationScreen.Alert.LessonNotAvailable.Title" = "";
+
+"Booking.Cell.BookALesson.Button.BookALesson.Title" = "";
+
+"Booking.ConfirmationBaseScreen.Alert.Button.OK.Title" = "";
+
+"Booking.ConfirmationBaseScreen.Alert.ConfirmationEmailSent.Message" = "";
+
+"Booking.ConfirmationBaseScreen.Alert.ConfirmationEmailSent.Title" = "";
+
+"Booking.ConfirmationBaseScreen.Alert.LessonNotAvailable.Title" = "";
+
+"Booking.DayController.SegmentedControl.Today" = "";
+
+"Booking.DetailScreen.Button.BookLesson.Title" = "";
+
+"Booking.DetailScreen.Button.GoToCalendar.Title" = "";
+
+"Booking.DetailScreen.Button.ReadMore.Title" = "";
+
+"Booking.DetailScreen.Label.IntroHeader.Text" = "";
+
+"Booking.DetailScreen.Label.VerifiedQualificationsHeader.Text" = "";
+
+"Booking.DetailScreen.NavigationBar.Title" = "";
+
+"Booking.Error.BillingError" = "";
+
+"Booking.Error.BillingError.Message" = "";
+
+"Booking.Error.BillingError.Title" = "";
+
+"Booking.Error.DailyLessonLimitIsReached" = "";
+
+"Booking.Error.LessonAlreadyBookedByAnother" = "";
+
+"Booking.Error.LessonAlreadyBookedBySelf" = "";
+
+"Booking.Error.LessonAlreadyBookedForSlot" = "";
+
+"Booking.Error.LessonAlreadyPassed" = "";
+
+"Booking.Error.LessonCancelled" = "";
+
+"Booking.Error.LessonNotAvailableAnymore" = "";
+
+"Booking.Error.LessonNotBookedByUser" = "";
+
+"Booking.Error.LessonsDoesNotExist" = "";
+
+"Booking.Error.LessonTooFarInTheFuture" = "";
+
+"Booking.Error.NewLessonAlreadyPassed" = "";
+
+"Booking.Error.NewLessonTooFarInTheFuture" = "";
+
+"Booking.Error.OldLessonAlreadyPassed" = "";
+
+"Booking.Error.OldLessonBookedByAnother" = "";
+
+"Booking.Error.PlanUnableToBook" = "";
+
+"Booking.Error.SubscriptionCancelled" = "";
+
+"Booking.Error.UnknownError" = "";
+
+"Booking.FilterScreen.Button.AdvancedDegree.Title" = "";
+
+"Booking.FilterScreen.Button.AgeHigh.Title" = "";
+
+"Booking.FilterScreen.Button.AgeLow.Title" = "";
+
+"Booking.FilterScreen.Button.AgeMiddle.Title" = "";
+
+"Booking.FilterScreen.Button.America.Title" = "";
+
+"Booking.FilterScreen.Button.BachelorDegree.Title" = "";
+
+"Booking.FilterScreen.Button.BeginnerExperienced.Title" = "";
+
+"Booking.FilterScreen.Button.BeginnerExpert.Title" = "";
+
+"Booking.FilterScreen.Button.BusinessEnglishExperienced.Title" = "";
+
+"Booking.FilterScreen.Button.BusinessEnglishExpert.Title" = "";
+
+"Booking.FilterScreen.Button.Female.Title" = "";
+
+"Booking.FilterScreen.Button.LocalLanguageBeginner.Title" = "";
+
+"Booking.FilterScreen.Button.LocalLanguageMid.Title" = "";
+
+"Booking.FilterScreen.Button.LocalLanguagePro.Title" = "";
+
+"Booking.FilterScreen.Button.Male.Title" = "";
+
+"Booking.FilterScreen.Button.OtherAccent.Title" = "";
+
+"Booking.FilterScreen.Button.TeachingCertificate.Title" = "";
+
+"Booking.FilterScreen.Button.TicketsHigh.Title" = "";
+
+"Booking.FilterScreen.Button.TicketsLow.Title" = "";
+
+"Booking.FilterScreen.Button.TicketsMiddle.Title" = "";
+
+"Booking.FilterScreen.Button.ToeflToeicExperienced.Title" = "";
+
+"Booking.FilterScreen.Button.ToeflToeicExpert.Title" = "";
+
+"Booking.FilterScreen.Button.UK.Title" = "";
+
+"Booking.FilterScreen.Label.Accent.Text" = "";
+
+"Booking.FilterScreen.Label.AccentSection.Text" = "";
+
+"Booking.FilterScreen.Label.Age.Text" = "";
+
+"Booking.FilterScreen.Label.Background.Text" = "";
+
+"Booking.FilterScreen.Label.Beginner.Text" = "";
+
+"Booking.FilterScreen.Label.BusinessEnglish.Text" = "";
+
+"Booking.FilterScreen.Label.Demographics.Text" = "";
+
+"Booking.FilterScreen.Label.Education.Text" = "";
+
+"Booking.FilterScreen.Label.Gender.Text" = "";
+
+"Booking.FilterScreen.Label.Japanese.Text" = "";
+
+"Booking.FilterScreen.Label.LessonPrice.Text" = "";
+
+"Booking.FilterScreen.Label.NativeEnglish.Text" = "";
+
+"Booking.FilterScreen.Label.No.Text" = "";
+
+"Booking.FilterScreen.Label.Specialty.Text" = "";
+
+"Booking.FilterScreen.Label.SpecialtyForBeginners.Text" = "";
+
+"Booking.FilterScreen.Label.Tickets.Text" = "";
+
+"Booking.FilterScreen.Label.ToeflToeic.Text" = "";
+
+"Booking.FilterScreen.Label.Yes.Text" = "";
+
+"Booking.HistoryTableViewScreen.NavigationBar.Title" = "";
+
+"Booking.LessonCancelledPopup.Button.Next.Title" = "";
+
+"Booking.LessonCancelledPopup.Label.CancellationByStudentDescription.Text" = "";
+
+"Booking.LessonCancelledPopup.Label.CancellationDoneTitle.Text" = "";
+
+"Booking.LessonCancelledPopup.Label.CancellationFailTitle.Text" = "";
+
+"Booking.LessonCancelledPopup.Label.CancellationNotByStudentDescription.Text" = "";
+
+"Booking.LessonCancelledPopup.Label.Refunded.Text" = "";
+
+"Booking.LessonHistoryScreen.Label.NoPastLesson" = "";
+
+"Booking.MainScreen.NavigationBar.Title" = "";
+
+"Booking.MainScreen.OnboardingCellTickets.SpeechBalloon.Text" = "";
+
+"Booking.MainScreen.PandaTip.HowToBookALesson.Button.Video.Title" = "";
+
+"Booking.MainScreen.PandaTip.HowToBookALesson.Text" = "";
+
+"Booking.MainScreen.PandaTip.Text1" = "";
+
+"Booking.MainScreen.PandaTip.Text2" = "";
+
+"Booking.MainScreen.PandaTip.Text3" = "";
+
+"Booking.MainScreen.PandaTip.Text4" = "";
+
+"Booking.OutOfCreditPopup.Button.Done.Title" = "";
+
+"Booking.OutOfCreditPopup.Button.Upgrade.Text" = "";
+
+"Booking.OutOfCreditPopup.Label.Description.Text" = "";
+
+"Booking.OutOfCreditPopup.Label.Title.Text" = "";
+
+"Booking.PopupBaseScreen.Button.Calendar.Title" = "";
+
+"Booking.PullDownAnimation.Label.Text" = "";
+
+"Booking.PushNotificationPopup.Button.AllowPush.Title" = "";
+
+"Booking.PushNotificationPopup.Button.DisallowPush.Title" = "";
+
+"Booking.PushNotificationPopup.Label.Message.Text" = "";
+
+"Booking.PushNotificationPopup.Title" = "";
+
+"Booking.QuestionnaireScreen.Alert.IncompleteRating.Button.Continue.Title" = "";
+
+"Booking.QuestionnaireScreen.Alert.IncompleteRating.Button.GoBackAndRate.Title" = "";
+
+"Booking.QuestionnaireScreen.Alert.IncompleteRating.Message.2ndLine" = "";
+
+"Booking.QuestionnaireScreen.Alert.IncompleteRating.Message.LessonAndTechnicalQualityNotRated" = "";
+
+"Booking.QuestionnaireScreen.Alert.IncompleteRating.Message.LessonQualityNotRated" = "";
+
+"Booking.QuestionnaireScreen.Alert.IncompleteRating.Message.TechnicalQualityNotRated" = "";
+
+"Booking.QuestionnaireScreen.Alert.IncompleteRating.Title" = "";
+
+"Booking.QuestionnaireScreen.Button.Submit.Title" = "";
+
+"Booking.QuestionnaireScreen.Label.BadReviewDetails.Text" = "";
+
+"Booking.QuestionnaireScreen.Label.Header.Text" = "";
+
+"Booking.QuestionnaireScreen.Label.LessonQuality.Text" = "";
+
+"Booking.QuestionnaireScreen.Label.TechnicalQuality.Text" = "";
+
+"Booking.QuestionnaireScreen.Rating.Amazing" = "";
+
+"Booking.QuestionnaireScreen.Rating.Average" = "";
+
+"Booking.QuestionnaireScreen.Rating.Awful" = "";
+
+"Booking.QuestionnaireScreen.Rating.Bad" = "";
+
+"Booking.QuestionnaireScreen.Rating.Good" = "";
+
+"Booking.ReferralPopup.Button.CopyLink.Title" = "";
+
+"Booking.ReferralPopup.Button.Others.Title" = "";
+
+"Booking.ReferralPopup.Button.ShareWithKakaoTalk.Title" = "";
+
+"Booking.ReferralPopup.Button.ShareWithLINE.Title" = "";
+
+"Booking.ReferralPopup.Label.Body.Text" = "";
+
+"Booking.ReferralPopup.Label.UpTo10Lessons.Text" = "";
+
+"Booking.RescheduleConfirmationScreen.Alert.NoCredits.Button.Cancel.Title" = "";
+
+"Booking.RescheduleConfirmationScreen.Alert.NoCredits.Button.OK.Title" = "";
+
+"Booking.RescheduleConfirmationScreen.Alert.NoCredits.Message" = "";
+
+"Booking.RescheduleConfirmationScreen.Alert.NoCredits.Title" = "";
+
+"Booking.RescheduleConfirmationScreen.Button.Confirmation.Title" = "";
+
+"Booking.RescheduleConfirmationScreen.NavigationBar.Title" = "";
+
+"Booking.RescheduleDoneScreen.Label.Title.Text" = "";
+
+"Booking.TeacherAttributesScreen.Button.Dismiss.Title" = "";
+
+"Booking.TeacherFilterScreen.Button.ApplyFilters.Title" = "";
+
+"Booking.TeacherFilterScreen.Button.Cancel.Title" = "";
+
+"Booking.TeacherFilterScreen.Button.ResetFilters.Title" = "";
+
+"Booking.TeacherFilterScreen.NavigationBar.Title" = "";
+
+"Booking.TeacherListScreen.Cell.FilterYieldedNoResults.Button.Title" = "";
+
+"Booking.TeacherListScreen.Cell.FilterYieldedNoResults.Label.SubTitle.Text" = "";
+
+"Booking.TeacherListScreen.Cell.FilterYieldedNoResults.Label.Title.Text" = "";
+
+"Booking.TeacherListScreen.Cell.NoData.Label.Title.Text" = "";
+
+"Booking.TeacherListScreen.Cell.NoInternet.Label.SubTitle.Text" = "";
+
+"Booking.TeacherListScreen.Cell.NoInternet.Label.Title.Text" = "";
+
+"Booking.TeacherListScreen.Cell.NoServerResponse.Label.SubTitle.Text" = "";
+
+"Booking.TeacherListScreen.Cell.NoServerResponse.Label.Title.Text" = "";
+
+"Booking.TeacherListScreen.DetailView.AttributeTitle.Accent" = "";
+
+"Booking.TeacherListScreen.DetailView.AttributeTitle.BusinessEnglish" = "";
+
+"Booking.TeacherListScreen.DetailView.AttributeTitle.Education" = "";
+
+"Booking.TeacherListScreen.DetailView.AttributeTitle.Japanese" = "";
+
+"Booking.TeacherListScreen.DetailView.AttributeTitle.ToeicToefl" = "";
+
+"Booking.TeacherListScreen.FilterButtonPandaTip.Label.Title" = "";
+
+"Booking.TeacherListScreen.Label.AddFilters.Text" = "";
+
+"Booking.TeacherListScreen.NavigationBar.Label.LessonSchedule.Text" = "";
+
+"Booking.TeacherListScreen.PandaInfoButtonTip.Label.Title" = "";
+
+"Booking.TeacherListScreen.TableViewCell.NoData.Label.Title.Text" = "";
+
+"Booking.TeacherListScreen.TeacherCell.CountryInfo.Title" = "";
+
+"Booking.TeacherListScreen.TeacherCell.HobbiesInfo.Title" = "";
+
+"Booking.TeacherListScreen.TeacherCell.Introduction.Title" = "";
+
+"Booking.TeacherListScreen.TeacherCell.NativeAccent.Title" = "";
+
+"Booking.TeacherListScreen.TeacherCell.PickTimeButton.Title" = "";
+
+"Booking.TeacherListScreen.TeacherCell.SpecialtiesInfo.Title" = "";
+
+"Booking.TeacherListScreen.TeacherCell.VideoButton.Title" = "";
+
+"Booking.TeacherListScreen.View.Credit.Label.Title.Text" = "";
+
+"Booking.TeacherListScreen.View.MiniLessons.Label.NextLessons.Text" = "";
+
+"Booking.TeacherListScreenDetailView.AttributeTitle.Beginner" = "";
+
+"Booking.TicketsExplanationScreen.Button.Book.Title" = "";
+
+"Booking.TicketsExplanationScreen.Label.TicketsExplanation.Text" = "";
+
+"Booking.TicketsExplanationScreen.NavigationBar.Title" = "";
+
+"Categories.Alert.Common.Button.OK.Title" = "";
+
+"Categories.DateUnits.ShortApril" = "";
+
+"Categories.DateUnits.ShortAugust" = "";
+
+"Categories.DateUnits.ShortDateAndDayFormat" = "";
+
+"Categories.DateUnits.ShortDecember" = "";
+
+"Categories.DateUnits.ShortFebruary" = "";
+
+"Categories.DateUnits.ShortFriday" = "";
+
+"Categories.DateUnits.ShortJanuary" = "";
+
+"Categories.DateUnits.ShortJuly" = "";
+
+"Categories.DateUnits.ShortJune" = "";
+
+"Categories.DateUnits.ShortMarch" = "";
+
+"Categories.DateUnits.ShortMay" = "";
+
+"Categories.DateUnits.ShortMonday" = "";
+
+"Categories.DateUnits.ShortNovember" = "";
+
+"Categories.DateUnits.ShortOctober" = "";
+
+"Categories.DateUnits.ShortSaturday" = "";
+
+"Categories.DateUnits.ShortSeptember" = "";
+
+"Categories.DateUnits.ShortSunday" = "";
+
+"Categories.DateUnits.ShortThursday" = "";
+
+"Categories.DateUnits.ShortTuesday" = "";
+
+"Categories.DateUnits.ShortWednesday" = "";
+
+"Chat.ChatScreen.TextField.Message.Placeholder" = "";
+
+"Chat.ImageViewScreen.Alert.ImageSaveError.Message" = "";
+
+"Chat.ImageViewScreen.Alert.ImageSaveError.Title" = "";
+
+"Chat.ImageViewScreen.Label.PhotoSaved.Text" = "";
+
+"Chat.OutOfLessonChatScreen.Alert.NoLeadTeacher.Message" = "";
+
+"Chat.OutOfLessonChatScreen.Alert.NoLeadTeacher.Title" = "";
+
+"Chat.OutOfLessonChatScreen.Button.FinishOnboarding.Title" = "";
+
+"Chat.OutOfLessonChatScreen.Button.FinishOnboardingWithShouldRecommendTeachers.Title" = "";
+
+"Chat.OutOfLessonChatScreen.Label.LeadTeacher.Text" = "";
+
+"Corespotlight.Keywords.English" = "";
+
+"Curriculum.PopupScreen.Button.Continue.Title" = "";
+
+"Debug.LocalNotificationDebugScreen.NavigationBar.Title" = "";
+
+"Flashcards.Alert.LeaveDiagnosticTest.Button.Cancel" = "";
+
+"Flashcards.Alert.LeaveDiagnosticTest.Button.OK" = "";
+
+"Flashcards.Alert.LeaveDiagnosticTest.Message" = "";
+
+"Flashcards.Alert.LeaveDiagnosticTest.Title" = "";
+
+"Flashcards.Alert.LeaveReviewSession.Button.Cancel" = "";
+
+"Flashcards.Alert.LeaveReviewSession.Button.OK" = "";
+
+"Flashcards.Alert.LeaveReviewSession.Message" = "";
+
+"Flashcards.Alert.LeaveReviewSession.Title" = "";
+
+"Flashcards.Alert.RemoveFlashcard.Button.Cancel" = "";
+
+"Flashcards.Alert.RemoveFlashcard.Button.OK" = "";
+
+"Flashcards.Alert.RemoveFlashcard.Message" = "";
+
+"Flashcards.Alert.RemoveFlashcard.Title" = "";
+
+"Flashcards.CardScreen.Label.Explanation.Text" = "";
+
+"Flashcards.CardScreen.Label.Usage.Text" = "";
+
+"Flashcards.CardScreen.MemorizationScore.Button.DontKnow.Title" = "";
+
+"Flashcards.CardScreen.MemorizationScore.Button.Good.Title" = "";
+
+"Flashcards.CardScreen.MemorizationScore.Button.Memorized.Title" = "";
+
+"Flashcards.CardScreen.MemorizationScore.Button.SoAndSo.Title" = "";
+
+"Flashcards.CardScreen.NavigationBar.RightBarItem.Text" = "";
+
+"Flashcards.DiagnosticTestResultsScreen.Label.Total.Text" = "";
+
+"Flashcards.DiagnosticTestResultsScreen.Label.YourAnswers.Text" = "";
+
+"Flashcards.DiagnosticTestResultsScreen.NavigationBar.Title" = "";
+
+"Flashcards.LocalNotificationManager.LocalNotification.alertBody" = "";
+
+"Flashcards.Popup.ChatWordsAdded.Button.OK.Text" = "";
+
+"Flashcards.Popup.ChatWordsAdded.Label.Description.Text" = "";
+
+"Flashcards.Popup.ChatWordsAdded.Label.Title.Text" = "";
+
+"Flashcards.Popup.ContinueDiagnosticTest.Button.OK.Title" = "";
+
+"Flashcards.Popup.ContinueDiagnosticTest.Label.Description.Text" = "";
+
+"Flashcards.Popup.ContinueDiagnosticTest.Label.Title.Text" = "";
+
+"Flashcards.Popup.DiagnosticTestDoneNonPayingUser.Button.OK.Title" = "";
+
+"Flashcards.Popup.DiagnosticTestDoneNonPayingUser.Label.Description.Text" = "";
+
+"Flashcards.Popup.DiagnosticTestDoneNonPayingUser.Label.Title.Text" = "";
+
+"Flashcards.Popup.DiagnosticTestDonePayingUser.Button.OK.Title" = "";
+
+"Flashcards.Popup.DiagnosticTestDonePayingUser.Label.Description.Text" = "";
+
+"Flashcards.Popup.DiagnosticTestDonePayingUser.Label.Title.Text" = "";
+
+"Flashcards.Popup.Results.Button.Close.Title" = "";
+
+"Flashcards.Popup.Results.Button.OK.Title" = "";
+
+"Flashcards.Popup.Results.Label.Description.Text" = "";
+
+"Flashcards.Popup.Results.Label.Title.Text" = "";
+
+"Flashcards.Popup.ReviewDone.Button.OK.Title" = "";
+
+"Flashcards.Popup.ReviewDone.Label.Description.Text" = "";
+
+"Flashcards.Popup.ReviewDone.Label.Title.Text" = "";
+
+"Flashcards.Popup.TestFinishedEarly.Label.Description.Text" = "";
+
+"Flashcards.Popup.TestFinishedEarly.Label.Title.Text" = "";
+
+"Flashcards.Popup.TestFinishedEarly.NonPayingUser.Label.Description.Text" = "";
+
+"Flashcards.Popup.TestFinishedEarly.PayingUser.Button.OK.Title" = "";
+
+"Flashcards.Popup.TestFinishedEarly.PayingUser.Label.Description.Text" = "";
+
+"Flashcards.Popup.TextbookWordsAdded.Button.OK.Text" = "";
+
+"Flashcards.Popup.TextbookWordsAdded.Label.Description.Text" = "";
+
+"Flashcards.Popup.TextbookWordsAdded.Label.Title.Text" = "";
+
+"Flashcards.Popup.TimeToReviewFlashcards.Button.OK.Title" = "";
+
+"Flashcards.Popup.TimeToReviewFlashcards.Label.Description.Text" = "";
+
+"Flashcards.Popup.TimeToReviewFlashcards.Label.Title.Text" = "";
+
+"Flashcards.Popup.WelcomeToFlashcards.Button.OK.Title" = "";
+
+"Flashcards.Popup.WelcomeToFlashcards.Label.Description.Text" = "";
+
+"Flashcards.Popup.WelcomeToFlashcards.Label.Title.Text" = "";
+
+"Flashcards.ProgressScreen.Animation.GreatJob.Label.Text" = "";
+
+"Flashcards.ProgressScreen.Button.EditDailyReminders.Title" = "";
+
+"Flashcards.ProgressScreen.Button.ReviewNewWords.Title.Line1" = "";
+
+"Flashcards.ProgressScreen.Button.ReviewNewWords.Title.Line2" = "";
+
+"Flashcards.ProgressScreen.Button.SetGoal.Title" = "";
+
+"Flashcards.ProgressScreen.Button.ShowMemorizedWords.Title" = "";
+
+"Flashcards.ProgressScreen.Button.ShowResult.Title" = "";
+
+"Flashcards.ProgressScreen.Label.DailyRemindersOff.Text" = "";
+
+"Flashcards.ProgressScreen.Label.DailyRemindersOn.Text" = "";
+
+"Flashcards.ProgressScreen.Label.MemorizedWords.Text" = "";
+
+"Flashcards.ProgressScreen.Label.WeeklyProgress.Text" = "";
+
+"Flashcards.ProgressScreen.Label.WordsToReviewPerDay.Text" = "";
+
+"Flashcards.ProgressScreen.MemorizationScoreSection.Label.Good.Text" = "";
+
+"Flashcards.ProgressScreen.MemorizationScoreSection.Label.Memorized.Text" = "";
+
+"Flashcards.ProgressScreen.MemorizationScoreSection.Label.SoAndSo.Text" = "";
+
+"Flashcards.ProgressScreen.MemorizationScoreSection.Label.Unstarted.Text" = "";
+
+"Flashcards.ProgressScreen.WeeklyProgressSection.Label.Today" = "";
+
+"Flashcards.SetGoalScreen.Button.OK.Title" = "";
+
+"Flashcards.SetGoalScreen.Label.DailyReminders.Text" = "";
+
+"Flashcards.SetGoalScreen.Label.MaximumWordsPerReview.Text" = "";
+
+"Flashcards.SetGoalScreen.Label.Title.Text" = "";
+
+"Flashcards.SetGoalScreen.Label.WordsToReviewPerDay.Text" = "";
+
+"Flashcards.WordListScreen.NavigationBar.Title" = "";
+
+"Flashcards.WordListScreen.Tab.All.Title" = "";
+
+"Managers.FontManagers.FontName.Bold" = "";
+
+"Managers.FontManagers.FontName.Regular" = "";
+
+"Managers.ForcedUpgrade.Alert.ShutDown.Button.OK.Title" = "";
+
+"Managers.ForcedUpgrade.Alert.ShutDown.Message" = "";
+
+"Managers.ForcedUpgrade.Alert.ShutDown.Title" = "";
+
+"Managers.ForcedUpgrade.Label.ShuttingDown.Text" = "";
+
+"Managers.ICal.Alert.AddEventError.Message" = "";
+
+"Managers.ICal.Alert.AddEventError.Title" = "";
+
+"Managers.ICal.Alert.IfLessonShouldBeAdded.Button.No.Title" = "";
+
+"Managers.ICal.Alert.IfLessonShouldBeAdded.Button.Yes.Title" = "";
+
+"Managers.ICal.Alert.IfLessonShouldBeAdded.Message" = "";
+
+"Managers.ICal.Alert.IfLessonShouldBeAdded.Title" = "";
+
+"Managers.ICal.Alert.RemoveEventError.Message" = "";
+
+"Managers.ICal.Alert.RemoveEventError.Title" = "";
+
+"Managers.ICal.Event.Lesson.Title.WithTeacherName" = "";
+
+"Managers.LessonManager.Alert.CannotGetVideoCallInformation.Message" = "";
+
+"Managers.LessonManager.Alert.CannotGetVideoCallInformation.Title" = "";
+
+"Managers.LessonManager.Alert.LessonEnded.Message" = "";
+
+"Managers.LessonManager.Alert.LessonEnded.Title" = "";
+
+"Managers.LocalNotificationManager.LocalNotification.1WeekNotification.alertBody" = "";
+
+"Managers.LocalNotificationManager.LocalNotification.2DaysNotification.alertBody" = "";
+
+"Managers.LocalNotificationManager.LocalNotification.2WeekNotification.alertBody" = "";
+
+"Managers.LocalNotificationManager.LocalNotification.4DaysNotification.alertBody" = "";
+
+"Managers.LocalNotificationManager.LocalNotification.BookReminder.alertBody" = "";
+
+"Managers.NavigationManager.Alert.AccountReset.Message" = "";
+
+"Managers.NavigationManager.Alert.AccountReset.Title" = "";
+
+"Managers.NavigationManager.Alert.UserLoggedOut.Message" = "";
+
+"Managers.NavigationManager.Alert.UserLoggedOut.Title" = "";
+
+"Managers.PushNotificationManager.Alert.EnablePushNotifications.Message" = "";
+
+"Managers.PushNotificationManager.Alert.EnablePushNotifications.Title" = "";
+
+"MediaURLCell.Error.FailedToDownload" = "";
+
+"Navigation.NavigationManager.Alert.ServerDown.Button.OK.Title" = "";
+
+"Navigation.NavigationManager.Alert.ServerDown.Message" = "";
+
+"Navigation.NavigationManager.Alert.ServerDown.Title" = "";
+
+"Onboarding.BaseScreen.Button.Login.Title" = "";
+
+"Onboarding.BaseScreen.Button.Skip.Title" = "";
+
+"Onboarding.Discount100Tickets.Label.Description.Text" = "";
+
+"Onboarding.Discount100Tickets.Label.Header.Text" = "";
+
+"Onboarding.Discount1MonthFree.Label.Description.Text" = "";
+
+"Onboarding.DiscountBase.Button.Next.Title" = "";
+
+"Onboarding.NameInputScreen.Label.NotInEnglish.Text" = "";
+
+"Onboarding.OnboardingPagingScreen.Label.FirstTitle.Text" = "";
+
+"Onboarding.OnboardingPagingScreen.Label.SecondTitle.Text" = "";
+
+"Onboarding.OnboardingPagingScreen.Label.ThirdTitle.Text" = "";
+
+"Onboarding.OnboardingPagingScreen.SwipeIndicator.SwipeLeft" = "";
+
+"Onboarding.PushNotificationOnboardingScreen.Button.Yes.Title" = "";
+
+"Onboarding.PushNotificationOnboardingScreen.Label.FirstLine.Text" = "";
+
+"Onboarding.PushNotificationOnboardingScreen.Label.Question.Text" = "";
+
+"Onboarding.PushNotificationOnboardingScreen.Label.SecondLine.Text" = "";
+
+"Onboarding.StructuredQuestionEnglishLevel.Button.Option1.Title" = "";
+
+"Onboarding.StructuredQuestionEnglishLevel.Button.Option2.Title" = "";
+
+"Onboarding.StructuredQuestionEnglishLevel.Button.Option3.Title" = "";
+
+"Onboarding.StructuredQuestionEnglishLevel.Label.Header.Text" = "";
+
+"Onboarding.StructuredQuestionGoal.Button.Option1.Title" = "";
+
+"Onboarding.StructuredQuestionGoal.Button.Option2.Title" = "";
+
+"Onboarding.StructuredQuestionGoal.Button.Option3.Title" = "";
+
+"Onboarding.StructuredQuestionGoal.Label.DescribeYourGoal.Text" = "";
+
+"Onboarding.StructuredQuestionGoal.Label.Header.Text" = "";
+
+"Onboarding.StructuredQuestionProfession.Button.Option1.Title" = "";
+
+"Onboarding.StructuredQuestionProfession.Button.Option2.Title" = "";
+
+"Onboarding.StructuredQuestionProfession.Button.Option3.Title" = "";
+
+"Onboarding.StructuredQuestionProfession.Label.Header.Text" = "";
+
+"Onboarding.StructuredQuestionsScreen.Button.Login.Title" = "";
+
+"Onboarding.TextInputScreen.Button.Submit.Title" = "";
+
+"Onboarding.TextQuestionsEmailScreen.Button.Skip.Title" = "";
+
+"Onboarding.TextQuestionsEmailScreen.Label.Header.Text" = "";
+
+"Onboarding.TextQuestionsEmailScreen.Label.InvalidEmail.Text" = "";
+
+"Onboarding.TextQuestionsFirstNameScreen.Label.Header.Text" = "";
+
+"Onboarding.TextQuestionsFirstNameScreen.Label.NotInEnglish.Text" = "";
+
+"Onboarding.TextQuestionsLastNameScreen.Label.Header.Text" = "";
+
+"Onboarding.TextQuestionsLastNameScreen.Label.NotInEnglish.Text" = "";
+
+"OnboardingPopups.DaysLeftForFreeTrialScreen.Button.Done.Title" = "";
+
+"OnboardingPopups.DaysLeftForFreeTrialScreen.Label.Body.Text" = "";
+
+"OnboardingPopups.DaysLeftForFreeTrialScreen.Label.Title.Text" = "";
+
+"OnboardingPopups.FreeTrialExpiredPopup.Button.Done.Title" = "";
+
+"OnboardingPopups.FreeTrialExpiredPopup.Label.Description.Text" = "";
+
+"OnboardingPopups.FreeTrialExpiredPopup.Label.Title.Text" = "";
+
+"OnboardingPopups.GetTicketsPopup.Button.Receive.Title" = "";
+
+"OnboardingPopups.GetTicketsPopup.Label.Description.Text" = "";
+
+"OnboardingPopups.GetTicketsPopup.Label.Title.Text" = "";
+
+"OnboardingPopups.LabelConstructor.Button.Next.Title" = "";
+
+"OnboardingPopups.LabelConstructor.Label.TapToContinue.Text" = "";
+
+"OnboardingPopups.TutorialDoneScreen.Button.Done.Title" = "";
+
+"OnboardingPopups.TutorialDoneScreen.Label.Description.Text" = "";
+
+"OnboardingPopups.TutorialDoneScreen.Label.Title.Text" = "";
+
+"PostLesson.ReferralPopup.Button.Close.Title" = "";
+
+"PostLesson.ReferralPopup.Button.DoNotShowAgain.Title" = "";
+
+"PostLesson.ReferralPopup.Button.Refer.Title" = "";
+
+"PostLesson.ReferralPopup.Label.Banner.Text" = "";
+
+"QuickActionManager.ShortcutItem.Chat.Title" = "";
+
+"QuickActionManager.ShortcutItem.Schedule.Title" = "";
+
+"ReferralManager.Alert.ReferralLinkCopiedToClipboard.Message" = "";
+
+"ReferralManager.Alert.ReferralLinkCopiedToClipboard.Title" = "";
+
+"SearchableItem.TeacherNameFormat" = "";
+
+"Setting.QASettingScreen.NavigationBar.Title" = "";
+
+"Settings.EditProfileScreen.NavigationBar.Title" = "";
+
+"Subscription.AboutCreditsPopup.Button.Done.Title" = "";
+
+"Subscription.AboutCreditsPopup.Label.Message.Text" = "";
+
+"Subscription.AboutCreditsPopup.Title" = "";
+
+"Subscription.Alert.BackToOriginalPlan.Message" = "";
+
+"Subscription.Alert.BackToOriginalPlan.Title" = "";
+
+"Subscription.Alert.CanceledMembership.Message" = "";
+
+"Subscription.Alert.CanceledMembership.Title" = "";
+
+"Subscription.Alert.CouldNotFindPlan.Message" = "";
+
+"Subscription.Alert.CouldNotFindPlan.Title" = "";
+
+"Subscription.Alert.CouldNotGetCreditCard.Message" = "";
+
+"Subscription.Alert.CouldNotGetCreditCard.Title" = "";
+
+"Subscription.Alert.CouldNotGetPlans.Message" = "";
+
+"Subscription.Alert.CouldNotGetPlans.Title" = "";
+
+"Subscription.Alert.CouldNotGetSubscription.Message" = "";
+
+"Subscription.Alert.CouldNotGetSubscription.Title" = "";
+
+"Subscription.Alert.CouldNotGetUpdateInfo.Message" = "";
+
+"Subscription.Alert.CouldNotGetUpdateInfo.Title" = "";
+
+"Subscription.Alert.CouldNotSubscribePlans.Message" = "";
+
+"Subscription.Alert.CouldNotSubscribePlans.Title" = "";
+
+"Subscription.Alert.CreditCardRegistrationError.Message" = "";
+
+"Subscription.Alert.CreditCardRegistrationError.Title" = "";
+
+"Subscription.Alert.NotSupportedCreditCard.Message" = "";
+
+"Subscription.Alert.PaymentDeclinedGeneral.Message" = "";
+
+"Subscription.Alert.PaymentDidNotWork.Button.ContactSupport.Title" = "";
+
+"Subscription.Alert.PaymentDidNotWork.Button.OK.Title" = "";
+
+"Subscription.Alert.PaymentDidNotWork.Message" = "";
+
+"Subscription.Alert.PaymentError.Title" = "";
+
+"Subscription.Alert.PlanCancellationError.Message" = "";
+
+"Subscription.Alert.PlanCancellationError.Title" = "";
+
+"Subscription.Alert.PlanCancellationFailed.Message" = "";
+
+"Subscription.Alert.PlanCancellationFailed.Title" = "";
+
+"Subscription.Alert.PlanSubscriptionNotExist.Message" = "";
+
+"Subscription.Alert.PlanSubscriptionNotExist.Title" = "";
+
+"Subscription.Alert.PremiumCreditBundleBuyFailed.Message" = "";
+
+"Subscription.Alert.PremiumCreditBundleBuyFailed.Title" = "";
+
+"Subscription.Alert.TrialPeriodPlanCancelConfirmation.Button.No.Title" = "";
+
+"Subscription.Alert.TrialPeriodPlanCancelConfirmation.Button.Yes.Title" = "";
+
+"Subscription.Alert.TrialPeriodPlanCancelConfirmation.Message" = "";
+
+"Subscription.Alert.TrialPeriodPlanCancelConfirmation.Title" = "";
+
+"Subscription.Alert.UnlimitedPlan.Message" = "";
+
+"Subscription.Alert.UnlimitedPlan.Title" = "";
+
+"Subscription.Alert.UnsupportedCreditCardTypeError.Message" = "";
+
+"Subscription.Alert.UnsupportedCreditCardTypeError.Title" = "";
+
+"Subscription.CancellationQuestionnairePopup.Button.Cancel.Title" = "";
+
+"Subscription.CancellationQuestionnairePopup.Button.Confirm.Title" = "";
+
+"Subscription.CancellationQuestionnairePopup.Label.BadQuality.Text" = "";
+
+"Subscription.CancellationQuestionnairePopup.Label.LostInterestInEnglish.Text" = "";
+
+"Subscription.CancellationQuestionnairePopup.Label.MultipleChoice.Text" = "";
+
+"Subscription.CancellationQuestionnairePopup.Label.NoGoodTeacher.Text" = "";
+
+"Subscription.CancellationQuestionnairePopup.Label.OtherReasons.Text" = "";
+
+"Subscription.CancellationQuestionnairePopup.Label.Price.Text" = "";
+
+"Subscription.CancellationQuestionnairePopup.Label.ThankYou.Text" = "";
+
+"Subscription.CancellationQuestionnairePopup.Label.Title.Text" = "";
+
+"Subscription.CancellationQuestionnairePopup.Placeholder.OtherReasons.Text" = "";
+
+"Subscription.CreditCardChangeDoneScreen.Button.Next.Title" = "";
+
+"Subscription.CreditCardChangeDoneScreen.Label.Description.Text" = "";
+
+"Subscription.CreditCardChangeDoneScreen.Label.Title.Text" = "";
+
+"Subscription.CreditCardChangeDoneScreen.NavigationBar.Title" = "";
+
+"Subscription.CreditCardChangeScreen.Button.Register.Text" = "";
+
+"Subscription.CreditCardChangeScreen.NavigationBar.Title" = "";
+
+"Subscription.CreditCardInfoScreen.Button.Change.Title" = "";
+
+"Subscription.CreditCardInfoScreen.NavigationBar.Title" = "";
+
+"Subscription.CreditCardInputScreen.Alert.CreditCardError.Message.CardNumberInvalid" = "";
+
+"Subscription.CreditCardInputScreen.Alert.CreditCardError.Message.CardNumberShort" = "";
+
+"Subscription.CreditCardInputScreen.Alert.CreditCardError.Message.CVVShort" = "";
+
+"Subscription.CreditCardInputScreen.Alert.CreditCardError.Message.ExpirationDatePast" = "";
+
+"Subscription.CreditCardInputScreen.Alert.CreditCardError.Message.NoCVV" = "";
+
+"Subscription.CreditCardInputScreen.Alert.CreditCardError.Message.NoError" = "";
+
+"Subscription.CreditCardInputScreen.Alert.CreditCardError.Message.NoExpirationDate" = "";
+
+"Subscription.CreditCardInputScreen.Button.CreditCardScan.Title" = "";
+
+"Subscription.CreditsCardChangeScreen.Alert.CreditsCardAlreadyRegistered.Message" = "";
+
+"Subscription.CreditsCardChangeScreen.Alert.CreditsCardAlreadyRegistered.Title" = "";
+
+"Subscription.CreditsCardChangeScreen.Alert.CreditsCardError.Title" = "";
+
+"Subscription.CreditsCardChangeScreen.Alert.NotFindPlan.Message" = "";
+
+"Subscription.CreditsCardChangeScreen.Alert.NotFindPlan.Title" = "";
+
+"Subscription.LongTermPlanSelectHTMLScreen.NavigationBar.Title" = "";
+
+"Subscription.PaymentDoneBaseScreen.Button.Next.Title" = "";
+
+"Subscription.PaymentHistoryScreen.NavigationBar.Title" = "";
+
+"Subscription.PlanCancellationScreen.Button.CancelPlan.Title" = "";
+
+"Subscription.PlanCancellationScreen.Button.StopCancellation.Title" = "";
+
+"Subscription.PlanCancellationScreen.Label.CancellationDate.Text" = "";
+
+"Subscription.PlanCancellationScreen.Label.CurrentPlan.Text" = "";
+
+"Subscription.PlanCancellationScreen.Label.PerMonth.Text" = "";
+
+"Subscription.PlanChangeBaseScreen.Label.CurrentPlan.Text" = "";
+
+"Subscription.PlanChangeCancellationScreen.Button.ConfirmCancellation.Title" = "";
+
+"Subscription.PlanChangeCancellationScreen.Label.Cancellation.Text" = "";
+
+"Subscription.PlanChangeCancellationScreen.Label.CancellationDescription.Text" = "";
+
+"Subscription.PlanChangeCancellationScreen.Label.TrialPeriodCancellationDescription.Text" = "";
+
+"Subscription.PlanChangeCancellationScreen.NavigationBar.Title" = "";
+
+"Subscription.PlanChangeDowngradeDoneScreen.Button.Next.Title" = "";
+
+"Subscription.PlanChangeDowngradeDoneScreen.Label.EmailSentInfo.Text" = "";
+
+"Subscription.PlanChangeDowngradeDoneScreen.Label.PlanDate.Text" = "";
+
+"Subscription.PlanChangeDowngradeDoneScreen.NavigationBar.Title" = "";
+
+"Subscription.PlanChangeDowngradeScreen.Button.ChangePlan.Title" = "";
+
+"Subscription.PlanChangeDowngradeScreen.Label.NextPlanDescription.Text" = "";
+
+"Subscription.PlanChangeDowngradeScreen.NavigationBar.Title" = "";
+
+"Subscription.PlanChangeUpgradeDoneScreen.Button.Next.Title" = "";
+
+"Subscription.PlanChangeUpgradeDoneScreen.Label.Credits.Text" = "";
+
+"Subscription.PlanChangeUpgradeDoneScreen.Label.EmailSent.Text" = "";
+
+"Subscription.PlanChangeUpgradeDoneScreen.NavigationBar.Title" = "";
+
+"Subscription.PlanChangeUpgradeScreen.Button.ChangePlan.Title" = "";
+
+"Subscription.PlanChangeUpgradeScreen.Label.NextPlanDescription.Text" = "";
+
+"Subscription.PlanChangeUpgradeScreen.NavigationBar.Title" = "";
+
+"Subscription.PlanDetailCoursePeriodCell.CoursePeriodDetail" = "";
+
+"Subscription.PlanDetailCoursePeriodCell.CoursePeriodTitle" = "";
+
+"Subscription.PlanDetailCurrentCreditsCell.Credits" = "";
+
+"Subscription.PlanDetailCurrentCreditsCell.CurrentCredits" = "";
+
+"Subscription.PlanDetailDowngradeStartDateCell.PlanStarts" = "";
+
+"Subscription.PlanDetailNextRefillDateCell.NextRefillDate" = "";
+
+"Subscription.PlanDetailNextRefillDateCell.NextRefillDateDetail" = "";
+
+"Subscription.PlanDetailPlanCancellationDateCell.CancellationDate" = "";
+
+"Subscription.PlanDetailPlanCreditsCell.PerMonthCredits" = "";
+
+"Subscription.PlanDetailPlanCreditsCell.PlanCredits" = "";
+
+"Subscription.PlanDetailPlanEndDateCell.ExpirationDate" = "";
+
+"Subscription.PlanDetailPlanEndDateCell.NextDueDate" = "";
+
+"Subscription.PlanDetailPlanEndDateCell.PaymentFailed" = "";
+
+"Subscription.PlanDetailPlanFreeTrialEndDateCell.FreeTrialEndDate" = "";
+
+"Subscription.PlanDetailPlanNameCell.FreeTrial" = "";
+
+"Subscription.PlanDetailPlanNameCell.FreeTrialEnded" = "";
+
+"Subscription.PlanDetailPlanNameCell.Invalid" = "";
+
+"Subscription.PlanDetailPlanNameCell.PerMonth" = "";
+
+"Subscription.PlanDetailPlanNameCell.Plan" = "";
+
+"Subscription.PlanDetailPlanNameCell.UnlimitedPlanName" = "";
+
+"Subscription.PlanDetailPlanPriceCell.ChargeAmount" = "";
+
+"Subscription.PlanDetailPlanPriceCell.MonthlyPrice" = "";
+
+"Subscription.PlanDetailPlanRenewDateCell.NextRenewalDate" = "";
+
+"Subscription.PlanDetailPremiumCreditsCell.PremiumCredits" = "";
+
+"Subscription.PlanDetailPremiumCreditsCell.Title" = "";
+
+"Subscription.PlanDetailPremiumCreditsExpirationDateCell.ExpirationDate" = "";
+
+"Subscription.PlanDetailPremiumCreditsExpirationDateCell.Title" = "";
+
+"Subscription.PlanDetailTicketsMonthCell.TicketsPerMonthDetail" = "";
+
+"Subscription.PlanDetailTicketsMonthCell.TicketsPerMonthTitle" = "";
+
+"Subscription.PlanDurationSelectHTMLScreen.NavigationBar.RightButton.Title" = "";
+
+"Subscription.PlanDurationSelectHTMLScreen.NavigationBar.Title" = "";
+
+"Subscription.PlanHTMLScreen.NavigationBarItem.LeftButton.Title" = "";
+
+"Subscription.PlanPaymentApplePayScreen.Button.UseCreditCard.Title" = "";
+
+"Subscription.PlanPaymentCreditCardScreen.Alert.CreditCardError.Title" = "";
+
+"Subscription.PlanPaymentCreditCardScreen.Button.Pay.Title" = "";
+
+"Subscription.PlanPaymentCreditCardScreen.Button.StartMyFreeTrial.Title" = "";
+
+"Subscription.PlanPaymentCreditCardScreen.Button.UseApplePay.Title" = "";
+
+"Subscription.PlanPaymentCreditCardScreen.Label.LongTermPlanCancellation.Text" = "";
+
+"Subscription.PlanPaymentCreditCardScreen.Label.MonthlyPlanNameFormat" = "";
+
+"Subscription.PlanPaymentCreditCardScreen.Label.MontlhyPlanCancellation.Text" = "";
+
+"Subscription.PlanPaymentCreditCardScreen.Label.RefundDescription.Title" = "";
+
+"Subscription.PlanPaymentCreditCardScreen.NavigationBar.Title" = "";
+
+"Subscription.PlanPaymentDoneLongTermScreen.Button.Next.Title" = "";
+
+"Subscription.PlanPaymentDoneLongTermScreen.Line2Label.Text" = "";
+
+"Subscription.PlanPaymentDoneLongTermScreen.Line3LabelDetail.Text" = "";
+
+"Subscription.PlanPaymentDoneLongTermScreen.Line3LabelTitle.Text" = "";
+
+"Subscription.PlanPaymentDoneLongTermScreen.Line3LabelTrial.Text" = "";
+
+"Subscription.PlanPaymentDoneScreen.Button.Next.Title" = "";
+
+"Subscription.PlanPaymentDoneScreen.Line1Label.Text" = "";
+
+"Subscription.PlanPaymentDoneScreen.Line2Label.Text" = "";
+
+"Subscription.PlanPaymentDoneScreen.Line3Label.Text" = "";
+
+"Subscription.PlanPaymentDoneScreen.NavigationBar.Title" = "";
+
+"Subscription.PlanSelectHTMLScreen.NavigationBar.RightButton.Title" = "";
+
+"Subscription.PlanSelectHTMLScreen.NavigationBar.Title" = "";
+
+"Subscription.PlanSelectScreen.Button.PlanDetails.Title" = "";
+
+"Subscription.PlanSelectScreen.NavigationBar.Title" = "";
+
+"Subscription.PlanStatusBaseScreen.Button.ChangePlan.Title" = "";
+
+"Subscription.PlanStatusBaseScreen.Button.ContactUs.Title" = "";
+
+"Subscription.PlanStatusBaseScreen.Button.CreditCard.Title" = "";
+
+"Subscription.PlanStatusBaseScreen.Button.GetCredits.Title" = "";
+
+"Subscription.PlanStatusBaseScreen.Button.PremiumCredits.Title" = "";
+
+"Subscription.PlanStatusBaseScreen.Button.Refer.Title" = "";
+
+"Subscription.PlanStatusBaseScreen.NavigationBar.Button.PaymentHistory.Title" = "";
+
+"Subscription.PlanStatusBaseScreen.WarningView.Label.Description.Text" = "";
+
+"Subscription.PlanStatusBaseScreen.WarningView.Label.Title.Text" = "";
+
+"Subscription.PlanStatusCancelled.Button.RestartPlan.Title" = "";
+
+"Subscription.PlanStatusCancelled.MiddleText" = "";
+
+"Subscription.PlanStatusCancelled.NavigationBar.Title" = "";
+
+"Subscription.PlanStatusDowngradeScreen.Button.ChangePlan.Title" = "";
+
+"Subscription.PlanStatusDowngradeScreen.Button.CreditCard.Title" = "";
+
+"Subscription.PlanStatusDowngradeScreen.NavigationBar.Title" = "";
+
+"Subscription.PlanStatusFreeTrialBaseScreen.NavigationBar.Title" = "";
+
+"Subscription.PlanStatusFreeTrialDoneScreen.MiddleText" = "";
+
+"Subscription.PlanStatusFreeTrialScreen.MiddleText" = "";
+
+"Subscription.PlanStatusLongTermScreen.NavigationBar.Title" = "";
+
+"Subscription.PlanStatusScreen.Button.MoreDetails.Title" = "";
+
+"Subscription.PlanStatusScreen.NavigationBar.Title" = "";
+
+"Subscription.PlanStatusWillCancelScreen.Button.ChangePlan.Title" = "";
+
+"Subscription.PlanStatusWillCancelScreen.Button.StopCancellation.Title" = "";
+
+"Subscription.PlanStatusWillCancelScreen.NavigationBar.Title" = "";
+
+"Subscription.PlanUpgradeBillingAmountCell.BillingAmount" = "";
+
+"Subscription.PlanUpgradeBillingAmountCell.BillngAmount" = "";
+
+"Subscription.PlanUpgradeCoursePeriodCell.CoursePeriod" = "";
+
+"Subscription.PlanUpgradeCoursePeriodCell.CoursePeriodFormat" = "";
+
+"Subscription.PlanUpgradeCoursePricePerMonthCell.CoursePrice" = "";
+
+"Subscription.PlanUpgradeCoursePricePerMonthCell.CoursePriceFormat" = "";
+
+"Subscription.PlanUpgradeNextBillingAmountCell.FirstBillingAmount" = "";
+
+"Subscription.PlanUpgradeNextBillingAmountCell.NextBillingAmount" = "";
+
+"Subscription.PlanUpgradePlanCreditsCell.CreditsRefilled" = "";
+
+"Subscription.PlanUpgradePlanCreditsCell.PlanCredits" = "";
+
+"Subscription.PlanUpgradePlanFreeTrialEndDateCell.FreeTrialEndDate" = "";
+
+"Subscription.PlanUpgradePlanLessonsCell.CourseLessons" = "";
+
+"Subscription.PlanUpgradePlanLessonsCell.LessonsPerMonth" = "";
+
+"Subscription.PlanUpgradePlanLessonsCell.PlanLessons" = "";
+
+"Subscription.PlanUpgradePlanNextBillingDateCell.FirstBillingDate" = "";
+
+"Subscription.PlanUpgradePlanNextBillingDateCell.NextBillingDate" = "";
+
+"Subscription.PlanUpgradePlanPriceCell.MonthlyPrice" = "";
+
+"Subscription.PlanUpgradePlanPriceCell.PriceCharged" = "";
+
+"Subscription.PlanUpgradePlanRenewDateCell.NextRenewalDate" = "";
+
+"Subscription.PlanUpgradeRefundAmountCell.RefundAmount" = "";
+
+"Subscription.PremiumCreditBundleCreditsCell.PremiumCredits" = "";
+
+"Subscription.PremiumCreditBundleCreditsCell.Title" = "";
+
+"Subscription.PremiumCreditBundleInfoScreen.Button.BuyBundle.Title" = "";
+
+"Subscription.PremiumCreditBundleInfoScreen.Label.BundleDescription.Text" = "";
+
+"Subscription.PremiumCreditBundleInfoScreen.NavigationBar.Title" = "";
+
+"Subscription.PremiumCreditBundlePaymentDoneScreen.Line1Label.Text" = "";
+
+"Subscription.PremiumCreditBundlePaymentDoneScreen.Line2Label.Text" = "";
+
+"Subscription.PremiumCreditBundlePaymentDoneScreen.Line3Label.Text" = "";
+
+"Subscription.PremiumCreditBundlePaymentDoneScreen.NavigationBar.Title" = "";
+
+"Subscription.PremiumCreditBundlePriceCell.Price" = "";
+
+"Subscription.PremiumCreditBundlePriceCell.Title" = "";
+
+"Subscription.PremiumCreditBundleSelectScreen.Button.CreditsDescription.Title" = "";
+
+"Subscription.PremiumCreditBundleSelectScreen.Cell.CommentLabel.Text" = "";
+
+"Subscription.PremiumCreditBundleSelectScreen.Cell.CreditsLabel.Text" = "";
+
+"Subscription.PremiumCreditBundleSelectScreen.Line1TextLabel.Text" = "";
+
+"Subscription.PremiumCreditBundleSelectScreen.Line2TextLabel.Text" = "";
+
+"Subscription.PremiumCreditBundleSelectScreen.Line3TextLabel.Text" = "";
+
+"Subscription.PremiumCreditBundleSelectScreen.NavigationBar.Title" = "";
+
+"Subscription.PremiumCreditsOnboarding.Label.Text" = "";
+
+"Tabbar.Book" = "";
+
+"Tabbar.Chat" = "";
+
+"Tabbar.Curriculum" = "";
+
+"Tabbar.Flashcards" = "";
+
+"Tabbar.Settings" = "";
+
+"Tabbar.SettingsScreen.Alert.VerifyLogout.Button.No.Title" = "";
+
+"Tabbar.SettingsScreen.Alert.VerifyLogout.Button.Yes.Title" = "";
+
+"Tabbar.SettingsScreen.Alert.VerifyLogout.Message" = "";
+
+"Tabbar.SettingsScreen.Alert.VerifyLogout.Title" = "";
+
+"Tabbar.SettingsScreen.MenuItem.Contact" = "";
+
+"Tabbar.SettingsScreen.MenuItem.Login" = "";
+
+"Tabbar.SettingsScreen.MenuItem.Logout" = "";
+
+"Tabbar.SettingsScreen.MenuItem.Profile" = "";
+
+"Tabbar.SettingsScreen.MenuItem.Q&A" = "";
+
+"Tabbar.SettingsScreen.MenuItem.Refer" = "";
+
+"Tabbar.SettingsScreen.MenuItem.Register" = "";
+
+"Tabbar.SettingsScreen.MenuItem.Settings" = "";
+
+"Tabbar.SettingsScreen.NavigationBar.Title" = "";
+
+"Tabbar.SettingsScreen.SettingsItemCell.InvalidEmail.DetailLabel.Text" = "";
+
+"Tabbar.SettingsScreen.SettingsItemCell.ValidEmail.DetailLabel.Text" = "";
+
+"TabBarButton.FreeTickets.Title.FreeTickets" = "";
+
+"TabBarButton.FreeTickets.Title.Tickets" = "";
+
+"UIActivity.KakaoTalk.ActivityTitle" = "";
+
+"UIActivity.LINE.ActivityTitle" = "";
+
+"UIHelper.CommonViews.Alert.NoInternetConnection.Button.OK.Title" = "";
+
+"UIHelper.CommonViews.Alert.NoInternetConnection.Message" = "";
+
+"UIHelper.CommonViews.Alert.NoInternetConnection.Title" = "";
+
+"UIHelper.CommonViews.Alert.ServerError.Button.OK.Title" = "";
+
+"UIHelper.CommonViews.Alert.ServerError.Message" = "";
+
+"UIHelper.CommonViews.Alert.ServerError.Title" = "";
+
+"UIHelper.CommonViews.Button.Submit.Title" = "";
+
+"UIHelper.CommonViews.LocalizedTeacherName" = "";
+
+"UIHelper.Label.LineBreakWrapping" = "";
+
+"VideoLesson.Alert.BatteryCheck.Button.OK.Title" = "";
+
+"VideoLesson.Alert.BatteryCheck.Message" = "";
+
+"VideoLesson.Alert.BatteryCheck.Title" = "";
+
+"VideoLesson.CallFromTeacher.Alert.CameraDisabled.Button.OK.Title" = "";
+
+"VideoLesson.CallFromTeacher.Alert.CameraDisabled.Message" = "";
+
+"VideoLesson.CallFromTeacher.Alert.CameraDisabled.Title" = "";
+
+"VideoLesson.CallFromTeacher.Alert.MicrophoneDisabled.Button.OK.Title" = "";
+
+"VideoLesson.CallFromTeacher.Alert.MicrophoneDisabled.Message" = "";
+
+"VideoLesson.CallFromTeacher.Alert.MicrophoneDisabled.Title" = "";
+
+"VideoLesson.CallFromTeacher.Label.VideoLesson.Text" = "";
+
+"VideoLesson.CallFromTeacher.Label.VoiceLesson.Text" = "";
+
+"VideoLesson.LoadingScreen.Label.Connecting" = "";
+
+"VideoLesson.ResumeLessonScreen.Alert.EmailNotSetup.Message" = "";
+
+"VideoLesson.ResumeLessonScreen.Alert.EmailNotSetup.Title" = "";
+
+"VideoLesson.ResumeLessonScreen.Alert.FinishLesson.Button.No.Title" = "";
+
+"VideoLesson.ResumeLessonScreen.Alert.FinishLesson.Button.Yes.Title" = "";
+
+"VideoLesson.ResumeLessonScreen.Alert.FinishLesson.Message" = "";
+
+"VideoLesson.ResumeLessonScreen.Alert.FinishLesson.Title" = "";
+
+"VideoLesson.ResumeLessonScreen.Button.ContactSupport.Title" = "";
+
+"VideoLesson.ResumeLessonScreen.Button.Exit.Title" = "";
+
+"VideoLesson.ResumeLessonScreen.Label.CannotConnect.Text" = "";
+
+"VideoLesson.ResumeLessonScreen.Label.WaitingForCall.Text" = "";
+
+"VideoLesson.ResumeLessonScreen.SupportContactEmail.Message" = "";
+
+"VideoLesson.ResumeLessonScreen.SupportContactEmail.Subject" = "";
+
+"VideoLesson.TeacherCallScreen.Alert.AnswerLater.Button.AnswerCallLater.Title" = "";
+
+"VideoLesson.TeacherCallScreen.Alert.AnswerLater.Button.AnswerCallNow.Title" = "";
+
+"VideoLesson.TeacherCallScreen.Alert.AnswerLater.Message" = "";
+
+"VideoLesson.TeacherCallScreen.Alert.AnswerLater.Title" = "";
+
+"VideoLesson.TeacherCallScreen.Button.AnswerLater.Title" = "";
+
+"VideoLesson.TeacherCallScreen.Label.TeacherIsCalling.Text" = "";
+
+"VideoLesson.VideoView.Alert.CameraAccessNeeded.Message" = "";
+
+"VideoLesson.VideoView.Alert.CameraAccessNeeded.Title" = "";
+
+"VideoLesson.VideoView.Alert.Exit.Button.Cancel.Title" = "";
+
+"VideoLesson.VideoView.Alert.Exit.Button.OK.Title" = "";
+
+"VideoLesson.VideoView.Alert.Exit.Message" = "";
+
+"VideoLesson.VideoView.Alert.Exit.Title" = "";
+
+"VideoLesson.VideoView.Alert.InternetConnectionDropped.Title" = "";
+
+"VideoLesson.VideoView.Alert.Reconnect.Button.NotReconnect.Title" = "";
+
+"VideoLesson.VideoView.Alert.Reconnect.Button.Reconnect.Title" = "";
+
+"VideoLesson.VideoView.Alert.Reconnect.Message" = "";
+
+"VideoLesson.VideoView.Alert.Reconnect.Title" = "";
+
+"VideoLesson.VideoView.Alert.TimeIsUp.Message" = "";
+
+"VideoLesson.VideoView.Alert.TimeIsUp.Title" = "";
+
+"VideoLesson.VideoView.Alert.TooManyReconnectRetries.Button.OK.Title" = "";
+
+"VideoLesson.VideoView.Alert.TooManyReconnectRetries.Message" = "";
+
+"VideoLesson.VideoView.Alert.TooManyReconnectRetries.Title" = "";
+
+"VideoLesson.VideoView.Button.ConnectionUnstable.Title" = "";
+
+"VideoLesson.VideoView.Button.Exit.Title" = "";
+
+"VideoLesson.VideoView.Label.ConnectionUnstable.Text" = "";
+
+"VideoLesson.VideoView.Label.LessonEndIn1Mins.Text" = "";
+
+"VideoLesson.VideoView.Label.LessonEndIn3Mins.Text" = "";
+
+"VideoLesson.VideoView.Label.LessonWillEndSoon.Text" = "";
+
+"VideoLesson.VideoView.Label.NoInternet.Text" = "";
+
+"VideoLesson.VideoView.Label.Reconnecting.Text" = "";
+
+"VideoLesson.VideoView.Label.TeacherNotReachable.Text" = "";
+
+"VideoLesson.VideoView.Label.TryingToReconnect.Text" = "";
+
+"WebViewBaseScreen.Alert.CredentialsEntry.Button.Cancel.Title" = "";
+
+"WebViewBaseScreen.Alert.CredentialsEntry.Button.OK.Title" = "";
+
+"WebViewBaseScreen.Alert.CredentialsEntry.Message" = "";
+
+"WebViewBaseScreen.Alert.CredentialsEntry.TextField.Password.PlaceHolder" = "";
+
+"WebViewBaseScreen.Alert.CredentialsEntry.TextField.Username.PlaceHolder" = "";
+
+"WebViewBaseScreen.Alert.CredentialsEntry.Title" = "";
