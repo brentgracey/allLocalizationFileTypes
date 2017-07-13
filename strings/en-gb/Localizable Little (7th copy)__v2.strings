@@ -1,0 +1,12 @@
+/* Pop-up asking to allow the app (OKpanda) send push notifications */
+"AppDelegate.Alert.AllowPushNotification.Button.Cancel.Title" = "Don't Allow";
+
+/* Pop-up asking to allow the app (OKpanda) send push notifications */
+"AppDelegate.Alert.AllowPushNotification.Button.OK.Title" = "OK";
+
+/* Pop-up asking to allow the app (OKpanda) send push notifications */
+"AppDelegate.Alert.AllowPushNotification.Message" = "Allow messages, text, sound, and icon badges.";
+
+/* Title for pop-up asking to allow the app (OKpanda) send push notifications */
+"AppDelegate.Alert.AllowPushNotification.Title" = "Can we send you push notifications? They'll make it easier to talk with your teacher and give you important lesson updates.";
+

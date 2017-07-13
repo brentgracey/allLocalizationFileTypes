@@ -59,10 +59,36 @@
    </tuv>
    <tuv xml:lang="FR-CA">
     <seg>menu one</seg>
+ </tuv>
+  </tu>
+
+
+  <tu
+   tuid="0003"
+   srclang="*all*"
+  >
+   <prop type="Domain">Cooking</prop>
+   <tuv xml:lang="EN">
+    <seg>{\cf7 Special} text x</seg>
    </tuv>
-   <tuv xml:lang="FR-FR">
-    <seg>menu one</seg>
+   <tuv xml:lang="FR-CA">
+    <seg><bpt i="1" x="1">&lt;B></bpt>Special<ept i="1">&lt;/B></ept> text x</seg>
    </tuv>
   </tu>
+
+
+  <tu
+   tuid="0004"
+   srclang="*all*"
+  >
+   <prop type="Domain">Cooking</prop>
+   <tuv xml:lang="EN">
+    <seg><bpt i="1" x="1">{\b </bpt>Special<ept i="1">}</ept> text y</seg>
+   </tuv>
+   <tuv xml:lang="FR-CA">
+    <seg><bpt i="1" x="1">{\cf7 </bpt>Special<ept i="1">}</ept> text y</seg>
+   </tuv>
+  </tu>
+
  </body>
 </tmx>
