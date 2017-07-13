@@ -1,0 +1,2499 @@
+/* Pop-up asking to allow the app (OKpanda) send push notifications */
+"AppDelegate.Alert.AllowPushNotification.Button.Cancel.Title" = "Don't Allow";
+
+/* Pop-up asking to allow the app (OKpanda) send push notifications */
+"AppDelegate.Alert.AllowPushNotification.Button.OK.Title" = "OK";
+
+/* Pop-up asking to allow the app (OKpanda) send push notifications */
+"AppDelegate.Alert.AllowPushNotification.Message" = "Allow messages, text, sound, and icon badges.";
+
+/* Title for pop-up asking to allow the app (OKpanda) send push notifications */
+"AppDelegate.Alert.AllowPushNotification.Title" = "Can we send you push notifications? They'll make it easier to talk with your teacher and give you important lesson updates.";
+
+/* Message for pop-up saying that the app (Okpanda) needs updating */
+"AppDelegate.Alert.UnsupportedVersion.Message" = "This is an outdated version of OKpanda. Please update it in the App Store.";
+
+/* Title of pop-up saying that the app needs updating */
+"AppDelegate.Alert.UnsupportedVersion.Title" = "Unsupported Version";
+
+/* Text in error pop up that appears when there has been an error logging in */
+"Authentication.Alert.LoginError.Message.General" = "There was an error. Please try again.";
+
+/* Text in error pop up that appears when a user enters an invalid email address (for example, no @) */
+"Authentication.Alert.LoginError.Message.InvalidEmail" = "Please enter a valid email address.";
+
+/* Text in error pop up that appears when a user enters the wrong email or password */
+"Authentication.Alert.LoginError.Message.InvalidEmailOrPassword" = "Invalid email or password.";
+
+/* Text in error pop up that appears when a user doesn't enter an email or a password */
+"Authentication.Alert.LoginError.Message.MissingEmailOrPassword" = "Missing Email or Password";
+
+/* Text in error pop up that appears when a user doesn't enter a password */
+"Authentication.Alert.LoginError.Message.NoPassword" = "Please enter a password";
+
+/* Title of pop up that appears when there's a login error */
+"Authentication.Alert.LoginError.Title" = "Login Error";
+
+/* Message of the alert that appears when reset password fails with a ‘missing parameter error' */
+"Authentication.Alert.PasswordResetError.Message" = "Email Address";
+
+/* Title of the alert that appears when reset password fails */
+"Authentication.Alert.PasswordResetError.Title" = "Forgot Password Error";
+
+/* Button in login screen for users who can’t remember their password */
+"Authentication.AuthorizationBaseScreen.Button.ForgotPassword.Title" = "Forgot Password?";
+
+/* Button in screen where the user should enter username and password to login */
+"Authentication.AuthorizationBaseScreen.Button.Login.Title" = "Login";
+
+/* Button in screen where the user should enter username and password to login. Pressing the button leads the user to the signup page */
+"Authentication.AuthorizationBaseScreen.Button.Signup.Title" = "Need to register? Click here to sign up!";
+
+/* Screen where the user should enter username and password to login, text explaining the criteria for the password */
+"Authentication.AuthorizationBaseScreen.Label.PasswordRules.Text" = "Password must be at least 8 characters long, must have at least one letter and at least one number or special character.";
+
+/* Field where user has to input their email address */
+"Authentication.AuthorizationBaseScreen.TextField.Email.PlaceholderText" = "Email Address";
+
+/* Field where user should input their first name in Roman letters */
+"Authentication.AuthorizationBaseScreen.TextField.FirstName.PlaceholderText" = "First Name";
+
+/* Field where user should input their last name in Roman letters */
+"Authentication.AuthorizationBaseScreen.TextField.LastName.PlaceholderText" = "Last Name";
+
+/* Field where user should input their password */
+"Authentication.AuthorizationBaseScreen.TextField.Password.PlaceholderText" = "Password (min 8 characters)";
+
+/* Button in Edit Profile screen for sending verification email */
+"Authentication.EditProfileScreen.Button.ResendEmail.Title" = "Resend Verification Email";
+
+/* Text in bottom of “Edit profile” screen when the user hasn’t pressed the link in the confirmation email yet */
+"Authentication.EditProfileScreen.Label.EmailVerification.Text" = "Your registration is incomplete.\nResend the verification email\nusing the link below.";
+
+/* A button in the navigation bar */
+"Authentication.EditProfileScreen.NavigationBar.Title" = "Edit Profile";
+
+/* Title of the button when registering a new email */
+"Authentication.EmailConfirmationRegisterScreen.Button.RegisterEmail.Title" = "Register Email";
+
+/* Pop-up when user enters wrong email address */
+"Authentication.EmailConfirmationRegisterScreen.Label.Detail.Text" = "Please enter a correct email address. A confirmation message will be sent to the new address.";
+
+/* Text in pop-up when user enters wrong email address */
+"Authentication.EmailConfirmationRegisterScreen.Label.InvalidEmail.Text" = "This email address is invalid.";
+
+/* Title of a pop-up when user enters wrong email address */
+"Authentication.EmailConfirmationRegisterScreen.Label.Title.Text" = "Confirm E-mail Address";
+
+/* Field where user has to input their email address */
+"Authentication.EmailConfirmationRegisterScreenTextField.Email.Placeholder" = "Email Address";
+
+/* Field where user has to input their email address */
+"Authentication.EmailConfirmationScreen.TextField.Email.Placeholder" = "Email Address";
+
+/* Button in the “Confirmation email sent” screen for changing the registered email address */
+"Authentication.EmailConfirmationSentScreen.Button.ChangeEmailAddress.Title" = "Change Email Address";
+
+/* Button in the “Confirmation email sent” screen for sending the confirmation email again */
+"Authentication.EmailConfirmationSentScreen.Button.SendEmailAgain.Title" = "Send Again";
+
+/* Text in “Confirmation email sent” screen asking the user to press the link in the confirmation email to complete registration. The %@ in “Check %@” is a placeholder for the user’s email address. */
+"Authentication.EmailConfirmationSentScreen.Label.Detail.Text" = "Please check your inbox for %@, we just sent you a message with a link to complete your registration. Once you have confirmed your account, you will be able to book lessons!";
+
+/* Title of the “Confirmation email sent” screen */
+"Authentication.EmailConfirmationSentScreen.Label.Title.Text" = "Email Address Confirmation";
+
+/* Error message for entering an email address which is already in use */
+"Authentication.Error.EmailAlreadyTaken" = "This email address belongs to another user.";
+
+/* Error message for entering a name with a different alphabet than the Roman one */
+"Authentication.Error.FirstNameNotInEnglish" = "Please enter your name in English.";
+
+/* Error for entering an invalid email address */
+"Authentication.Error.InvalidEmail" = "This email address is invalid.";
+
+/* An invalid language code was sent to the server as a parameter */
+"Authentication.Error.InvalidLanguage" = "Invalid Language";
+
+/* Error when inputting a password that does not meet the criteria */
+"Authentication.Error.InvalidPasswordNoDigit" = "Passwords should have at least one digit or special character.";
+
+/* Error when inputting a password that does not meet the criteria */
+"Authentication.Error.InvalidPasswordNoLetter" = "Password should have at least an uppercase and a lowercase letter";
+
+/* Error when inputting a password that does not meet the criteria */
+"Authentication.Error.InvalidPasswordTooShort" = "Password too short";
+
+/* An invalid timezone was sent to the server as a parameter */
+"Authentication.Error.InvalidTimezone" = "Invalid timezone";
+
+/* Error message for entering a name with a different alphabet than the Roman one */
+"Authentication.Error.LastNameNotInEnglish" = "Please enter your name in English.";
+
+/* Button in a pop up answering the question "do you want to reset your password?" */
+"Authentication.ForgotPasswordScreen.Alert.ResetPassword.Button.No.Title" = "Don't Reset";
+
+/* Button in a pop up answering the question "do you want to reset your password?" */
+"Authentication.ForgotPasswordScreen.Alert.ResetPassword.Button.Yes.Title" = "Reset Password";
+
+/* Text of alert when pressing the “Forgot password” button */
+"Authentication.ForgotPasswordScreen.Alert.ResetPassword.Message" = "Would you like to reset your password?";
+
+/* Title of alert when pressing the “Forgot password” button */
+"Authentication.ForgotPasswordScreen.Alert.ResetPassword.Title" = "Forgot password";
+
+/* Button in the “Forgot password” screen, for confirming the email address entered */
+"Authentication.ForgotPasswordScreen.Button.ResetPassword.Title" = "Send";
+
+/* Text in the “Forgot password” screen asking the user to enter the email address they registered with */
+"Authentication.ForgotPasswordScreen.Label.EnterEmail.Text" = "Please enter the email address you used to sign up.";
+
+/* Error when entering an invalid email address in the “Forgot password” screen” */
+"Authentication.ForgotPasswordScreen.Label.InvalidEmail.Text" = "This email address is invalid.";
+
+/* Text in the “Forgot password” screen */
+"Authentication.ForgotPasswordScreen.Label.SendPassword.Text" = "Enter the email you used to register and we will send you a message with your password.";
+
+/* Title of the “Forgot password” screen */
+"Authentication.ForgotPasswordScreen.NavigationBar.Title" = "Forgot password";
+
+/* Button in the screen after a password was reset, sending the user back to the login screen */
+"Authentication.ForgotSentEmailScreen.Button.GoBackToLogin.Title" = "Return to Login";
+
+/* Text in the screen after a password was reset */
+"Authentication.ForgotSentEmailScreen.Label.SentPasswordToEmail.Text" = "We sent your reset link to:\n%@";
+
+/* Title of the screen after a password was reset */
+"Authentication.ForgotSentEmailScreen.NavigationBar.Title" = "Forgot password";
+
+/* Title in the navigation bar when showing the login screen */
+"Authentication.LoginScreen.NavigationBar.Title" = "Login";
+
+/* Text in pop up that appears when the user enters two passwords that do not match */
+"Authentication.SetPasswordPopup.Alert.PasswordsDontMatch.Message" = "The two passwords must match.";
+
+/* Title of a pop up that appears when the user enters two passwords that do not match */
+"Authentication.SetPasswordPopup.Alert.PasswordsDontMatch.Title" = "Passwords Don't Match";
+
+/* Text in an error pop up that appears when a password cannot be set */
+"Authentication.SetPasswordPopup.Alert.SetPasswordError.Message" = "Could not set password";
+
+/* Title of an error pop up that appears when a password cannot be set */
+"Authentication.SetPasswordPopup.Alert.SetPasswordError.Title" = "Password Set Error";
+
+/* Button in pop-up asking the user to set a password in order to register to the app */
+"Authentication.SetPasswordPopup.Button.SetPassword.Title" = "Set password";
+
+/* Button in pop-up asking the user to set a password in order to register to the app */
+"Authentication.SetPasswordPopup.Label.Explanation.Text" = "Please create a password to protect your account.";
+
+/* Text in pop-up asking the user to set a password in order to register to the app */
+"Authentication.SetPasswordPopup.Label.PasswordRules.Text" = "Password must have 8 characters, at least one letter and one number.";
+
+/* Text in pop-up when user enters two different passwords instead of repeating the same one */
+"Authentication.SetPasswordPopup.Label.PasswordsDontMatch.Text" = "The passwords must be identical.";
+
+/* Field where user should input a password of minimum 8 characters */
+"Authentication.SetPasswordPopup.TextField.Password.Placeholder" = "Password (min 8 characters)";
+
+/* Field where user should input the same password as in the previous field */
+"Authentication.SetPasswordPopup.TextField.PasswordVerification.Placeholder" = "Password (verify)";
+
+/* Title of pop-up requesting the user to set a password in order to register to the app */
+"Authentication.SetPasswordPopup.Title" = "Create your password";
+
+/* Button in signup screen used to login to the user’s account */
+"Authentication.SignupBaseScreen.Button.Login.Title" = "Already a member? Login here. ";
+
+/* Button in signup screen used to update profile details */
+"Authentication.SignupBaseScreen.Button.SaveProfile.Title" = "Save Profile";
+
+/* Button in signup screen used to register the user */
+"Authentication.SignupBaseScreen.Button.Signup.Title" = "Sign Up";
+
+/* Text in error pop-up when entering a password shorter than 8 characters or not according to the criteria */
+"Authentication.SignupScreen.Alert.InvalidPasswordError.Message" = "Password must be at least 8 characters long, must have at least one letter and at least one number or special character.";
+
+/* Title of error pop-up when entering an invalid password */
+"Authentication.SignupScreen.Alert.InvalidPasswordError.Title" = "Invalid Password";
+
+/* Text in general error pop-up */
+"Authentication.SignupScreen.Alert.SignupError.DefaultMessage" = "There was an error please try again";
+
+/* Title of general error pop-up */
+"Authentication.SignupScreen.Alert.SignupError.Title" = "Signup Error";
+
+/* Title of signup screen */
+"Authentication.SignupScreen.NavigationBar.Title" = "Sign up";
+
+/* Text of the goto plans button in the error alert when user is trying to book a lesson after their subscription has been cancelled */
+"Booking.Alert.SubscriptionCancelled.Button.GotoPlans.Title" = "Goto plans page";
+
+/* Button in a pop up that asks whether the user wants to rate the app. Pressing the button dismisses the pop up */
+"Booking.AppRatingPromptPopup.Button.Close.Title" = "Close";
+
+/* Button in a pop up that asks whether the user wants to rate the app. Pressing the button dismisses the pop up and makes it never appear again */
+"Booking.AppRatingPromptPopup.Button.DoNotShowAgain.Title" = "Don't Show Again";
+
+/* Button in a pop up that asks whether the user wants to rate the app. Pressing the button sends the user to the Appstore/Google Play */
+"Booking.AppRatingPromptPopup.Button.RateApp.Title" = "Rate App";
+
+/* Text in a pop up that asks whether the user wants to rate the app */
+"Booking.AppRatingPromptPopupNew.Label.BannerLabel.Text" = "Review OKpanda";
+
+/* Text in a pop up that asks whether the user wants to rate the app */
+"Booking.AppRatingPromptPopupNew.Label.PromptLabel.Text" = "We hope you had a great lesson!\nLove OKpanda? \nTell the world by writing a review!";
+
+/* Text in a pop up that asks whether the user wants to rate the app */
+"Booking.AppRatingPromptPopupUpdate.Label.BannerLabel.Text" = "Please Review Update";
+
+/* Text in pop up asking the user to rate the app on the Appstore/Google Play */
+"Booking.AppRatingPromptPopupUpdate.Label.PromptLabel.Text" = "Thanks for updating OKpanda.\nLove the app? Please write us a review!\n";
+
+/* Text in a pop up that appears when the user updates their profile */
+"Booking.Authentication.Alert.ProfileSaved.Message" = "Profile Details Saved";
+
+/* Title of a pop up that appears when the user updates their profile */
+"Booking.Authentication.Alert.ProfileSaved.Title" = "Profile Details";
+
+/* Text in a pop up that appears when the user tries to update their profile but the update is unsuccessful */
+"Booking.Authentication.Alert.ProfileSaveError.Message" = "Could not save profile details";
+
+/* Title of a pop up that appears when the user tries to update their profile but the update is unsuccessful */
+"Booking.Authentication.Alert.ProfileSaveError.Title" = "Error Saving Profile Information";
+
+/* Button for scheduling a lesson with a teacher */
+"Booking.BookAnotherLessonAfterBadLessonPopup.Button.Book.Title" = "Book";
+
+/* Title of pop-up message where a user can see 3 of the top teachers and choose a lesson with one of them */
+"Booking.BookAnotherLessonAfterBadLessonPopup.Label.TopTeachers.Text" = "Top Teachers";
+
+/* Text in a pop up that appears after a lesson, recommending the user to book a lesson with one of our leading teachers */
+"Booking.BookAnotherLessonAfterBadLessonPopup.Label.TryTopTeachers.Text" = "Schedule your next lesson with one of our highest rated teachers!";
+
+/* Button in pop-up message asking the student whether they want to schedule another lesson with the same teacher. Pressing it sends the user to next week’s calendar */
+"Booking.BookAnotherLessonPopupBase.Button.BookNextWeek.Title" = "Book next week's (%@) lesson.";
+
+/* Button in pop-up message asking the student whether they want to schedule another lesson with the same teacher. Pressing it books a lesson with the same teacher for the following day */
+"Booking.BookAnotherLessonPopupBase.Button.BookTomorrow.Title" = "Book Tomorrow's Lesson";
+
+/* Text in pop-up message asking the student whether they want to schedule another lesson with the same teacher */
+"Booking.BookAnotherLessonPopupBase.Label.BookAnotherLesson.Text" = "Schedule another lesson with this teacher.";
+
+/* Text in pop-up message asking the student whether they want to schedule another lesson with a top teacher */
+"Booking.BookAnotherLessonPopupBase.Label.BookPopularTeacher.Text" = "It's simple,\ncheck their schedule now!";
+
+/* Text in pop-up message asking the student whether they want to schedule another lesson at the same time */
+"Booking.BookAnotherLessonPopupBase.Label.BookSameTimeLesson.Text" = "Book another lesson for this time (%@~%@), now.";
+
+/* Title label of the popup showed after a bad review */
+"Booking.BookAnotherLessonPopupBase.Label.Suggestion.Text" = "Sorry to hear that!";
+
+/* A label appears in booking confirmation which endorses the teacher to increase activation and booking for unconverted users. */
+"Booking.BookConfirmationForUnconvertedStudentScreen.Label.Endorsement.Text" = "%@ is a fantastic choice! Book now to hold your spot.";
+
+/* The title of navigation bar appears in booking confirmation page. With a variable, it's going to look like Booking TEACHER_NAME. */
+"Booking.BookConfirmationForUnconvertedStudentScreen.NavigationBar.Title" = "Booking %@";
+
+/* Button for confirming the scheduling of a lesson */
+"Booking.BookConfirmationScreen.Button.ConfirmBooking.Title" = "Confirm Booking";
+
+/* Title for screen where the teacher can schedule a lesson with a teacher */
+"Booking.BookConfirmationScreen.NavigationBar.Title" = "Book";
+
+/* Title of the alert when the server returns an error while trying to cancel a lesson */
+"Booking.BookedLessonsScreen.Alert.CancelBookedLessonError.Title" = "Lesson Error";
+
+/* Button with an answer to whether the user wants to cancel a lesson */
+"Booking.BookedLessonsScreen.Alert.CancelLesson.Button.No.Title" = "Don't Cancel";
+
+/* Button with an answer to whether the user wants to cancel a lesson */
+"Booking.BookedLessonsScreen.Alert.CancelLesson.Button.Yes.Title" = "Cancel Lesson";
+
+/* Message in pop-up confirming that the user really wants to cancel a lesson */
+"Booking.BookedLessonsScreen.Alert.CancelLesson.Message" = "Are you sure you want to cancel the lesson?";
+
+/* Title of pop-up confirming that the user really wants to cancel a lesson */
+"Booking.BookedLessonsScreen.Alert.CancelLesson.Title" = "Cancel This Lesson";
+
+/* Button in the list of scheduled lessons, next to a scheduled lesson. Pressing it will cancel the scheduled lesson */
+"Booking.BookedLessonsScreen.Alert.NoCredits.Button.Cancel.Title" = "No";
+
+/* Button in a pop-up saying that the user will not be refunded for cancelling a lesson less than 30 minutes before the lesson is scheduled to start */
+"Booking.BookedLessonsScreen.Alert.NoCredits.Button.OK.Title" = "OK";
+
+/* Message in a pop-up saying that the user will not be refunded for cancelling a lesson less than 30 minutes before the lesson is scheduled to start */
+"Booking.BookedLessonsScreen.Alert.NoCredits.Message" = "If you cancel a lesson less than 30 minutes before \nit starts, your tickets will not be refunded. \nAre you sure you want to cancel?";
+
+/* Title of a pop-up saying that the user will not be refunded for cancelling a lesson less than 30 minutes before the lesson is scheduled to start */
+"Booking.BookedLessonsScreen.Alert.NoCredits.Title" = "Warning";
+
+/* Button in a pop-up confirming that the user really wants to reschedule a lesson */
+"Booking.BookedLessonsScreen.Alert.RescheduleLesson.Button.No.Title" = "Don't Reschedule";
+
+/* Button in a pop-up confirming that the user really wants to reschedule a lesson */
+"Booking.BookedLessonsScreen.Alert.RescheduleLesson.Button.Yes.Title" = "Reschedule Lesson";
+
+/* Message in a pop-up confirming that the user really wants to reschedule a lesson */
+"Booking.BookedLessonsScreen.Alert.RescheduleLesson.Message" = "Reschedule this lesson?";
+
+/* Title of a pop-up confirming that the user really wants to reschedule a lesson */
+"Booking.BookedLessonsScreen.Alert.RescheduleLesson.Title" = "Reschedule Booking";
+
+/* Button in a screen showing the booked lessons. Pressing the button allows the user to reschedule or cancel a lesson */
+"Booking.BookedLessonsScreen.NavigationBar.Button.Edit.Title" = "Edit";
+
+/* Button in a screen showing the booked lessons. Pressing the button stops the editing (canceling or rescheduling) of scheduled lessons */
+"Booking.BookedLessonsScreen.NavigationBar.Button.Finish.Title" = "Finish";
+
+/* Title of the screen where a user can see their booked lessons */
+"Booking.BookedLessonsScreen.NavigationBar.Title" = "Schedule";
+
+/* Text in booked lessons screen that appears when a user has no scheduled lessons */
+"Booking.BookedLessonsScreen.ScheduleTableViewCell.NoScheduledLessons" = "No Scheduled Lessons";
+
+/* Button in booked lessons screen. Pressing it shows booked lessons in the future */
+"Booking.BookedLessonsScreen.SegmentedControl.Booked" = "Booked";
+
+/* Button in booked lessons screen. Pressing it shows lessons taken in the past */
+"Booking.BookedLessonsScreen.SegmentedControl.History" = "History";
+
+/* Button in a pop-up after a user has confirmed booking a lesson */
+"Booking.BookingCompletedPopup.Button.OK.Title" = "OK";
+
+/* Text in a pop-up after a user has confirmed booking a lesson */
+"Booking.BookingCompletedPopup.Label.Message.Text" = "It's simple, just open the OKpanda app when your teacher calls. Don't worry, there are no calling fees!\n";
+
+/* Title of a pop-up after a user has confirmed booking a lesson */
+"Booking.BookingCompletedPopup.Title" = "Get ready for your lesson!";
+
+/* Button in a screen that appears after a user has booked a lesson. Pressing the button opens the teacher’s schedule in order to schedule another lesson */
+"Booking.BookingDoneBaseScreen.Button.BookAnotherLesson.Title" = "Book Another Lesson";
+
+/* Button in a screen that appears after a user has booked a lesson. Pressing the button opens the FAQ section of lesson guidelines */
+"Booking.BookingDoneBaseScreen.Button.LessonGuidelines.Title" = "Tap here to learn more about lessons";
+
+/* Button in a screen that appears after a user has booked a lesson. Pressing the button opens the teacher list */
+"Booking.BookingDoneBaseScreen.Button.ToTeacherList.Title" = "Teacher List";
+
+/* Title of the button to return to the chat after booking finishes - this screen appears when you press a `book a lesson` link in the chat */
+"Booking.BookingDoneScreen.Button.ReturnToChat.Title" = "Return to Chat";
+
+/* Text in message after booking a lesson */
+"Booking.BookingDoneScreen.Label.BookingComplete.Text" = "Booking complete!";
+
+/* Text in message after booking a lesson */
+"Booking.BookingDoneScreen.Label.RemainingTrialLessons.Text" = "Remaining trial lessons: %d";
+
+/* Button in the screen showing a teacher’s calendar. Pressing the button shows the next 5 days (that are not currently shown on the screen) */
+"Booking.CalendarScreen.Button.NextFiveDays.Title" = "Next Five Days";
+
+/* Button in the screen showing a teacher’s calendar. Pressing the button shows the previous 5 days (that are not currently shown on the screen) */
+"Booking.CalendarScreen.Button.PreviousFiveDays.Title" = "Previous Five Days";
+
+/* Text in calendar screen, in the top row where the dates are */
+"Booking.CalendarScreen.Label.Date.Text" = "Date";
+
+/* Text in the calendar screen. Short for Saturday */
+"Booking.CalendarScreen.Label.Saturday.Text" = "Sa";
+
+/* Text in the calendar screen. Short for Sunday */
+"Booking.CalendarScreen.Label.Sunday.Text" = "Su";
+
+/* The navigation bar title of the calendar view where users can pick a schedule of a teacher.  With the variable, it looks like "Pick a time with TEACHER_NAME". */
+"Booking.CalendarScreen.NavigationBar.Title" = "Pick a time with %@";
+
+/* Text in the calendar screen, next to the hours of the day when there are no lessons */
+"Booking.CalendarScreen.TableViewCell.CalendarRange.Label.Title.Text" = "No Lessons";
+
+/* Text in calendar screen when no internet connection is detected */
+"Booking.CalendarScreen.TableViewCell.NoInternet.Label.SubTitle.Text" = "Please check your internet connection";
+
+/* Text in calendar screen when no internet connection is detected */
+"Booking.CalendarScreen.TableViewCell.NoInternet.Label.Title.Text" = "Can't connect to internet";
+
+/* Text in calendar screen when the teacher has no available lesson times */
+"Booking.CalendarScreen.TableViewCell.NoLessons.Label.Title.Text" = "No lessons available at this time.";
+
+/* Text in a pop up that appears when a user cancels a lesson less than 30 minutes in advance */
+"Booking.CancellationScreen.Alert.CouldNotCancelLesson.Message" = "If you cancel a lesson less than 30 minutes before it starts, your tickets will not be refunded.";
+
+/* Title of the alert that appears when the cancellation of the lesson failed */
+"Booking.CancellationScreen.Alert.CouldNotCancelLesson.Title" = "Couldn't cancel lesson";
+
+/* Title of error message that appears when the user tries to cancel a lesson, but the server can't find the lesson */
+"Booking.CancellationScreen.Alert.LessonNotAvailable.Title" = "Lesson Unavailable";
+
+/* Title of the button of the cell when no lessons exist in the scheduled or past lessons screen */
+"Booking.Cell.BookALesson.Button.BookALesson.Title" = "Schedule a Lesson";
+
+/* Title of the OK button on the confirmation alert for booking a lesson */
+"Booking.ConfirmationBaseScreen.Alert.Button.OK.Title" = "OK";
+
+/* Text in message saying that a confirmation email has been sent to the email address the user has put in */
+"Booking.ConfirmationBaseScreen.Alert.ConfirmationEmailSent.Message" = "Finish the registration process by tapping the link in the email.";
+
+/* Title of message saying that a confirmation email has been sent to the email address the user has put in */
+"Booking.ConfirmationBaseScreen.Alert.ConfirmationEmailSent.Title" = "Verification Email Sent";
+
+/* Title of message saying that the selected lesson is not available for booking */
+"Booking.ConfirmationBaseScreen.Alert.LessonNotAvailable.Title" = "Lesson not available";
+
+/* Button in the screen showing available teachers. Pressing the button shows the teachers who are available to teach today */
+"Booking.DayController.SegmentedControl.Today" = "Today";
+
+/* Button in the screen showing the details of a lesson that can be booked. Pressing the button confirms the booking of the lesson. "Pick a time with TEACHER NAME" */
+"Booking.DetailScreen.Button.BookLesson.Title" = "Book Lesson";
+
+/* Button in the screen showing the details of a lesson that can be booked. Pressing the button sends the user back to the calendar. No text needed here. */
+"Booking.DetailScreen.Button.GoToCalendar.Title" = "Pick a time with %@";
+
+/* A read more button appears on teacher tiles which will take users to the teacher detail page. */
+"Booking.DetailScreen.Button.ReadMore.Title" = "read more";
+
+/* Title of self-introduction text in the teacher screen */
+"Booking.DetailScreen.Label.IntroHeader.Text" = "Introduction";
+
+/* Title of verified qualifications text in the teacher screen */
+"Booking.DetailScreen.Label.VerifiedQualificationsHeader.Text" = "Verified Qualifications";
+
+/* The title of the navigation bar in the teacher detail page. */
+"Booking.DetailScreen.NavigationBar.Title" = "Details";
+
+/* Error when there are not enough tickets to book this lesson */
+"Booking.Error.BillingError" = "You don't have enough tickets to book this lesson.";
+
+/* Error when there are not enough tickets to book this lesson */
+"Booking.Error.BillingError.Message" = "You can’t book a lesson because your payment method failed";
+
+/* Error title when there are not enough tickets to book this lesson */
+"Booking.Error.BillingError.Title" = "Payment Error";
+
+/* Error when a user cannot book a lesson because they reached the daily limit of lessons they can take */
+"Booking.Error.DailyLessonLimitIsReached" = "Daily lesson limit is reached";
+
+/* Text of error when a user tries to book a lesson that has already been booked by another user */
+"Booking.Error.LessonAlreadyBookedByAnother" = "Sorry. This lesson has already been booked by another user.";
+
+/* Text of error when a user tries to book a lesson that has already been booked by the same user */
+"Booking.Error.LessonAlreadyBookedBySelf" = "You have already booked this lesson.";
+
+/* Text of error when a user tries to book a lesson at the same time when they have another lesson booked */
+"Booking.Error.LessonAlreadyBookedForSlot" = "You have already booked a lesson for this slot";
+
+/* Text of error when a user tries to book a lesson anytime in the past */
+"Booking.Error.LessonAlreadyPassed" = "Sorry! It's too late to book this lesson.";
+
+/* Text of error when a user tries to book a lesson that has been cancelled */
+"Booking.Error.LessonCancelled" = "The lesson has been cancelled";
+
+/* Text of error when a user tries to book a lesson that is not available anymore */
+"Booking.Error.LessonNotAvailableAnymore" = "The lesson is not available anymore";
+
+/* Text of the error when trying to do an operation (like reschedule) to a lesson not booked by this student */
+"Booking.Error.LessonNotBookedByUser" = "You need to book a lesson before you can complete this change.";
+
+/* Text of the error when trying to do an operation (like reschedule) to a lesson that does not exist (the server cannot find it) */
+"Booking.Error.LessonsDoesNotExist" = "This lesson is no longer available.";
+
+/* Text of error when a user tries to book a lesson that is too far in the future */
+"Booking.Error.LessonTooFarInTheFuture" = "The lesson you want to book is too far in the future.";
+
+/* Text of error when a user tries to book a lesson anytime in the past */
+"Booking.Error.NewLessonAlreadyPassed" = "The lesson you want to book has already passed.";
+
+/* Text of error when a user tries to book a lesson that is too far in the future */
+"Booking.Error.NewLessonTooFarInTheFuture" = "The lesson you want to book is too far in the future.";
+
+/* Text of error when a user tries to reschedule a lesson anytime in the past */
+"Booking.Error.OldLessonAlreadyPassed" = "The lesson you want to reschedule has already passed.";
+
+/* Text of the error when trying to do an operation (like reschedule) to a lesson that is booked by another student */
+"Booking.Error.OldLessonBookedByAnother" = "The original lesson is booked by another user";
+
+/* Text of the error when trying to reschedule a lesson and the student does not have enough tickets to book the new lesson (lessons could have different prices) */
+"Booking.Error.PlanUnableToBook" = "You don't have enough tickets. Get more tickets to book this lesson.";
+
+/* Text of error when user is trying to book a lesson after their subscription has been cancelled */
+"Booking.Error.SubscriptionCancelled" = "Your subscription is cancelled";
+
+/* Text of unknown error */
+"Booking.Error.UnknownError" = "Unknown Error";
+
+/* Attribute in the filter screen describing the teacher's education level. Graduate means Master's degree or higher */
+"Booking.FilterScreen.Button.AdvancedDegree.Title" = "Graduate";
+
+/* Button in filter screen, describing age */
+"Booking.FilterScreen.Button.AgeHigh.Title" = "36+";
+
+/* Button in filter screen, describing age */
+"Booking.FilterScreen.Button.AgeLow.Title" = "Under 25";
+
+/* Button in filter screen, describing age */
+"Booking.FilterScreen.Button.AgeMiddle.Title" = "26-35";
+
+/* Button in filter screen, describing accent */
+"Booking.FilterScreen.Button.America.Title" = "American";
+
+/* Button in filter screen, describing education level. BA means Bachelor's degree */
+"Booking.FilterScreen.Button.BachelorDegree.Title" = "BA";
+
+/* Button in filter screen, describing experience teaching beginner-level English students */
+"Booking.FilterScreen.Button.BeginnerExperienced.Title" = "Experienced";
+
+/* Button in filter screen, describing experience teaching beginner-level English students */
+"Booking.FilterScreen.Button.BeginnerExpert.Title" = "Expert";
+
+/* Button in filter screen, describing experience teaching business English */
+"Booking.FilterScreen.Button.BusinessEnglishExperienced.Title" = "Experienced";
+
+/* Button in filter screen, describing experience teaching business English */
+"Booking.FilterScreen.Button.BusinessEnglishExpert.Title" = "Expert";
+
+/* Button in filter screen, describing gender */
+"Booking.FilterScreen.Button.Female.Title" = "Female";
+
+/* Button in filter screen, describing teachers' fluency in different languages */
+"Booking.FilterScreen.Button.LocalLanguageBeginner.Title" = "Teaching\nBeginners";
+
+/* Button in filter screen, describing teachers' fluency in different languages */
+"Booking.FilterScreen.Button.LocalLanguageMid.Title" = "Conversational";
+
+/* Button in filter screen, describing teachers' fluency in different languages */
+"Booking.FilterScreen.Button.LocalLanguagePro.Title" = "Fluent";
+
+/* Button in filter screen, describing gender */
+"Booking.FilterScreen.Button.Male.Title" = "Male";
+
+/* Button in filter screen, describing accent */
+"Booking.FilterScreen.Button.OtherAccent.Title" = "Others";
+
+/* Button in filter screen, describing teachers' education level. Certificate means a non-university diploma for English teaching */
+"Booking.FilterScreen.Button.TeachingCertificate.Title" = "Certificate";
+
+/* Button in filter screen, describing lesson cost (in tickets) */
+"Booking.FilterScreen.Button.TicketsHigh.Title" = "40+";
+
+/* Button in filter screen, describing lesson cost (in tickets) */
+"Booking.FilterScreen.Button.TicketsLow.Title" = "10";
+
+/* Button in filter screen, describing lesson cost (in tickets) */
+"Booking.FilterScreen.Button.TicketsMiddle.Title" = "20-30";
+
+/* Button in filter screen, describing teachers' experience preparing students for standardized English level exams */
+"Booking.FilterScreen.Button.ToeflToeicExperienced.Title" = "Experienced";
+
+/* Button in filter screen, describing teachers' experience preparing students for standardized English level exams */
+"Booking.FilterScreen.Button.ToeflToeicExpert.Title" = "Expert";
+
+/* Button in filter screen, describing accent */
+"Booking.FilterScreen.Button.UK.Title" = "UK";
+
+/* Category in filter screen, describing accent in English */
+"Booking.FilterScreen.Label.Accent.Text" = "Accent";
+
+/* Category in filter screen, describing accent in English */
+"Booking.FilterScreen.Label.AccentSection.Text" = "Accent";
+
+/* Category in filter screen */
+"Booking.FilterScreen.Label.Age.Text" = "Age";
+
+/* Category in filter screen, describing the teacher background of the teacher */
+"Booking.FilterScreen.Label.Background.Text" = "Background";
+
+/* Category in filter screen, describing teachers' skills in teaching beginners */
+"Booking.FilterScreen.Label.Beginner.Text" = "Beginners";
+
+/* Category in filter screen, describing teachers' ability to teach business English */
+"Booking.FilterScreen.Label.BusinessEnglish.Text" = "Business";
+
+/* Category in filter screen, describing attributes like age/gender */
+"Booking.FilterScreen.Label.Demographics.Text" = "Demographics";
+
+/* Category in filter screen, describing education */
+"Booking.FilterScreen.Label.Education.Text" = "Degrees";
+
+/* Category in filter screen */
+"Booking.FilterScreen.Label.Gender.Text" = "Gender";
+
+/* Category in filter screen, describing the local language */
+"Booking.FilterScreen.Label.Japanese.Text" = "Japanese\nSkill";
+
+/* Category in filter screen, describing lesson cost (in tickets) */
+"Booking.FilterScreen.Label.LessonPrice.Text" = "Price";
+
+/* Attribute in filter screen, describing if the teacher is a native English speaker */
+"Booking.FilterScreen.Label.NativeEnglish.Text" = "Native English";
+
+/* Text in filter screen, when the attribute does not apply to the teacher */
+"Booking.FilterScreen.Label.No.Text" = "No";
+
+/* Category in filter screen, describing special areas of expertise a teacher has */
+"Booking.FilterScreen.Label.Specialty.Text" = "Focus Areas";
+
+/* Category in filter screen, describing ability to teach beginner-level English students */
+"Booking.FilterScreen.Label.SpecialtyForBeginners.Text" = "Areas of Expertise";
+
+/* Category in filter screen, describing price (in tickets) */
+"Booking.FilterScreen.Label.Tickets.Text" = "Tickets";
+
+/* Category in filter screen, describing experience in preparing students for standardized English exams */
+"Booking.FilterScreen.Label.ToeflToeic.Text" = "TOEIC\nTOEFL";
+
+/* Text in filter screen, when the attribute applies the teacher */
+"Booking.FilterScreen.Label.Yes.Text" = "Yes";
+
+/* Title of the navigation bar when the history of lessons screen is shown */
+"Booking.HistoryTableViewScreen.NavigationBar.Title" = "Lesson history";
+
+/* Button in pop-up confirming the cancellation of a lesson. Pressing the button makes the pop-up disappear */
+"Booking.LessonCancelledPopup.Button.Next.Title" = "Return to Teachers";
+
+/* Text in pop-up confirming the cancellation of a lesson */
+"Booking.LessonCancelledPopup.Label.CancellationByStudentDescription.Text" = "The lesson below has been cancelled.";
+
+/* Text in pop-up confirming the cancellation of a lesson */
+"Booking.LessonCancelledPopup.Label.CancellationDoneTitle.Text" = "Lesson Cancelled";
+
+/* Text in pop-up that appears when a lesson cancellation has not been successful */
+"Booking.LessonCancelledPopup.Label.CancellationFailTitle.Text" = "So Sorry";
+
+/* Text in pop-up that appears when a lesson has been cancelled not by the student */
+"Booking.LessonCancelledPopup.Label.CancellationNotByStudentDescription.Text" = "Your lesson below has been cancelled. Please accept our sincere apologies.";
+
+/* Text in message when user is refunded the tickets (credits) he spent on a lesson that was later cancelled */
+"Booking.LessonCancelledPopup.Label.Refunded.Text" = "We have refunded %ld tickets to your account.";
+
+/* Text in "previous lessons" screen that appears when the user hasn't had any lessons yet */
+"Booking.LessonHistoryScreen.Label.NoPastLesson" = "You haven't taken any lessons yet";
+
+/* Title of main screen where the list of available teachers appears */
+"Booking.MainScreen.NavigationBar.Title" = "Pick a Teacher";
+
+/* Text in a speech balloon, part of the tutorial, explaining how to use the app */
+"Booking.MainScreen.OnboardingCellTickets.SpeechBalloon.Text" = "You need tickets to book lessons.";
+
+/* Title of the play video button of the onboarding panda tip that displays a video on how to book a lesson */
+"Booking.MainScreen.PandaTip.HowToBookALesson.Button.Video.Title" = "Video";
+
+/* Text of the onboarding panda tip that displays a video on how to book a lesson */
+"Booking.MainScreen.PandaTip.HowToBookALesson.Text" = "How do I book a lesson?";
+
+/* Text 1 of the onboarding panda tip */
+"Booking.MainScreen.PandaTip.Text1" = "Lessons are 25 minutes each. Schedule a few lessons in advance to learn more every day!";
+
+/* Text 2 of the onboarding panda tip */
+"Booking.MainScreen.PandaTip.Text2" = "We have lessons for every level. Whether you are a beginner or an expert, we can help!";
+
+/* Text 3 of the onboarding panda tip */
+"Booking.MainScreen.PandaTip.Text3" = "Our teachers can help with test prep, business English, conversation skills, and more! ";
+
+/* Text 4 of the onboarding panda tip */
+"Booking.MainScreen.PandaTip.Text4" = "Tap play to watch a short video introducing each teacher.";
+
+/* Button in pop-up when trying to book a lesson without having enough tickets (credits). Pressing the button sends the students to a screen where he can buy tickets (credits) */
+"Booking.OutOfCreditPopup.Button.Done.Title" = "Get Tickets";
+
+/* Button in a pop up that appears when a user tries to book a lesson but doesn't have enough tickets. Pressing the button sends the user to the upgrade plans screen */
+"Booking.OutOfCreditPopup.Button.Upgrade.Text" = "Upgrade Plan";
+
+/* Text in pop-up when trying to book a lesson without having enough tickets (credits) */
+"Booking.OutOfCreditPopup.Label.Description.Text" = "You need more tickets to book this lesson.";
+
+/* Title of pop-up when trying to book a lesson without having enough tickets (credits) */
+"Booking.OutOfCreditPopup.Label.Title.Text" = "Not Enough Tickets";
+
+/* Calendar button title in various popups - currently used when prompted to book a lesson after a lesson ends */
+"Booking.PopupBaseScreen.Button.Calendar.Title" = "See lesson schedule";
+
+/* Text in teacher list screen when there are no teachers available at the time chosen. Users can drag down to refresh the list and see if any teachers are available after refreshing */
+"Booking.PullDownAnimation.Label.Text" = "Drag down to refresh";
+
+/* Button in pop-up that requests the user’s permission to send them push notifications when a lesson is about to start */
+"Booking.PushNotificationPopup.Button.AllowPush.Title" = "Allow";
+
+/* Button in pop-up that requests the user’s permission to send them push notifications when a lesson is about to start. Button prevents the app from sending push notifications */
+"Booking.PushNotificationPopup.Button.DisallowPush.Title" = "I'll Never Forget";
+
+/* Text in pop-up that requests the user’s permission to send them push notifications when a lesson is about to start */
+"Booking.PushNotificationPopup.Label.Message.Text" = "Please allow push notifications so we can let you know that your lesson is starting.";
+
+/* Title of pop-up that requests the user’s permission to send them push notifications when a lesson is about to start */
+"Booking.PushNotificationPopup.Title" = "In order not to forget the lesson";
+
+/* Button in pop-up after the user didn’t rate his last lesson. Pressing the button closes the pop-up without rating */
+"Booking.QuestionnaireScreen.Alert.IncompleteRating.Button.Continue.Title" = "Continue";
+
+/* Button in pop-up after the user didn’t rate his last lesson. Pressing the button sends the user back to the screen where he can rate the lesson */
+"Booking.QuestionnaireScreen.Alert.IncompleteRating.Button.GoBackAndRate.Title" = "Go Back and Rate";
+
+/* Text in pop-up after the user didn’t rate his last lesson */
+"Booking.QuestionnaireScreen.Alert.IncompleteRating.Message.2ndLine" = "Are you sure you don't want to\nrate this lesson?";
+
+/* Text in pop-up after the user didn’t rate his last lesson */
+"Booking.QuestionnaireScreen.Alert.IncompleteRating.Message.LessonAndTechnicalQualityNotRated" = "You have not rated this lesson's\noverall and technical quality.";
+
+/* Text in pop-up after the user didn’t rate his last lesson */
+"Booking.QuestionnaireScreen.Alert.IncompleteRating.Message.LessonQualityNotRated" = "You have not rated this lesson's overall quality.";
+
+/* Text in pop-up after the user didn’t rate his last lesson */
+"Booking.QuestionnaireScreen.Alert.IncompleteRating.Message.TechnicalQualityNotRated" = "You have not rated this lesson's technical quality.";
+
+/* Title of pop-up after the user didn’t rate his last lesson */
+"Booking.QuestionnaireScreen.Alert.IncompleteRating.Title" = "Ratings Missing";
+
+/* Button in a pop-up asking the user to rate their last lesson. Pressing the button submits the rating */
+"Booking.QuestionnaireScreen.Button.Submit.Title" = "OK";
+
+/* Text in a pop-up asking the user to rate their last lesson. This text appears when the user gives a low rating to the lesson */
+"Booking.QuestionnaireScreen.Label.BadReviewDetails.Text" = "The lesson wasn't good because..";
+
+/* Header in a pop-up asking the user to rate their last lesson, congratulating them on the completion of a lesson */
+"Booking.QuestionnaireScreen.Label.Header.Text" = "Great job!";
+
+/* Text in a pop-up asking the user to rate their last lesson */
+"Booking.QuestionnaireScreen.Label.LessonQuality.Text" = "How was the overall lesson quality?\n(Audio/video quality as well as lesson content)";
+
+/* Text in a pop-up asking the user to rate their last lesson */
+"Booking.QuestionnaireScreen.Label.TechnicalQuality.Text" = "How was the lesson's technical quality?";
+
+/* Text in a pop-up asking the user to rate their last lesson. This text appears when the user gives a 5/5 star rating */
+"Booking.QuestionnaireScreen.Rating.Amazing" = "Awesome!";
+
+/* Text in a pop-up asking the user to rate their last lesson. This text appears when the user gives a 3/5 star rating */
+"Booking.QuestionnaireScreen.Rating.Average" = "Average";
+
+/* Text in a pop-up asking the user to rate their last lesson. This text appears when the user gives a 1/5 star rating */
+"Booking.QuestionnaireScreen.Rating.Awful" = "Not Usable";
+
+/* Text in a pop-up asking the user to rate their last lesson. This text appears when the user gives a 2/5 star rating */
+"Booking.QuestionnaireScreen.Rating.Bad" = "Poor but usable";
+
+/* Text in a pop-up asking the user to rate their last lesson. This text appears when the user gives a 4/5 star rating */
+"Booking.QuestionnaireScreen.Rating.Good" = "Very Good";
+
+/* Button in the referral pop-up, that copies the referral link into the clipboard */
+"Booking.ReferralPopup.Button.CopyLink.Title" = "Copy Link";
+
+/* Button in the referral pop-up, that open the standard Apple sharing screen */
+"Booking.ReferralPopup.Button.Others.Title" = "Others";
+
+/* Button in the referral pop-up, that shares the referral link with KakaoTalk */
+"Booking.ReferralPopup.Button.ShareWithKakaoTalk.Title" = "Share with KakaoTalk";
+
+/* Button in the referral pop-up, that shares the referral link with LINE */
+"Booking.ReferralPopup.Button.ShareWithLINE.Title" = "Share with LINE";
+
+/* Text in the referral pop-up, explaining the benefits of referring */
+"Booking.ReferralPopup.Label.Body.Text" = "Share our limited 100% first month discount with friends! Earn 100 tickets for each friend who joins!";
+
+/* Text in the referral pop-up, that informs the user that he can have up to 10 lessons with his 100 tickets gift */
+"Booking.ReferralPopup.Label.UpTo10Lessons.Text" = "(up to 10 lessons)";
+
+/* Button in pop-up when a user wants to reschedule a lesson and will not be refunded for the rescheduling. Pressing the button keeps the lesson */
+"Booking.RescheduleConfirmationScreen.Alert.NoCredits.Button.Cancel.Title" = "Cancel";
+
+/* Button in pop-up when a user wants to reschedule a lesson and will not be refunded for the rescheduling. Pressing the button cancels the lesson */
+"Booking.RescheduleConfirmationScreen.Alert.NoCredits.Button.OK.Title" = "OK";
+
+/* Text in pop-up when a user wants to reschedule a lesson and will not be refunded for the rescheduling */
+"Booking.RescheduleConfirmationScreen.Alert.NoCredits.Message" = "This lesson starts in less than 30 minutes,\nyou will not be refunded for rescheduling.\nAre you sure you want to continue?";
+
+/* Title of pop-up when a user wants to reschedule a lesson and will not be refunded for the rescheduling */
+"Booking.RescheduleConfirmationScreen.Alert.NoCredits.Title" = "Warning";
+
+/* Button in screen when a user chooses to change the time of a lesson. Pressing the button confirms the rescheduling */
+"Booking.RescheduleConfirmationScreen.Button.Confirmation.Title" = "Reschedule Booking";
+
+/* Title of screen when a user chooses to change the time of a lesson */
+"Booking.RescheduleConfirmationScreen.NavigationBar.Title" = "Reschedule";
+
+/* Title of screen after a user has changed the time of a lesson */
+"Booking.RescheduleDoneScreen.Label.Title.Text" = "Reschedule Complete!";
+
+/* Button in a pop up that includes information about a teacher. Pressing the button dismises the pop up */
+"Booking.TeacherAttributesScreen.Button.Dismiss.Title" = "OK";
+
+/* Button in filter screen, used to filter the teacher list. Pressing this button applies the filters to the teacher list */
+"Booking.TeacherFilterScreen.Button.ApplyFilters.Title" = "Apply Filters";
+
+/* Button in filter screen, used to filter the teacher list. Pressing this button cancels the filters to the teacher list */
+"Booking.TeacherFilterScreen.Button.Cancel.Title" = "Cancel";
+
+/* Button in filter screen, used to reset the filters to the default */
+"Booking.TeacherFilterScreen.Button.ResetFilters.Title" = "Reset";
+
+/* Title of the teacher filter screen */
+"Booking.TeacherFilterScreen.NavigationBar.Title" = "Filters";
+
+/* Title of the button in teacher list screen when the filters selected have no teachers that match the criterea */
+"Booking.TeacherListScreen.Cell.FilterYieldedNoResults.Button.Title" = "Change Filters";
+
+/* Text in teacher list screen when the filters selected have no teachers that match the criterea */
+"Booking.TeacherListScreen.Cell.FilterYieldedNoResults.Label.SubTitle.Text" = "Please try again by changing your filters.";
+
+/* Text in teacher list screen when the filters selected have no teachers that match the criterea */
+"Booking.TeacherListScreen.Cell.FilterYieldedNoResults.Label.Title.Text" = "No teachers are available for these filters.";
+
+/* Text in teacher list screen when there is no internet connection */
+"Booking.TeacherListScreen.Cell.NoData.Label.Title.Text" = "Can't connect to internet";
+
+/* Text in teacher list screen when there is no internet connection */
+"Booking.TeacherListScreen.Cell.NoInternet.Label.SubTitle.Text" = "Please check your internet connection";
+
+/* Text in teacher list screen when there is no internet connection */
+"Booking.TeacherListScreen.Cell.NoInternet.Label.Title.Text" = "Can't connect to internet";
+
+/* Text in teacher list screen when there is no response from the app server */
+"Booking.TeacherListScreen.Cell.NoServerResponse.Label.SubTitle.Text" = "Please try again shortly";
+
+/* Text in teacher list screen when there is no response from the app server */
+"Booking.TeacherListScreen.Cell.NoServerResponse.Label.Title.Text" = "Can't connect to the server";
+
+/* Title in teacher details screen that describes their accent in English */
+"Booking.TeacherListScreen.DetailView.AttributeTitle.Accent" = "Accent";
+
+/* Title in teacher details screen that describes their ability to teach business English */
+"Booking.TeacherListScreen.DetailView.AttributeTitle.BusinessEnglish" = "Business";
+
+/* Title in teacher details screen that describes their education level */
+"Booking.TeacherListScreen.DetailView.AttributeTitle.Education" = "Education";
+
+/* Title in teacher details screen that describes their proficiency in the local language */
+"Booking.TeacherListScreen.DetailView.AttributeTitle.Japanese" = "Japanese";
+
+/* Title in teacher details screen that describes their ability to prepare students for standardized English exams */
+"Booking.TeacherListScreen.DetailView.AttributeTitle.ToeicToefl" = "TOEIC/TOEFL";
+
+/* Text in tutorial on how to use the app, pointing at the button where the user can choose filters for the teacher list */
+"Booking.TeacherListScreen.FilterButtonPandaTip.Label.Title" = "Filters will help you find the right teacher for you. Try them out now!";
+
+/* Button in the teacher list. Pressing the button sends the user to the filters screen */
+"Booking.TeacherListScreen.Label.AddFilters.Text" = "Filters";
+
+/* Button in the teacher list. Pressing the button sends the user to the list of lessons they booked */
+"Booking.TeacherListScreen.NavigationBar.Label.LessonSchedule.Text" = "Schedule";
+
+/* Tutorial meesage for the (i) button in the teacher cell */
+"Booking.TeacherListScreen.PandaInfoButtonTip.Label.Title" = "Learn more about each teacher by clicking on the information button.";
+
+/* Text in teacher list that appears when the user sets the time they want to take a lesson to a time when there are no available teachers */
+"Booking.TeacherListScreen.TableViewCell.NoData.Label.Title.Text" = "No Lessons Available";
+
+/* Title of the teacher country string as it appears in the teacher cells in the teacher list screen */
+"Booking.TeacherListScreen.TeacherCell.CountryInfo.Title" = "Country:";
+
+/* Title of the teacher hobbies string as it appears in the teacher cells in the teacher list screen */
+"Booking.TeacherListScreen.TeacherCell.HobbiesInfo.Title" = "Hobbies:";
+
+/* Title of the teacherintroduction string as it appears in the teacher cells in the teacher list screen */
+"Booking.TeacherListScreen.TeacherCell.Introduction.Title" = "Introduction:";
+
+/* This string is displayed in the teacher cell and next to it there will be an icon of a flag, denoting the teacher's native English accent (US, UK, Australia or Canada) */
+"Booking.TeacherListScreen.TeacherCell.NativeAccent.Title" = "Native accent:";
+
+/* A button appears on the teacher list cell which takes users to the calendar view to pick a time for a lesson. */
+"Booking.TeacherListScreen.TeacherCell.PickTimeButton.Title" = "Pick a time with %@";
+
+/* Title of the teacher specialties string as it appears in the teacher cells in the teacher list screen */
+"Booking.TeacherListScreen.TeacherCell.SpecialtiesInfo.Title" = "Specialties:";
+
+/* Title of the video button as it appears in the teacher cells in the teacher list screen */
+"Booking.TeacherListScreen.TeacherCell.VideoButton.Title" = "Video";
+
+/* Text of the credits view in the navigation bar when no credits left */
+"Booking.TeacherListScreen.View.Credit.Label.Title.Text" = "Add";
+
+/* Text in the mini view of the upcoming lessons that appears in the main teacher screen - must have an upcoming lesson for the view to appear */
+"Booking.TeacherListScreen.View.MiniLessons.Label.NextLessons.Text" = "Upcoming\nLessons";
+
+/* Name of teacher attribute, describing their proficiency level in a certain language */
+"Booking.TeacherListScreenDetailView.AttributeTitle.Beginner" = "Beginner";
+
+/* Title of the button to book a lesson in the tickets explanation screen */
+"Booking.TicketsExplanationScreen.Button.Book.Title" = "Book My First Lesson";
+
+/* Text for the explanation on tickets in the tickets explanation screen */
+"Booking.TicketsExplanationScreen.Label.TicketsExplanation.Text" = "1. Every month you will get tickets.\n2. Use your tickets to book lessons.\n3. Teachers' ticket amounts may vary depending on their skills.";
+
+/* Navigation bar title of the tickets explanation screen */
+"Booking.TicketsExplanationScreen.NavigationBar.Title" = "How to use Tickets";
+
+/* OK button for alerts shown anywhere in the app. */
+"Categories.Alert.Common.Button.OK.Title" = "OK";
+
+/* General shortcut for April */
+"Categories.DateUnits.ShortApril" = "Apr";
+
+/* General shortcut for August */
+"Categories.DateUnits.ShortAugust" = "Aug";
+
+/* Format of the date of the lesson: 05/04 (Tu). Some languages (e.g. Asian) don't have a space between the date and the day */
+"Categories.DateUnits.ShortDateAndDayFormat" = "%@ (%@)";
+
+/* General shortcut for December */
+"Categories.DateUnits.ShortDecember" = "Dec";
+
+/* General shortcut for February */
+"Categories.DateUnits.ShortFebruary" = "Feb";
+
+/* General shortcut for Friday */
+"Categories.DateUnits.ShortFriday" = "Fr";
+
+/* General shortcut for January */
+"Categories.DateUnits.ShortJanuary" = "Jan";
+
+/* General shortcut for July */
+"Categories.DateUnits.ShortJuly" = "Jul";
+
+/* General shortcut for June */
+"Categories.DateUnits.ShortJune" = "Jun";
+
+/* General shortcut for March */
+"Categories.DateUnits.ShortMarch" = "Mar";
+
+/* General shortcut for May */
+"Categories.DateUnits.ShortMay" = "May";
+
+/* General shortcut for Monday */
+"Categories.DateUnits.ShortMonday" = "Mo";
+
+/* General shortcut for November */
+"Categories.DateUnits.ShortNovember" = "Nov";
+
+/* General shortcut for October */
+"Categories.DateUnits.ShortOctober" = "Oct";
+
+/* General shortcut for Saturday */
+"Categories.DateUnits.ShortSaturday" = "Sa";
+
+/* General shortcut for September */
+"Categories.DateUnits.ShortSeptember" = "Sep";
+
+/* General shortcut for Sunday */
+"Categories.DateUnits.ShortSunday" = "Su";
+
+/* General shortcut for Thursday */
+"Categories.DateUnits.ShortThursday" = "Th";
+
+/* General shortcut for Tuesday */
+"Categories.DateUnits.ShortTuesday" = "Tu";
+
+/* General shortcut for Wednesday */
+"Categories.DateUnits.ShortWednesday" = "We";
+
+/* Placeholder in the chat screen, appears in the text box where a user can enter their message */
+"Chat.ChatScreen.TextField.Message.Placeholder" = "Enter Message";
+
+/* Message of an alert that appears when trying to save the image to the camera roll. The image view screen appears when an image in the chat is tapped. */
+"Chat.ImageViewScreen.Alert.ImageSaveError.Message" = "An error occurred while saving the image to your photo library.";
+
+/* Title of an alert that appears when trying to save the image to the camera roll. The image view screen appears when an image in the chat is tapped. */
+"Chat.ImageViewScreen.Alert.ImageSaveError.Title" = "Image save error";
+
+/* Text that appears after succesfully saving the image to the camera roll. The image view screen appears when an image in the chat is tapped. */
+"Chat.ImageViewScreen.Label.PhotoSaved.Text" = "Image saved";
+
+/* Message when the user goes to the chat screen but has no lead teacher assigned to chat with them */
+"Chat.OutOfLessonChatScreen.Alert.NoLeadTeacher.Message" = "No lead teacher found.";
+
+/* Title of message when the user goes to the chat screen but has no lead teacher assigned to chat with them */
+"Chat.OutOfLessonChatScreen.Alert.NoLeadTeacher.Title" = "Error";
+
+/* Title of the button that appears at the bottom of the chat view when onboarding finishes */
+"Chat.OutOfLessonChatScreen.Button.FinishOnboarding.Title" = "View Teacher Profiles";
+
+/* Title of the button that appears at the bottom of the chat view when onboarding finishes. This appears only if a user select particular demographics. */
+"Chat.OutOfLessonChatScreen.Button.FinishOnboardingWithShouldRecommendTeachers.Title" = "See recommended teachers";
+
+/* Title of chat screen with a teacher when not during a lesson */
+"Chat.OutOfLessonChatScreen.Label.LeadTeacher.Text" = "Coach";
+
+/* One of the Keywords used for corespotlight search which you can find when you swipe down at the home screen of iOS. */
+"Corespotlight.Keywords.English" = "English";
+
+/* Title of the button in a popup to continue after the  popup is shown */
+"Curriculum.PopupScreen.Button.Continue.Title" = "Next";
+
+/* DO NOT TRANSLATE */
+"Debug.LocalNotificationDebugScreen.NavigationBar.Title" = "Local Notifications";
+
+/* Title of cancel button of the the alert that is presented to the user when he want to leave the diagnostic test */
+"Flashcards.Alert.LeaveDiagnosticTest.Button.Cancel" = "No";
+
+/* Title of OK button of the the alert that is presented to the user when he want to leave the diagnostic test */
+"Flashcards.Alert.LeaveDiagnosticTest.Button.OK" = "Yes";
+
+/* Message of the alert that is presented to the user when he want to leave the diagnostic test */
+"Flashcards.Alert.LeaveDiagnosticTest.Message" = "Do you really want to quit the diagnostic test?";
+
+/* Title of the alert that is presented to the user when he want to leave the diagnostic test */
+"Flashcards.Alert.LeaveDiagnosticTest.Title" = "Leave Diagnostic Test";
+
+/* Title of cancel button of the the alert that is presented to the user when he want to leave a review session */
+"Flashcards.Alert.LeaveReviewSession.Button.Cancel" = "No";
+
+/* Title of OK button of the the alert that is presented to the user when he want to leave a review session */
+"Flashcards.Alert.LeaveReviewSession.Button.OK" = "Yes";
+
+/* Message of the alert that is presented to the user when he want to leave a review session */
+"Flashcards.Alert.LeaveReviewSession.Message" = "Do you really want to quit this session?";
+
+/* Title of the alert that is presented to the user when he want to leave a review session */
+"Flashcards.Alert.LeaveReviewSession.Title" = "Leave Review Session";
+
+/* Title of "Cancel" button in the alert that appears when the user wants to remove a card from the flashcards deck. By pressing it, the alert closes without any further action taken */
+"Flashcards.Alert.RemoveFlashcard.Button.Cancel" = "No";
+
+/* Title of "OK" button in the alert that appears when the user wants to remove a card from the flashcards deck. By pressing it, the flashcard will be removed from the deck */
+"Flashcards.Alert.RemoveFlashcard.Button.OK" = "Yes";
+
+/* Message of the alert that appears when the user wants to remove a card from the flashcards deck */
+"Flashcards.Alert.RemoveFlashcard.Message" = "Do you really want to remove this\nword from your deck?";
+
+/* Title of the alert that appears when the user wants to remove a card from the flashcards deck */
+"Flashcards.Alert.RemoveFlashcard.Title" = "This word won't show up again";
+
+/* Flashcards Card Screen: Text of the label that prepends the explanation of the word */
+"Flashcards.CardScreen.Label.Explanation.Text" = "Explanation:";
+
+/* Flashcards Card Screen: Text of the label that prepends the usage examples of the word */
+"Flashcards.CardScreen.Label.Usage.Text" = "Usage:";
+
+/* Flashcards Card Screen: Title of the button in the word review when the user doesn't know the meaning of the word */
+"Flashcards.CardScreen.MemorizationScore.Button.DontKnow.Title" = "don't know";
+
+/* Flashcards Card Screen: Title of the button in the word review when the user knows the meaning of the word */
+"Flashcards.CardScreen.MemorizationScore.Button.Good.Title" = "good";
+
+/* Flashcards Card Screen: Title of the button in the word review when the user knows by heart the meaning of the word */
+"Flashcards.CardScreen.MemorizationScore.Button.Memorized.Title" = "very easy";
+
+/* Flashcards Card Screen: Title of the button in the word review when the user doesn't know for sure the meaning of the word */
+"Flashcards.CardScreen.MemorizationScore.Button.SoAndSo.Title" = "kind of";
+
+/* Flashcards Card Screen: Title of the screen's navigation bar. The placeholders show the current card number reviewed and the total number of the cards to review */
+"Flashcards.CardScreen.NavigationBar.RightBarItem.Text" = "%ld/%ld";
+
+/* Text for "Total" label of the screen that displays the diagnostic test results */
+"Flashcards.DiagnosticTestResultsScreen.Label.Total.Text" = "Total";
+
+/* Text for "Your answers" label of the screen that displays the diagnostic test results */
+"Flashcards.DiagnosticTestResultsScreen.Label.YourAnswers.Text" = "Your answers";
+
+/* Navigation bar title of the screen that displays the diagnostic test results */
+"Flashcards.DiagnosticTestResultsScreen.NavigationBar.Title" = "Level Test Results";
+
+/* Message of the local notification that prompts the user to enter the app and review his flashcards */
+"Flashcards.LocalNotificationManager.LocalNotification.alertBody" = "You have %ld cards to review";
+
+/* Flashcards Chat Words Added Popup: Title of the OK button that closes the popup and shows the screen to practice the new words */
+"Flashcards.Popup.ChatWordsAdded.Button.OK.Text" = "Practice New Words";
+
+/* Flashcards Chat Words Added Popup: Text of the description label */
+"Flashcards.Popup.ChatWordsAdded.Label.Description.Text" = "We found new words in your chats and added them to your word list.";
+
+/* Flashcards Chat Words Added Popup: Text of the title label */
+"Flashcards.Popup.ChatWordsAdded.Label.Title.Text" = "New chapter from chat!";
+
+/* Title of the OK button of the popup that appears when the user has not finished the diagnostic test yet */
+"Flashcards.Popup.ContinueDiagnosticTest.Button.OK.Title" = "Continue Evaluating my Level";
+
+/* Description text of the popup that appears when the user has not finished the diagnostic test yet */
+"Flashcards.Popup.ContinueDiagnosticTest.Label.Description.Text" = "In order to evaluate your English level please continue the diagnostic test";
+
+/* Title of the OK button of the popup that appears when the user has not finished the diagnostic test yet */
+"Flashcards.Popup.ContinueDiagnosticTest.Label.Title.Text" = "Continue Diagnostic Test!";
+
+/* Title of the OK button of the popup that appears after a non paying user finishes the diagnostic test to determine his proficiency level */
+"Flashcards.Popup.DiagnosticTestDoneNonPayingUser.Button.OK.Title" = "Book a lesson";
+
+/* Description text of the popup that appears after a non paying user finishes the diagnostic test to determine his proficiency level */
+"Flashcards.Popup.DiagnosticTestDoneNonPayingUser.Label.Description.Text" = "To review your full results,\nplease book a lesson";
+
+/* Title of the popup that appears after a non paying user finishes the diagnostic test to determine his proficiency level */
+"Flashcards.Popup.DiagnosticTestDoneNonPayingUser.Label.Title.Text" = "Great job!";
+
+/* Title of the OK button of the popup that appears after a paying user finishes the diagnostic test to determine his proficiency level */
+"Flashcards.Popup.DiagnosticTestDonePayingUser.Button.OK.Title" = "See full results";
+
+/* Description text of the popup that appears after a paying user finishes the diagnostic test to determine his proficiency level */
+"Flashcards.Popup.DiagnosticTestDonePayingUser.Label.Description.Text" = "Keep up the good work";
+
+/* Title of the popup that appears after a paying user finishes the diagnostic test to determine his proficiency level */
+"Flashcards.Popup.DiagnosticTestDonePayingUser.Label.Title.Text" = "Great job!";
+
+/* Flashcards Results Popup: Title of the Close button that closes the popup and returns to the previous screen */
+"Flashcards.Popup.Results.Button.Close.Title" = "Close";
+
+/* Flashcards Results Popup: Title of the button that when pressed it assigns more says to the user to do even more flashcards */
+"Flashcards.Popup.Results.Button.OK.Title" = "Do even more";
+
+/* Flashcards Results Popup: Text of the description label */
+"Flashcards.Popup.Results.Label.Description.Text" = "Check out your results below";
+
+/* Flashcards Results Popup: Text of the title label */
+"Flashcards.Popup.Results.Label.Title.Text" = "Great job!";
+
+/* Title of the OK button of the popup that appears after the user finishes reviewing all his flashcards for the day */
+"Flashcards.Popup.ReviewDone.Button.OK.Title" = "OK";
+
+/* Description text of the popup that appears after the user finishes reviewing all his flashcards for the day */
+"Flashcards.Popup.ReviewDone.Label.Description.Text" = "Well done!";
+
+/* Title of the popup that appears after the user finishes reviewing all his flashcards for the day */
+"Flashcards.Popup.ReviewDone.Label.Title.Text" = "Daily goal complete!";
+
+/* Description text of the popup that appears when the English diagnostic test is over earlier than expected (because we have enough info to determine the user's level) */
+"Flashcards.Popup.TestFinishedEarly.Label.Description.Text" = "We have enough data to evaluate your level!";
+
+/* Title of the popup that appears when the English diagnostic test is over earlier than expected (because we have enough info to determine the user's level) */
+"Flashcards.Popup.TestFinishedEarly.Label.Title.Text" = "You're done early!";
+
+/* Description text of the popup that appears when the English diagnostic test is over earlier than expected (because we have enough info to determine the user's level) - for non paying users */
+"Flashcards.Popup.TestFinishedEarly.NonPayingUser.Label.Description.Text" = "To review your full results,\nplease sign up to a plan";
+
+/* Title of the OK button of the popup that appears when the English diagnostic test is over earlier than expected (because we have enough info to determine the user's level) - for paying users */
+"Flashcards.Popup.TestFinishedEarly.PayingUser.Button.OK.Title" = "Book a lesson";
+
+/* Description text of the popup that appears when the English diagnostic test is over earlier than expected (because we have enough info to determine the user's level) - for paying users */
+"Flashcards.Popup.TestFinishedEarly.PayingUser.Label.Description.Text" = "To review your full results,\nplease book a lesson";
+
+/* Flashcards Textbook Words Added Popup: Title of the OK button that closes the popup and shows the screen to practice the new words */
+"Flashcards.Popup.TextbookWordsAdded.Button.OK.Text" = "Practice New Words";
+
+/* Flashcards Textbook Words Added Popup: Text of the description label */
+"Flashcards.Popup.TextbookWordsAdded.Label.Description.Text" = "You've been assigned a new textbook chapter. We've added the words to your list!";
+
+/* Flashcards Textbook Words Added Popup: Text of the title label */
+"Flashcards.Popup.TextbookWordsAdded.Label.Title.Text" = "New chapter, new words!";
+
+/* Flashcards Time To Review Popup: Title of the OK button that closes the popup and shows a screen to review the new words */
+"Flashcards.Popup.TimeToReviewFlashcards.Button.OK.Title" = "Review";
+
+/* Flashcards Time To Review Popup: Text of the description label */
+"Flashcards.Popup.TimeToReviewFlashcards.Label.Description.Text" = "Reviewing words at the right time is key to help you memorize faster!";
+
+/* Time to Review Flashcards popup, Flashcards Time To Review Popup: Text of the title label */
+"Flashcards.Popup.TimeToReviewFlashcards.Label.Title.Text" = "Time to review %ld Flashcards";
+
+/* Flashcards Welcome Popup: Title of the OK button that closes the popup and shows a screen to evaluate the user English knowledge level */
+"Flashcards.Popup.WelcomeToFlashcards.Button.OK.Title" = "Evaluate my Level";
+
+/* Flashcards Welcome Popup: Text of the description label */
+"Flashcards.Popup.WelcomeToFlashcards.Label.Description.Text" = "Our algorithms will help you learn words from your chats and lessons in no time!";
+
+/* Flashcards Welcome Popup: Text of the title label */
+"Flashcards.Popup.WelcomeToFlashcards.Label.Title.Text" = "Welcome to Flashcards!";
+
+/* Text of the "Great Job" animation that appears when the user finishes all his daily flashcards */
+"Flashcards.ProgressScreen.Animation.GreatJob.Label.Text" = "Great Job!";
+
+/* Flashcards Progress Screen: Title of the button that opens the popup to set daily reminders */
+"Flashcards.ProgressScreen.Button.EditDailyReminders.Title" = "Edit";
+
+/* Flashcards Progress Screen: Line 1 of the button title that appears when the user has not reviewed any words yet */
+"Flashcards.ProgressScreen.Button.ReviewNewWords.Title.Line1" = "Start Learning";
+
+/* Flashcards Progress Screen: Line 2 of the button title that appears when the user has not reviewed any words yet */
+"Flashcards.ProgressScreen.Button.ReviewNewWords.Title.Line2" = "Learn and Review even more words";
+
+/* Flashcards Progress Screen: Title of the button that appears when the user has no review goal set yet and opens a popup to set a review goal */
+"Flashcards.ProgressScreen.Button.SetGoal.Title" = "Set my goal";
+
+/* Flashcards Progress Screen: Title of the button that opens a list of the reviewed words */
+"Flashcards.ProgressScreen.Button.ShowMemorizedWords.Title" = "See Word List";
+
+/* Flashcards Progress Screen: Title of the button that shows the result of the diagnostic test */
+"Flashcards.ProgressScreen.Button.ShowResult.Title" = "Level Test\nResults";
+
+/* Flashcards Progress Screen: Text of the label that is shown when the dailyreminders are off */
+"Flashcards.ProgressScreen.Label.DailyRemindersOff.Text" = "Daily Reminders: OFF";
+
+/* Flashcards Progress Screen: Text of the label that is shown when the dailyreminders are on */
+"Flashcards.ProgressScreen.Label.DailyRemindersOn.Text" = "Daily Reminders: ON";
+
+/* Flashcards Progress Screen: Text of the label that is above the memorization section */
+"Flashcards.ProgressScreen.Label.MemorizedWords.Text" = "Memorized words";
+
+/* Flashcards Progress Screen: Text of the label that shows the weekly progress of the reviewed words. The placehoders are "cards reviewed" and "total cards to review" */
+"Flashcards.ProgressScreen.Label.WeeklyProgress.Text" = "Weekly progress %ld/%ld";
+
+/* Flashcards Progress Screen: Text of the label that shows the words to be reviewed by the user per day */
+"Flashcards.ProgressScreen.Label.WordsToReviewPerDay.Text" = "Goal: %ld words per day";
+
+/* Flashcards Progress Screen: Text of the label in the memorization score section that shows good memorized words */
+"Flashcards.ProgressScreen.MemorizationScoreSection.Label.Good.Text" = "Good";
+
+/* Flashcards Progress Screen: Text of the label in the memorization score section that shows fully memorized words */
+"Flashcards.ProgressScreen.MemorizationScoreSection.Label.Memorized.Text" = "Memorized";
+
+/* Flashcards Progress Screen: Text of the label in the memorization score section that shows so and so memorized words */
+"Flashcards.ProgressScreen.MemorizationScoreSection.Label.SoAndSo.Text" = "So-So";
+
+/* Flashcards Progress Screen: Text of the label in the memorization score section that shows not reviewed words */
+"Flashcards.ProgressScreen.MemorizationScoreSection.Label.Unstarted.Text" = "Unstarted";
+
+/* Flashcards Progress Screen: Text of the label in the weekly progress section that marks today */
+"Flashcards.ProgressScreen.WeeklyProgressSection.Label.Today" = "Today";
+
+/* Flashcards Set Goal Screen: Text of the OK button that close the popup and returns to the previous screen */
+"Flashcards.SetGoalScreen.Button.OK.Title" = "Let's do it!";
+
+/* Flashcards Set Goal Screen: Text of the daily reminders label in front of the switch that enables/disables them */
+"Flashcards.SetGoalScreen.Label.DailyReminders.Text" = "Daily Reminders";
+
+/* Flashcards Set Goal Screen: Text of the maximum words per review label */
+"Flashcards.SetGoalScreen.Label.MaximumWordsPerReview.Text" = "Maximum words per review";
+
+/* Flashcards Set Goal Screen: Text of the title label */
+"Flashcards.SetGoalScreen.Label.Title.Text" = "My Goal";
+
+/* Flashcards Set Goal Screen: Text of the words to review per day label */
+"Flashcards.SetGoalScreen.Label.WordsToReviewPerDay.Text" = "How many words do you want to review per day?";
+
+/* Flashcards Word List Screen: Title of the screen's navigation bar */
+"Flashcards.WordListScreen.NavigationBar.Title" = "Word List";
+
+/* Flashcards Word List Screen: Title of the tab that shows all words when pressed */
+"Flashcards.WordListScreen.Tab.All.Title" = "All";
+
+/* Font name. This is for developers. Please do NOT translate this. */
+"Managers.FontManagers.FontName.Bold" = "HelveticaNeue-Bold";
+
+/* Font name. This is for developers. Please do NOT translate this. */
+"Managers.FontManagers.FontName.Regular" = "HelveticaNeue";
+
+/* Button in pop up that appears when a user has to upgrade the app. Pressing the button dismisses the pop up */
+"Managers.ForcedUpgrade.Alert.ShutDown.Button.OK.Title" = "OK";
+
+/* Text in pop up that appears when a user has to upgrade the app */
+"Managers.ForcedUpgrade.Alert.ShutDown.Message" = "Click install after the app shuts down.";
+
+/* Title of a pop up that appears when a user has to upgrade the app */
+"Managers.ForcedUpgrade.Alert.ShutDown.Title" = "Please Update Your App";
+
+/* Text in pop up that appears when a user has to upgrade the app, when the app is shutting down */
+"Managers.ForcedUpgrade.Label.ShuttingDown.Text" = "Shutting Down";
+
+/* Text in error message when the user hasn’t configured their iPhone calendar to sync with the app, and the lesson they bookes cannot be added to their iPhone calendar */
+"Managers.ICal.Alert.AddEventError.Message" = "Can't add Event. Your calendar is not set up.";
+
+/* Title of error message when the user hasn’t configured their iPhone calendar to sync with the app, and the lesson they bookes cannot be added to their iPhone calendar */
+"Managers.ICal.Alert.AddEventError.Title" = "iCal Sync";
+
+/* Button in pop-up asking whether the user wants booked lessons to be added to their iPhone calendar. Pressing this button will not sync their calendar with the app */
+"Managers.ICal.Alert.IfLessonShouldBeAdded.Button.No.Title" = "No, Thanks!";
+
+/* Button in pop-up asking whether the user wants booked lessons to be added to their iPhone calendar. Pressing this button will sync their calendar with the app */
+"Managers.ICal.Alert.IfLessonShouldBeAdded.Button.Yes.Title" = "Add to Calendar";
+
+/* Text in pop-up asking whether the user wants booked lessons to be added to their iPhone calendar */
+"Managers.ICal.Alert.IfLessonShouldBeAdded.Message" = "Would you like to add lessons to your personal calendar?";
+
+/* Title of pop-up asking whether the user wants booked lessons to be added to their iPhone calendar */
+"Managers.ICal.Alert.IfLessonShouldBeAdded.Title" = "iCal Sync";
+
+/* Text in pop-up when a user cancels a lesson but their calendar is not synced with the app */
+"Managers.ICal.Alert.RemoveEventError.Message" = "Can't remove Event. Your calendar is not set up.";
+
+/* Title of pop-up when a user cancels a lesson but their calendar is not synced with the app */
+"Managers.ICal.Alert.RemoveEventError.Title" = "iCal Sync";
+
+/* Text in calendar event that the app creates for the lessons. (%@) is the teacher’s name */
+"Managers.ICal.Event.Lesson.Title.WithTeacherName" = "OKpanda English Lesson with (%@)";
+
+/* Error message when there's a problem connecting to the server */
+"Managers.LessonManager.Alert.CannotGetVideoCallInformation.Message" = "Can't access video call information from the server.";
+
+/* Title of error message when there's a problem connecting to the server */
+"Managers.LessonManager.Alert.CannotGetVideoCallInformation.Title" = "Error in Start Lesson API";
+
+/* Message of the alert that appears if a user tries to join a lesson that has been ended already */
+"Managers.LessonManager.Alert.LessonEnded.Message" = "You cannot enter this lesson anymore since it has already ended.";
+
+/* Title of the alert that apears if a user tries to join a lesson that has been ended already */
+"Managers.LessonManager.Alert.LessonEnded.Title" = "Lesson ended";
+
+/* Text in pop-up notification that appears a week after the user took their last lesson */
+"Managers.LocalNotificationManager.LocalNotification.1WeekNotification.alertBody" = "It has been a week since your last lesson. Persistence pays off.";
+
+/* Text in pop-up notification that appears 2 days after the user took their last lesson */
+"Managers.LocalNotificationManager.LocalNotification.2DaysNotification.alertBody" = "It has been 2 days since your last lesson.";
+
+/* Text in pop-up notification that appears two weeks after the user took their last lesson */
+"Managers.LocalNotificationManager.LocalNotification.2WeekNotification.alertBody" = "It has been 2 weeks since your last lesson. Rome was not built in a day.";
+
+/* Text in pop-up notification that appears 4 days after the user took their last lesson */
+"Managers.LocalNotificationManager.LocalNotification.4DaysNotification.alertBody" = "It's been 4 days since your last lesson.";
+
+/* Text in pop-up notification that reminds the user that they should schedule a lesson */
+"Managers.LocalNotificationManager.LocalNotification.BookReminder.alertBody" = "Please book a lesson.";
+
+/* Text in pop-up that appears when the user has been logged out by the system or for another reason */
+"Managers.NavigationManager.Alert.AccountReset.Message" = "For security purposes you have been logged out. Please log in to access your account.";
+
+/* Title of pop-up that appears when the user has been logged out by the system or for another reason */
+"Managers.NavigationManager.Alert.AccountReset.Title" = "Warning";
+
+/* Text in pop-up that appears when the user has been logged out by the system or for another reason */
+"Managers.NavigationManager.Alert.UserLoggedOut.Message" = "For security purposes you have been logged out. Please log in to access your account.";
+
+/* Title of pop-up that appears when the user has been logged out by the system or for another reason */
+"Managers.NavigationManager.Alert.UserLoggedOut.Title" = "Warning";
+
+/* Text in pop up explaining how to enable push notifications in the phone settings */
+"Managers.PushNotificationManager.Alert.EnablePushNotifications.Message" = "Go to Settings->Notifications->OKpanda and turn everything on";
+
+/* Title of pop up explaining how to enable push notifications in the phone settings */
+"Managers.PushNotificationManager.Alert.EnablePushNotifications.Title" = "Please Turn On Push Notifications";
+
+/* Error message that appears in the chat cell, whenever the file referenced in it fails to download. %@ is the file name. */
+"MediaURLCell.Error.FailedToDownload" = "File %@ failed to download";
+
+/* Button in error pop up. Pressing the button dismisses the pop up */
+"Navigation.NavigationManager.Alert.ServerDown.Button.OK.Title" = "OK";
+
+/* Text in pop-up that appears where the app could not connect to the server */
+"Navigation.NavigationManager.Alert.ServerDown.Message" = "Problem communicating with server";
+
+/* Title of pop-up that appears where the app could not connect to the server */
+"Navigation.NavigationManager.Alert.ServerDown.Title" = "Warning";
+
+/* Button that appears in onboarding screens. Pressing the button sends the user to enter their email and password */
+"Onboarding.BaseScreen.Button.Login.Title" = "Have an account? Log in";
+
+/* Button can appear in onboarding screens, which allows users to skip that screen. */
+"Onboarding.BaseScreen.Button.Skip.Title" = "Skip";
+
+/* Description text of the onboarding 100 tickets offer screen */
+"Onboarding.Discount100Tickets.Label.Description.Text" = "If you register now,\nyou will get 100 premium tickets!";
+
+/* Title of the onboarding 100 tickets offer screen */
+"Onboarding.Discount100Tickets.Label.Header.Text" = "3 days limited offer\nSpecial campaign!";
+
+/* Description of the onboarding 1 month free offer screen */
+"Onboarding.Discount1MonthFree.Label.Description.Text" = "Sign up in the next 72 hours\nto claim your free month";
+
+/* Title of the button on the onboarding offer screens, to go to the next onboarding screen */
+"Onboarding.DiscountBase.Button.Next.Title" = "Next";
+
+/* Text in the initial set up of a user profile, referring to names in the Roman alphabet */
+"Onboarding.NameInputScreen.Label.NotInEnglish.Text" = "Please enter your name in English.";
+
+/* Text in the tutorial that explains the different features of the app when the user opens it for the first time */
+"Onboarding.OnboardingPagingScreen.Label.FirstTitle.Text" = "Take video \nlessons anywhere!";
+
+/* Text in the tutorial that explains the different features of the app when the user opens it for the first time */
+"Onboarding.OnboardingPagingScreen.Label.SecondTitle.Text" = "Access amazing content \npersonalized just for you.";
+
+/* Text in the tutorial that explains the different features of the app when the user opens it for the first time */
+"Onboarding.OnboardingPagingScreen.Label.ThirdTitle.Text" = "Stay motivated by talking to your chat coach 24/7!";
+
+/* Text in the tutorial that instructs the student how to continue to the next screen */
+"Onboarding.OnboardingPagingScreen.SwipeIndicator.SwipeLeft" = "Swipe Left";
+
+/* Button in message asking whether to enable notifications */
+"Onboarding.PushNotificationOnboardingScreen.Button.Yes.Title" = "Enable Notifications";
+
+/* Text in message asking whether to enable notifications */
+"Onboarding.PushNotificationOnboardingScreen.Label.FirstLine.Text" = "We'd like to notify you\nwhen your teacher sends you messages";
+
+/* Text in message asking whether to enable notifications */
+"Onboarding.PushNotificationOnboardingScreen.Label.Question.Text" = "Enable notifications?";
+
+/* Text in message asking whether to enable notifications */
+"Onboarding.PushNotificationOnboardingScreen.Label.SecondLine.Text" = "We promise never to send you\nanything unwanted.";
+
+/* Button that appears during the initial set up of a user profile. Describes the user’s level of language he is interested in learning */
+"Onboarding.StructuredQuestionEnglishLevel.Button.Option1.Title" = "Beginner";
+
+/* Button that appears during the initial set up of a user profile. Describes the user’s level of language he is interested in learning */
+"Onboarding.StructuredQuestionEnglishLevel.Button.Option2.Title" = "Intermediate";
+
+/* Button that appears during the initial set up of a user profile. Describes the user’s level of language he is interested in learning */
+"Onboarding.StructuredQuestionEnglishLevel.Button.Option3.Title" = "Advanced";
+
+/* Text that appears during the initial set up of a user profile. Describes the user’s level of language he is interested in learning */
+"Onboarding.StructuredQuestionEnglishLevel.Label.Header.Text" = "What is your \nEnglish level?";
+
+/* Button that appears during the initial set up of a user profile. Describes the user’s main motivation for learning a language */
+"Onboarding.StructuredQuestionGoal.Button.Option1.Title" = "Hobby/Travel";
+
+/* Button that appears during the initial set up of a user profile. Describes the user’s main motivation for learning a language */
+"Onboarding.StructuredQuestionGoal.Button.Option2.Title" = "Business";
+
+/* Button that appears during the initial set up of a user profile. Describes the user’s main motivation for learning a language */
+"Onboarding.StructuredQuestionGoal.Button.Option3.Title" = "Other";
+
+/* Question that appears upon opening the app for the first time, asking the user to describe why do they want to learn English */
+"Onboarding.StructuredQuestionGoal.Label.DescribeYourGoal.Text" = "Describe your Goals";
+
+/* Text that appears during the initial set up of a user profile. Describes the user’s main motivation for learning a language */
+"Onboarding.StructuredQuestionGoal.Label.Header.Text" = "Why do you want \nto learn English?";
+
+/* Button that appears during the initial set up of a user profile. Describes the user’s profession */
+"Onboarding.StructuredQuestionProfession.Button.Option1.Title" = "School";
+
+/* Button that appears during the initial set up of a user profile. Describes the user’s profession */
+"Onboarding.StructuredQuestionProfession.Button.Option2.Title" = "Work";
+
+/* Button that appears during the initial set up of a user profile. Describes the user’s profession */
+"Onboarding.StructuredQuestionProfession.Button.Option3.Title" = "Other";
+
+/* Text that appears during the initial set up of a user profile. Describes the user’s profession */
+"Onboarding.StructuredQuestionProfession.Label.Header.Text" = "What keeps you busy most of the time?";
+
+/* Button that appears during the inital set up of a user profile. Pressing the button sends the user to enter their email and password */
+"Onboarding.StructuredQuestionsScreen.Button.Login.Title" = "Have an account? Log in";
+
+/* Generic OK button */
+"Onboarding.TextInputScreen.Button.Submit.Title" = "OK";
+
+/* Button in the initial set-up of a user profile. Pressing this button skips the email input stage */
+"Onboarding.TextQuestionsEmailScreen.Button.Skip.Title" = "Skip";
+
+/* Text in the initial set-up of a user profile */
+"Onboarding.TextQuestionsEmailScreen.Label.Header.Text" = "Email Address";
+
+/* Text in the initial set up of a user profile, when the user enters an invalid email address */
+"Onboarding.TextQuestionsEmailScreen.Label.InvalidEmail.Text" = "This email address is invalid.";
+
+/* Text in the initial set up of a user profile */
+"Onboarding.TextQuestionsFirstNameScreen.Label.Header.Text" = "First Name";
+
+/* Text in the initial set up of a user profile, referring to names in the Roman alphabet */
+"Onboarding.TextQuestionsFirstNameScreen.Label.NotInEnglish.Text" = "Please enter your name in English.";
+
+/* Text in the initial set up of a user profile */
+"Onboarding.TextQuestionsLastNameScreen.Label.Header.Text" = "Last Name";
+
+/* Text in the initial set up of a user profile, referring to names in the Roman alphabet */
+"Onboarding.TextQuestionsLastNameScreen.Label.NotInEnglish.Text" = "Please enter your name in English.";
+
+/* Button in pop up saying that the user has a certain amount of free tickets that they can use for scheduling a lesson. Pressing the button dismisses the pop up */
+"OnboardingPopups.DaysLeftForFreeTrialScreen.Button.Done.Title" = "Book My Free Lesson";
+
+/* Text in pop up saying that the user has a certain amount of free tickets that they can use for scheduling a lesson for a certain number of days */
+"OnboardingPopups.DaysLeftForFreeTrialScreen.Label.Body.Text" = "To enjoy your %ld free tickets,\nmake sure to book your lessons.";
+
+/* Text in pop up saying that the user has a certain amount of free tickets that they can use for scheduling a lesson for a certain number of days */
+"OnboardingPopups.DaysLeftForFreeTrialScreen.Label.Title.Text" = "7 Days Left";
+
+/* Button in pop up saying that the user’s free trial period has ended, and that they need to sign up for a paid plan. Pressing the button send the user to a screen where they can purchase a plan */
+"OnboardingPopups.FreeTrialExpiredPopup.Button.Done.Title" = "See Plans";
+
+/* Text in pop up saying that the user’s free trial period has ended, and that they need to sign up for a paid plan */
+"OnboardingPopups.FreeTrialExpiredPopup.Label.Description.Text" = "We're sorry, your free trial has expired. You need to sign up for a membership plan to book your next lesson.";
+
+/* Text in pop up saying that the user’s free trial period has ended, and that they need to sign up for a paid plan */
+"OnboardingPopups.FreeTrialExpiredPopup.Label.Title.Text" = "Free Trial ended";
+
+/* Button in pop up saying that the user got a certain amount of free tickets that they can use to schedule a lesson within a limited number of days. Pressing the button dismisses the pop up */
+"OnboardingPopups.GetTicketsPopup.Button.Receive.Title" = "Book my first lesson.";
+
+/* Text in pop up saying that the user got a certain amount of free tickets (%ld) that they can use to schedule a lesson within a limited number of days. End date is the second parameter (%@) */
+"OnboardingPopups.GetTicketsPopup.Label.Description.Text" = "To get you started, we've granted you %ld free tickets!";
+
+/* Title of a pop up that appears upon using the app for the first time, granting the users some free tickets */
+"OnboardingPopups.GetTicketsPopup.Label.Title.Text" = "A Special Gift";
+
+/* Title of the button to continue to the next popup - appears in onboarding popups */
+"OnboardingPopups.LabelConstructor.Button.Next.Title" = "Next";
+
+/* Label text to tell user that he can continue to the next onboarding screen by tapping */
+"OnboardingPopups.LabelConstructor.Label.TapToContinue.Text" = "Tap to continue";
+
+/* Button in pop up that appears after the user finished the tutorial about how to use the app, saying that the user can take a lesson. Pressing the button dismisses the pop up */
+"OnboardingPopups.TutorialDoneScreen.Button.Done.Title" = "Book my first lesson.";
+
+/* Text in pop up that appears after the user finished the tutorial about how to use the app, saying that the user can take a lesson */
+"OnboardingPopups.TutorialDoneScreen.Label.Description.Text" = "We have great teachers for any level, including for beginners.\nYour tickets are valid until: %@";
+
+/* Title of pop up that appears after the user finished the tutorial about how to use the app, saying that the user can take a lesson */
+"OnboardingPopups.TutorialDoneScreen.Label.Title.Text" = "Tutorial Complete";
+
+/* Button in pop up that asks whether the user would like to recommend the app to a friend. Pressing this button dismisses the pop up */
+"PostLesson.ReferralPopup.Button.Close.Title" = "Close";
+
+/* Button in pop up that asks whether the user would like to recommend the app to a friend. Pressing this button dismisses the pop up and makes it never show up again */
+"PostLesson.ReferralPopup.Button.DoNotShowAgain.Title" = "Don't Show Again";
+
+/* Button in pop up that asks whether the user would like to recommend the app to a friend. Pressing this button sends the user to a screen where they can write their friend's information in order to refer them to OKpanda */
+"PostLesson.ReferralPopup.Button.Refer.Title" = "Refer";
+
+/* Label of pop up that asks whether the user would like to recommend the app to a friend. This text appears in a bannerand is user-facing */
+"PostLesson.ReferralPopup.Label.Banner.Text" = "Referral Campaign";
+
+/* Title of a button that sends the user to the chat screen */
+"QuickActionManager.ShortcutItem.Chat.Title" = "Chat";
+
+/* Button that sends the user to the scheduled lessons screen, showing the scheduled lessons the user booked/completed */
+"QuickActionManager.ShortcutItem.Schedule.Title" = "Schedule";
+
+/* Message of the alert that shows up after the user presses the button to copy the referral link in the clipboard */
+"ReferralManager.Alert.ReferralLinkCopiedToClipboard.Message" = "The referral link has been copied to the clipboard";
+
+/* Title of the alert that shows up after the user presses the button to copy the referral link in the clipboard */
+"ReferralManager.Alert.ReferralLinkCopiedToClipboard.Title" = "Referral Link Copied";
+
+/* iOS format, no need to translate */
+"SearchableItem.TeacherNameFormat" = "%@";
+
+/* Button in the navigation menu leading the student to the Quality Assurance screen */
+"Setting.QASettingScreen.NavigationBar.Title" = "QA Settings";
+
+/* Title of a screen where the user can edit their profile */
+"Settings.EditProfileScreen.NavigationBar.Title" = "Edit Profile";
+
+/* Button in pop-up explaining where a user can purchase credits (tickets). Pressing this button dismisses the pop-up */
+"Subscription.AboutCreditsPopup.Button.Done.Title" = "Next";
+
+/* Text in pop-up explaining where a user can purchase credits (tickets) */
+"Subscription.AboutCreditsPopup.Label.Message.Text" = "On the top right you can\n check out your plan\n and purchase tickets";
+
+/* Title of pop-up explaining where a user can purchase credits (tickets) */
+"Subscription.AboutCreditsPopup.Title" = "Purchasing Tickets";
+
+/* Text in pop up that appears when a user undoes their change of plan */
+"Subscription.Alert.BackToOriginalPlan.Message" = "Your original plan is now active";
+
+/* Title of a pop up that appears when a user undoes their change of plan */
+"Subscription.Alert.BackToOriginalPlan.Title" = "Completed";
+
+/* Text in pop up that appears when a user cancels their plan */
+"Subscription.Alert.CanceledMembership.Message" = "Membership Cancelled";
+
+/* Title of a pop up that appears when a user cancels their plan */
+"Subscription.Alert.CanceledMembership.Title" = "Completed";
+
+/* Error message when the server cannot find the requested plan */
+"Subscription.Alert.CouldNotFindPlan.Message" = "Could not find plan";
+
+/* Title of an error message when the server cannot find the requested plan */
+"Subscription.Alert.CouldNotFindPlan.Title" = "Plan Error";
+
+/* Error message when the server cannot get the credit card info entered */
+"Subscription.Alert.CouldNotGetCreditCard.Message" = "The credit card information is incorrect. Please check your card and enter it again.";
+
+/* Title of error message when the server cannot get the credit card info entered */
+"Subscription.Alert.CouldNotGetCreditCard.Title" = "Error";
+
+/* Error message when the device cannot connect to the server and show paid plans */
+"Subscription.Alert.CouldNotGetPlans.Message" = "Could not get plans";
+
+/* Title of error message when the device cannot connect to the server and show paid plans */
+"Subscription.Alert.CouldNotGetPlans.Title" = "Server Error";
+
+/* Error message when the device cannot connect to the server and show subscription details */
+"Subscription.Alert.CouldNotGetSubscription.Message" = "Could not get subscription";
+
+/* Title of error message when the device cannot connect to the server and show subscription details */
+"Subscription.Alert.CouldNotGetSubscription.Title" = "Error";
+
+/* Error message when the device cannot connect to the server and show update information */
+"Subscription.Alert.CouldNotGetUpdateInfo.Message" = "Could not get update information";
+
+/* Title of error message when the device cannot connect to the server and show update information */
+"Subscription.Alert.CouldNotGetUpdateInfo.Title" = "Server Error";
+
+/* Error message when the device cannot connect to the server and subscribe to the requested plan */
+"Subscription.Alert.CouldNotSubscribePlans.Message" = "Could not subscribe to plan";
+
+/* Title of error message when the device cannot connect to the server and subscribe to the requested plan */
+"Subscription.Alert.CouldNotSubscribePlans.Title" = "Subscription error";
+
+/* Error message when registering credit card information is unsuccessful */
+"Subscription.Alert.CreditCardRegistrationError.Message" = "Credit card registration failed. Please review your credit card details are input correctly or try using a different card. If you continue to have this issue please reach out to our customer support team.";
+
+/* Title of error message when registering credit card information is unsuccessful */
+"Subscription.Alert.CreditCardRegistrationError.Title" = "Registration Error";
+
+/* Error message that appears when a user enters a credit card from a type that is not supported */
+"Subscription.Alert.NotSupportedCreditCard.Message" = "This credit card type is not supported. We support Visa, MasterCard, and AMEX. We also accept bank transfers if you reach out to our customer support team.";
+
+/* Error message that appears when payment fails */
+"Subscription.Alert.PaymentDeclinedGeneral.Message" = "We encountered an error when trying to charge your card. Please try again. If you continue to see this error please reach out to our customer support team.";
+
+/* Contact support button for alerts shown when payment fails */
+"Subscription.Alert.PaymentDidNotWork.Button.ContactSupport.Title" = "Contact Support";
+
+/* OK button for alerts shown when payment fails */
+"Subscription.Alert.PaymentDidNotWork.Button.OK.Title" = "OK";
+
+/* Error message that appears when payment fails */
+"Subscription.Alert.PaymentDidNotWork.Message" = "We encountered an error when trying to charge your card. Please try again. If you continue to see this error please reach out to our customer support team.";
+
+/* Title of error message that appears when payment fails */
+"Subscription.Alert.PaymentError.Title" = "Payment Error";
+
+/* Error message that appears when plan cancellation fails */
+"Subscription.Alert.PlanCancellationError.Message" = "Plan Cancellation Failed";
+
+/* Title of error message that appears when plan cancellation fails */
+"Subscription.Alert.PlanCancellationError.Title" = "Plan Cancellation Error";
+
+/* Error message that appears when plan cancellation fails */
+"Subscription.Alert.PlanCancellationFailed.Message" = "Plan cancellation failed";
+
+/* Title of error message that appears when plan cancellation fails */
+"Subscription.Alert.PlanCancellationFailed.Title" = "Plan Cancellation Error";
+
+/* Error message that appears when the subscription details cannot be found */
+"Subscription.Alert.PlanSubscriptionNotExist.Message" = "This subscription does not exist";
+
+/* Title of error message that appears when the subscription details cannot be found */
+"Subscription.Alert.PlanSubscriptionNotExist.Title" = "Plan Cancellation Error";
+
+/* Error message that appears when a purchase of tickets fails */
+"Subscription.Alert.PremiumCreditBundleBuyFailed.Message" = "Premium Ticket Bundle Purchase Failed";
+
+/* Title of error message that appears when a purchase of tickets fails */
+"Subscription.Alert.PremiumCreditBundleBuyFailed.Title" = "Premium Ticket Bundle Purchase Error";
+
+/* Title of the No button of the alert that appears when a user wants to cancel his plan and is on the free trial period */
+"Subscription.Alert.TrialPeriodPlanCancelConfirmation.Button.No.Title" = "No";
+
+/* Title of the Yes button of the alert that appears when a user wants to cancel his plan and is on the free trial period */
+"Subscription.Alert.TrialPeriodPlanCancelConfirmation.Button.Yes.Title" = "Yes";
+
+/* Text of the alert that appears when a user wants to cancel his plan and is on the free trial period */
+"Subscription.Alert.TrialPeriodPlanCancelConfirmation.Message" = "You will lose your remaining tickets and any outstanding booked lessons will be cancelled";
+
+/* Title of the alert that appears when a user wants to cancel his plan and is on the free trial period */
+"Subscription.Alert.TrialPeriodPlanCancelConfirmation.Title" = "Are you sure?";
+
+/* Message that appears when a user has an unlimited tickets plan */
+"Subscription.Alert.UnlimitedPlan.Message" = "You have an unlimited plan!";
+
+/* Title of message that appears when a user has an unlimited tickets plan */
+"Subscription.Alert.UnlimitedPlan.Title" = "Unlimited Plan";
+
+/* Error message when entering a credit card that is not supported */
+"Subscription.Alert.UnsupportedCreditCardTypeError.Message" = "This credit card type is not supported. We support Visa, MasterCard, and AMEX. We also accept bank transfers if you reach out to our customer support team.";
+
+/* Title of error message when entering a credit card that is not supported */
+"Subscription.Alert.UnsupportedCreditCardTypeError.Title" = "Unsupported credit card";
+
+/* Title of cancel button on cancel-subscription popup appears before confirming cancellation */
+"Subscription.CancellationQuestionnairePopup.Button.Cancel.Title" = "Go Back";
+
+/* Title of confirm button on cancel-subscription popup appears before confirming cancellation */
+"Subscription.CancellationQuestionnairePopup.Button.Confirm.Title" = "Confirm";
+
+/* Text for label to show reason to cancel subscription on cancel-subscription popup appears before confirming cancellation */
+"Subscription.CancellationQuestionnairePopup.Label.BadQuality.Text" = "Bad audio/video quality";
+
+/* Text for label to show reason to cancel subscription on cancel-subscription popup appears before confirming cancellation */
+"Subscription.CancellationQuestionnairePopup.Label.LostInterestInEnglish.Text" = "I lost my interest in English.";
+
+/* Text label to tell this questionnaire is multiple choice on a cancel-subscription popup appears before confirming a cancelling subscription */
+"Subscription.CancellationQuestionnairePopup.Label.MultipleChoice.Text" = "*Multiple Choice";
+
+/* Text for label to show reason to cancel subscription on cancel-subscription popup appears before confirming cancellation */
+"Subscription.CancellationQuestionnairePopup.Label.NoGoodTeacher.Text" = "I can't find a teacher I like.";
+
+/* Text for label to show reason to cancel subscription on cancel-subscription popup appears before confirming cancellation */
+"Subscription.CancellationQuestionnairePopup.Label.OtherReasons.Text" = "Other reasons";
+
+/* Text for label to show reason to cancel subscription on cancel-subscription popup appears before confirming cancellation */
+"Subscription.CancellationQuestionnairePopup.Label.Price.Text" = "The price is too high.";
+
+/* Text for label that appears on cancel-subscription popup appears before confirming cancellation. */
+"Subscription.CancellationQuestionnairePopup.Label.ThankYou.Text" = "Thank you for your feedback!";
+
+/* Text Title of cancel-subscription popup appears before confirming cancellation */
+"Subscription.CancellationQuestionnairePopup.Label.Title.Text" = "What is your reason for canceling?";
+
+/* Text for placeholder on text field for other reasons to cancel subscription on cancel-subscription popup appears before confirming cancellation */
+"Subscription.CancellationQuestionnairePopup.Placeholder.OtherReasons.Text" = "Please write whatever you like.";
+
+/* Button in a screen that appears after a user changes their credit card information. Pressing the button takes the user back to the main screen */
+"Subscription.CreditCardChangeDoneScreen.Button.Next.Title" = "Next";
+
+/* Text in a screen that appears after a user changes their credit card information */
+"Subscription.CreditCardChangeDoneScreen.Label.Description.Text" = "The new card will be charged when your next payment is due.";
+
+/* Text in a screen that appears after a user changes their credit card information */
+"Subscription.CreditCardChangeDoneScreen.Label.Title.Text" = "Your credit card information has been changed.";
+
+/* Title of a screen that appears after a user changes their credit card information */
+"Subscription.CreditCardChangeDoneScreen.NavigationBar.Title" = "Credit Card Changed";
+
+/* Button in credit card change screen, where a user can change their credit card information. Pressing the button saves the updated credit card details */
+"Subscription.CreditCardChangeScreen.Button.Register.Text" = "Register";
+
+/* Title of credit card change screen, where a user can change their credit card information */
+"Subscription.CreditCardChangeScreen.NavigationBar.Title" = "Change Credit Card";
+
+/* Button in the screen showing the user’s credit card information. Pressing the button sends the user to a screen where they can change their credit card information */
+"Subscription.CreditCardInfoScreen.Button.Change.Title" = "Change";
+
+/* Title of the screen showing the user’s credit card information */
+"Subscription.CreditCardInfoScreen.NavigationBar.Title" = "Credit Card Details";
+
+/* Text in error message that appears when the user enters a credit card number that is invalid */
+"Subscription.CreditCardInputScreen.Alert.CreditCardError.Message.CardNumberInvalid" = "This is not a valid credit card number.";
+
+/* Text in error message that appears when the user enters a credit card number that is too short */
+"Subscription.CreditCardInputScreen.Alert.CreditCardError.Message.CardNumberShort" = "The card number is too short, please check your card and enter it again. ";
+
+/* Text in error message that appears when the user enters a security code (CVV) that is too short */
+"Subscription.CreditCardInputScreen.Alert.CreditCardError.Message.CVVShort" = "The CVV is too short";
+
+/* Text in error message that appears when the user enters a credit card expiration date that has already passed */
+"Subscription.CreditCardInputScreen.Alert.CreditCardError.Message.ExpirationDatePast" = "Your expiration date is in the past";
+
+/* Text in error message that appears when the user did not enter a CVV (security code) number */
+"Subscription.CreditCardInputScreen.Alert.CreditCardError.Message.NoCVV" = "No CVV";
+
+/* No error message for a credit card related call that appears in an alert */
+"Subscription.CreditCardInputScreen.Alert.CreditCardError.Message.NoError" = "No Error";
+
+/* Text in error message that appears when the user did not enter an expiration date */
+"Subscription.CreditCardInputScreen.Alert.CreditCardError.Message.NoExpirationDate" = "No expiration date entered.";
+
+/* Button in the credit card details screen. Pressing the button opens the camera to allow scanning a credit card */
+"Subscription.CreditCardInputScreen.Button.CreditCardScan.Title" = "Scan Card";
+
+/* Error that appears when a user enters a credit card number which is already in use */
+"Subscription.CreditsCardChangeScreen.Alert.CreditsCardAlreadyRegistered.Message" = "This Card is Already Registered";
+
+/* Title of error that appears when a user enters a credit card number which is already in use */
+"Subscription.CreditsCardChangeScreen.Alert.CreditsCardAlreadyRegistered.Title" = "Registration Error";
+
+/* Text in error message that appears when there’s a general error with the credit card input */
+"Subscription.CreditsCardChangeScreen.Alert.CreditsCardError.Title" = "Credit Card Error";
+
+/* Error message that appears when the server cannot find the requested plan */
+"Subscription.CreditsCardChangeScreen.Alert.NotFindPlan.Message" = "Could not Find Plan";
+
+/* Title of error message that appears when the server cannot find the requested plan */
+"Subscription.CreditsCardChangeScreen.Alert.NotFindPlan.Title" = "Plan Error";
+
+/* Title of the navigation bar when the long term plan select screen is present  */
+"Subscription.LongTermPlanSelectHTMLScreen.NavigationBar.Title" = "Select a VIP Course\n";
+
+/* Button in the screen after a payment has been confirmed. Pressing the button sends the user to the profile page */
+"Subscription.PaymentDoneBaseScreen.Button.Next.Title" = "Next";
+
+/* Title of screen showing the list of payments that were made in the past */
+"Subscription.PaymentHistoryScreen.NavigationBar.Title" = "Payment History";
+
+/* Button in the plan cancellation screen. Pressing the button cancels the current paid plan that they're on */
+"Subscription.PlanCancellationScreen.Button.CancelPlan.Title" = "Cancel Plan";
+
+/* Button in the plan cancellation screen. Pressing the button undoes the plan cancellation */
+"Subscription.PlanCancellationScreen.Button.StopCancellation.Title" = "Stop my cancellation";
+
+/* Text in the screen that appears after a user chooses to cancel their plan */
+"Subscription.PlanCancellationScreen.Label.CancellationDate.Text" = "Cancellation will take effect %@";
+
+/* Label of the current plan the user is subscribed to */
+"Subscription.PlanCancellationScreen.Label.CurrentPlan.Text" = "Current Plan";
+
+/* Text showing how many tickets per month the plan includes, or the monthly price of the plan */
+"Subscription.PlanCancellationScreen.Label.PerMonth.Text" = "/month";
+
+/* Text in plans page that appears above the current plan the user is signed up to */
+"Subscription.PlanChangeBaseScreen.Label.CurrentPlan.Text" = "Current Plan";
+
+/* Button in “Cancel subscription” screen, where the user can cancel their current plan. Pressing the button confirms the cancellation */
+"Subscription.PlanChangeCancellationScreen.Button.ConfirmCancellation.Title" = "Confirm Cancellation";
+
+/* Text in “Cancel subscription” screen, where the user can cancel their current plan */
+"Subscription.PlanChangeCancellationScreen.Label.Cancellation.Text" = "Cancellation";
+
+/* Text in “Cancel subscription” screen, where the user can cancel their current plan */
+"Subscription.PlanChangeCancellationScreen.Label.CancellationDescription.Text" = "Your cancellation will take effect starting on the next billing date. Any tickets you do not use by that point will expire.";
+
+/* Text in “Cancel subscription” screen, where the user can cancel their current plan but they are in the free trial period */
+"Subscription.PlanChangeCancellationScreen.Label.TrialPeriodCancellationDescription.Text" = "Your cancellation will take effect immediately.\nYou will lose your remaining tickets and any outstanding booked lessons will be cancelled.";
+
+/* Title of “Cancel subscription” screen, where the user can cancel their current plan */
+"Subscription.PlanChangeCancellationScreen.NavigationBar.Title" = "Cancel Subscription";
+
+/* Button in the “plan changed” screen, that appears when the user chooses to change his plan to a cheaper plan. Pressing this button sends the user back to the main screen */
+"Subscription.PlanChangeDowngradeDoneScreen.Button.Next.Title" = "Next";
+
+/* Text in the “plan changed” screen, that appears when the user chooses to change his plan to a cheaper plan */
+"Subscription.PlanChangeDowngradeDoneScreen.Label.EmailSentInfo.Text" = "We will email you soon to confirm your changes.";
+
+/* Text in the confirmation screen after a user downgrades to a cheaper plan */
+"Subscription.PlanChangeDowngradeDoneScreen.Label.PlanDate.Text" = "The %1$@ plan will start\nfrom the next due date (%2$@)";
+
+/* Title of the “plan changed” screen, that appears when the user chooses to change his plan to a cheaper plan */
+"Subscription.PlanChangeDowngradeDoneScreen.NavigationBar.Title" = "Your plan has been changed!";
+
+/* Button in the “Downgrade” screen, that appears when the user chooses to change his plan to a cheaper plan. Pressing this button will confirm the change of plans */
+"Subscription.PlanChangeDowngradeScreen.Button.ChangePlan.Title" = "Change Plan";
+
+/* Text in the “Downgrade” screen, that appears when the user chooses to change his plan to a cheaper plan */
+"Subscription.PlanChangeDowngradeScreen.Label.NextPlanDescription.Text" = "Your new plan will take effect on the next billing date.";
+
+/* Title of the “Downgrade” screen, that appears when the user chooses to change his plan to a cheaper plan */
+"Subscription.PlanChangeDowngradeScreen.NavigationBar.Title" = "Downgrade";
+
+/* Button in a confirmation screen that appears after the user successfully changed his plan for a more expensive one. Pressing the button sends the user back to the main screen */
+"Subscription.PlanChangeUpgradeDoneScreen.Button.Next.Title" = "Next";
+
+/* Text in a confirmation screen that appears after the user successfully changed his plan for a more expensive one. The text shows the current number of tickets (credits) that the user has */
+"Subscription.PlanChangeUpgradeDoneScreen.Label.Credits.Text" = "Tickets: %ld";
+
+/* Text in a confirmation screen that appears after the user successfully changed his plan for a more expensive one */
+"Subscription.PlanChangeUpgradeDoneScreen.Label.EmailSent.Text" = "Success!\nWe will send you a confirmation email.";
+
+/* Title of a confirmation screen that appears after the user successfully changed his plan for a more expensive one */
+"Subscription.PlanChangeUpgradeDoneScreen.NavigationBar.Title" = "Your plan has been changed!";
+
+/* Button in upgrade screen, where a user can choose to change his plan to a more expensive one. Pressing this button confirms the change */
+"Subscription.PlanChangeUpgradeScreen.Button.ChangePlan.Title" = "Change Plan";
+
+/* Text in upgrade screen, where a user can choose to change his plan to a more expensive one */
+"Subscription.PlanChangeUpgradeScreen.Label.NextPlanDescription.Text" = "You will receive your tickets and your new plan will start immediately.";
+
+/* Title of upgrade screen, where a user can choose to change his plan to a more expensive one */
+"Subscription.PlanChangeUpgradeScreen.NavigationBar.Title" = "Upgrade";
+
+/* String which express the period of current course. With variables, it will look like this: "2016/01/22 - 2016/02/22". Please use '-' in your translation too, or add whatever expresses duration of From - To in your language */
+"Subscription.PlanDetailCoursePeriodCell.CoursePeriodDetail" = "%@ - %@";
+
+/* The title of course period for long-term plans in the plan status page. */
+"Subscription.PlanDetailCoursePeriodCell.CoursePeriodTitle" = "Course Period";
+
+/* Text in “current plan” screen next to the number of tickets the user has. The text should be translated as “tickets” and not “credits” */
+"Subscription.PlanDetailCurrentCreditsCell.Credits" = "Tickets";
+
+/* Text in “current plan” screen next to the number of tickets the user has. The text should be translated as “tickets” and not “credits” */
+"Subscription.PlanDetailCurrentCreditsCell.CurrentCredits" = "%ld";
+
+/* Text in “current plan” screen showing the date the plan starts (%@ will be replaced by the date) */
+"Subscription.PlanDetailDowngradeStartDateCell.PlanStarts" = "%@ Plan Starts";
+
+/* Title of next tickets refill date for long-term plans. */
+"Subscription.PlanDetailNextRefillDateCell.NextRefillDate" = "Next Billing Date";
+
+/* Label on plan status page for long term plan users, which shows next billing date and price. It will look like 12/21/2016 ($120) */
+"Subscription.PlanDetailNextRefillDateCell.NextRefillDateDetail" = "%@ (%@)";
+
+/* Text in “current plan” screen showing the date the plan was cancelled */
+"Subscription.PlanDetailPlanCancellationDateCell.CancellationDate" = "Cancellation Date";
+
+/* Text in “current plan” screen showing the number of tickets the user gets under the current plan */
+"Subscription.PlanDetailPlanCreditsCell.PerMonthCredits" = "%ld per month";
+
+/* Text in “current plan” screen showing the number of tickets the user gets under the current plan */
+"Subscription.PlanDetailPlanCreditsCell.PlanCredits" = "Plan Tickets";
+
+/* Text in “current plan” screen showing the expiration date of the current plan */
+"Subscription.PlanDetailPlanEndDateCell.ExpirationDate" = "Expiration Date";
+
+/* Text in “current plan” screen showing the date the plan should be renewed */
+"Subscription.PlanDetailPlanEndDateCell.NextDueDate" = "Next Due Date";
+
+/* Text in the plan details page that appears when there's a payment error. */
+"Subscription.PlanDetailPlanEndDateCell.PaymentFailed" = "Payment failed";
+
+/* Text in the plan details screen, next to the free trial end date (only for plans with free trial */
+"Subscription.PlanDetailPlanFreeTrialEndDateCell.FreeTrialEndDate" = "Free Trial End";
+
+/* Text in “current plan” screen that appears when the user is in their free trial period */
+"Subscription.PlanDetailPlanNameCell.FreeTrial" = "Free Trial";
+
+/* Text in “current plan” screen that appears when the user’s free trial has ended and they are not subscribed to a plan */
+"Subscription.PlanDetailPlanNameCell.FreeTrialEnded" = "Free trial ended";
+
+/* Text in “current plan” screen that appears when the plan name is invalid */
+"Subscription.PlanDetailPlanNameCell.Invalid" = "Invalid";
+
+/* Text in “current plan” screen that appears next to the amount the users pay */
+"Subscription.PlanDetailPlanNameCell.PerMonth" = "/month";
+
+/* Text in “current plan” screen that appears next to the name of the plan the user is currently in */
+"Subscription.PlanDetailPlanNameCell.Plan" = "Plan";
+
+/* Text in “current plan” screen that appears when the user is in the Unlimited plan */
+"Subscription.PlanDetailPlanNameCell.UnlimitedPlanName" = "Unlimited";
+
+/* Text in “current plan” screen that appears next to the amount the users actually pay for discounted plans */
+"Subscription.PlanDetailPlanPriceCell.ChargeAmount" = "First Payment";
+
+/* Text in “current plan” screen that appears next to the amount the users pay */
+"Subscription.PlanDetailPlanPriceCell.MonthlyPrice" = "Monthly Price";
+
+/* Text in “current plan” screen that appears next to the date the user should renew their plan */
+"Subscription.PlanDetailPlanRenewDateCell.NextRenewalDate" = "Next Renewal Date";
+
+/* Text in plans page showing the remaining number of tickets */
+"Subscription.PlanDetailPremiumCreditsCell.PremiumCredits" = "%ld tickets left";
+
+/* Title of tickets that can be purchased outside of a plan */
+"Subscription.PlanDetailPremiumCreditsCell.Title" = "Premium Tickets";
+
+/* Date format. No need to translate */
+"Subscription.PlanDetailPremiumCreditsExpirationDateCell.ExpirationDate" = "%@";
+
+/* Text describing the expircation date of the premium tickets that were purchased */
+"Subscription.PlanDetailPremiumCreditsExpirationDateCell.Title" = "Expiration Date";
+
+/* A number of tickets that user will get per month with the current plan. It will look like 100 / month */
+"Subscription.PlanDetailTicketsMonthCell.TicketsPerMonthDetail" = "%d / Month";
+
+/* The title of a number of tickets that user will get per month with the current plan.  */
+"Subscription.PlanDetailTicketsMonthCell.TicketsPerMonthTitle" = "Tickets / Month";
+
+/* FAQ button appears on the right side of the navigation bar when the long-term plan select screen is present  */
+"Subscription.PlanDurationSelectHTMLScreen.NavigationBar.RightButton.Title" = "FAQ";
+
+/*  Title of the navigation bar when course duration select screen is present */
+"Subscription.PlanDurationSelectHTMLScreen.NavigationBar.Title" = "Be Fluent in English!";
+
+/* Button on the navigation bar of the plans page appears right after onboarding, which takes you to teachers list.  */
+"Subscription.PlanHTMLScreen.NavigationBarItem.LeftButton.Title" = "Teachers";
+
+/* A title of button which switches payment method from Apple Pay to credit card on the plan payment screen. */
+"Subscription.PlanPaymentApplePayScreen.Button.UseCreditCard.Title" = "Use Credit Card";
+
+/* Title of error that appears when there has been a problem with the credit card details */
+"Subscription.PlanPaymentCreditCardScreen.Alert.CreditCardError.Title" = "Credit Card Error";
+
+/* Button in the plans page. Pressing the button confirms the purchase of the plan */
+"Subscription.PlanPaymentCreditCardScreen.Button.Pay.Title" = "Sign up";
+
+/* Button in the plans page when there is a trial period active. Pressing the button confirms the purchase of the plan */
+"Subscription.PlanPaymentCreditCardScreen.Button.StartMyFreeTrial.Title" = "Start My Free Trial";
+
+/* A title of a button which switches payment method from a credit card to Apple Pay on the plan payment screen. */
+"Subscription.PlanPaymentCreditCardScreen.Button.UseApplePay.Title" = "Use Apple Pay";
+
+/* Label appears when users buy a long term plan to let them know that if they cancel after their free trial, a fee will be charged. */
+"Subscription.PlanPaymentCreditCardScreen.Label.LongTermPlanCancellation.Text" = "Canceling after your free trial will incur a fee.";
+
+/* Text format of the plan name label for monthly plans in the buy plans screen. e.g For the monthly plan with name "Silver" this will produce "SIlver Plan" */
+"Subscription.PlanPaymentCreditCardScreen.Label.MonthlyPlanNameFormat" = "%@ Plan";
+
+/* Label appears when users buy a monthly plan to let them know that they can cancel anytime during their free trial with no fee. */
+"Subscription.PlanPaymentCreditCardScreen.Label.MontlhyPlanCancellation.Text" = "Cancel any time in your free trial with no fee.";
+
+/* Label appears when users buy plans to let them know that we will charge the minimum amount to verify credit card information. */
+"Subscription.PlanPaymentCreditCardScreen.Label.RefundDescription.Title" = "We will charge and refund %@ to verify payment method";
+
+/* Title of payment screen, where a user has to enter their credit card information */
+"Subscription.PlanPaymentCreditCardScreen.NavigationBar.Title" = "Credit Card Registration";
+
+/* Next button on payment complete button. This will take users to the view to learn about tickets. */
+"Subscription.PlanPaymentDoneLongTermScreen.Button.Next.Title" = "Learn about tickets";
+
+/* The label on payment complete page for long term plans which shows a number of lessons a user can take with this plan and a number of tickets a user can get per month. */
+"Subscription.PlanPaymentDoneLongTermScreen.Line2Label.Text" = "Up to %ld lessons/mo\n(%ld tickets/mo)";
+
+/* Label on payment complete page which shows period of the plan you bought. This will look like: 01/12/2016 - 01/12/2017 */
+"Subscription.PlanPaymentDoneLongTermScreen.Line3LabelDetail.Text" = "%@ - %@";
+
+/* Label on payment completion page which is used to explain the period of the plan.  */
+"Subscription.PlanPaymentDoneLongTermScreen.Line3LabelTitle.Text" = "Course Period";
+
+/* Label on payment completion page for long terms which shows period of long term. */
+"Subscription.PlanPaymentDoneLongTermScreen.Line3LabelTrial.Text" = "Trial Period: %ld days";
+
+/* Next button on payment complete button. This will take users to the view to learn about tickets. */
+"Subscription.PlanPaymentDoneScreen.Button.Next.Title" = "Learn about tickets";
+
+/* Formatting. No need to translate */
+"Subscription.PlanPaymentDoneScreen.Line1Label.Text" = "%@";
+
+/* The label on payment complete page for long term plans which shows a number of lessons a user can take with this plan and a number of tickets a user can get per month. */
+"Subscription.PlanPaymentDoneScreen.Line2Label.Text" = "Up to %ld lessons/mo\n(%ld tickets/mo)";
+
+/* Text in the screen that appears after a user confirmed the purchase of a plan and denotes the length of the trial period. */
+"Subscription.PlanPaymentDoneScreen.Line3Label.Text" = "Trial period: %ld days";
+
+/* Title of the screen that appears after a user confirmed the purchase of a plan */
+"Subscription.PlanPaymentDoneScreen.NavigationBar.Title" = "Thank you!";
+
+/* FAQ button appears on the right side of the navigation bar when the plan select screen is present */
+"Subscription.PlanSelectHTMLScreen.NavigationBar.RightButton.Title" = "FAQ";
+
+/* Title of the plans page */
+"Subscription.PlanSelectHTMLScreen.NavigationBar.Title" = "Select a Plan";
+
+/* Button in the “select plan” screen. Pressing this button send the user to the FAQ where they can read more about plan conditions */
+"Subscription.PlanSelectScreen.Button.PlanDetails.Title" = "See more plan details";
+
+/* Title of “select plan” screen */
+"Subscription.PlanSelectScreen.NavigationBar.Title" = "Plan Options";
+
+/* Button in the profile page. Pressing the button sends the user to a screen where he can choose to change his existing plan */
+"Subscription.PlanStatusBaseScreen.Button.ChangePlan.Title" = "Change Plan";
+
+/* Button in the “current plan” screen that opens a new email message addressed to costumer support */
+"Subscription.PlanStatusBaseScreen.Button.ContactUs.Title" = "Contact Us";
+
+/* Text in the profile page, near the details of the credit card entered */
+"Subscription.PlanStatusBaseScreen.Button.CreditCard.Title" = "Credit Card";
+
+/* Button in the tickets page. Pressing the button sends the user to the plans page where they can buy a plan */
+"Subscription.PlanStatusBaseScreen.Button.GetCredits.Title" = "Get Tickets";
+
+/* Name of ticket that can be bought outside of a paid plan. This name appears in different places in the pay flow. */
+"Subscription.PlanStatusBaseScreen.Button.PremiumCredits.Title" = "Premium Tickets";
+
+/* Title of the button in the plan status screen that allows the user to refer the app to a friend. */
+"Subscription.PlanStatusBaseScreen.Button.Refer.Title" = "Refer";
+
+/* Button in the “current plan” screen. Pressing this button shows payments that were made in the past */
+"Subscription.PlanStatusBaseScreen.NavigationBar.Button.PaymentHistory.Title" = "Payment History";
+
+/* Text of the warning description when the payment fails. The warning appears in the plan status screen */
+"Subscription.PlanStatusBaseScreen.WarningView.Label.Description.Text" = "We're sorry, but there is a problem with your payment. Please try using a different credit card or contact Customer Support for help.";
+
+/* Text of the label next to the warning icon when the payment fails. The warning appears in the plan status screen */
+"Subscription.PlanStatusBaseScreen.WarningView.Label.Title.Text" = "Warning!";
+
+/* Button in the “current plan” screen that appears after a user has canceled their plan. Pressing this button restarts the last plan the user was subscribed to */
+"Subscription.PlanStatusCancelled.Button.RestartPlan.Title" = "Restart Plan";
+
+/* Text in the “current plan” screen that appears after a user has canceled their plan */
+"Subscription.PlanStatusCancelled.MiddleText" = "Half price campaign\nIt's the chance to register pay plans";
+
+/* Title of the “current plan” screen that appears after a user has canceled their plan. Should say “Tickets” instead of “Credits” */
+"Subscription.PlanStatusCancelled.NavigationBar.Title" = "My Plan";
+
+/* Button in the “current plan” screen where the user can see the details of their current plan. Pressing this button sends the user to a screen where they can select a different plan */
+"Subscription.PlanStatusDowngradeScreen.Button.ChangePlan.Title" = "Change Plan";
+
+/* Button in the “current plan” screen where the user can see the details of their current plan. Pressing this button sends the user to a screen where they can view and change their credit card information */
+"Subscription.PlanStatusDowngradeScreen.Button.CreditCard.Title" = "Credit Card";
+
+/* Title of the “current plan” screen where the user can see the details of their current plan. Should say “Tickets” instead of “Credits” */
+"Subscription.PlanStatusDowngradeScreen.NavigationBar.Title" = "My Plan";
+
+/* Title of “current plan” screen. Should say “Tickets” and not “Credits” */
+"Subscription.PlanStatusFreeTrialBaseScreen.NavigationBar.Title" = "Tickets";
+
+/* Text in “current plan” screen that appears when the user’s trial period is over. Should be translated as “tickets” instead of “credits” */
+"Subscription.PlanStatusFreeTrialDoneScreen.MiddleText" = "Your remaining %ld tickets will be available\nonce you sign up for a membership plan.";
+
+/* Text in “current plan” screen that appears when the user’s trial period is over */
+"Subscription.PlanStatusFreeTrialScreen.MiddleText" = "Special promotion!";
+
+/* Title of “current long-term plan” screen.  Should say "Course" not "Plan" */
+"Subscription.PlanStatusLongTermScreen.NavigationBar.Title" = "My Course";
+
+/* Button in the plans page. Pressing the button sends the user to the Frequently Asked Questions page */
+"Subscription.PlanStatusScreen.Button.MoreDetails.Title" = "FAQ";
+
+/* Title of “current plan” screen. Should say “Tickets” and not “Credits” */
+"Subscription.PlanStatusScreen.NavigationBar.Title" = "My Plan";
+
+/* Button in “current plan” screen. Pressing this button sends the user to a screen where they can sign up for a different plan */
+"Subscription.PlanStatusWillCancelScreen.Button.ChangePlan.Title" = "Change Plan";
+
+/* Button in the plan cancellation screen. Pressing the button undoes the plan cancellation */
+"Subscription.PlanStatusWillCancelScreen.Button.StopCancellation.Title" = "Undo my cancellation";
+
+/* Title of “current plan” screen. Should say “Tickets” and not “Credits” */
+"Subscription.PlanStatusWillCancelScreen.NavigationBar.Title" = "Tickets";
+
+/* Text in the “upgrade plan” screen, next to the amount the user will be charged for the upgrade */
+"Subscription.PlanUpgradeBillingAmountCell.BillingAmount" = "Billing Amount";
+
+/* Text in the “upgrade plan” screen, next to the amount the user will be charged for the upgrade */
+"Subscription.PlanUpgradeBillingAmountCell.BillngAmount" = "Billing Amount";
+
+/* Text in the “buy plan” screen, next to the course period (for long term plans only) */
+"Subscription.PlanUpgradeCoursePeriodCell.CoursePeriod" = "Course Period";
+
+/* Text format in the “buy plan” screen, for the course period. Start date to end date (for long term plans only) */
+"Subscription.PlanUpgradeCoursePeriodCell.CoursePeriodFormat" = "%@ - %@";
+
+/* Text in the “buy plan” screen, next to the monthly cost of a course (long term plan) */
+"Subscription.PlanUpgradeCoursePricePerMonthCell.CoursePrice" = "Course Price";
+
+/* Text format in the “buy plan” screen, for the monthly cost of a course (long term plan) */
+"Subscription.PlanUpgradeCoursePricePerMonthCell.CoursePriceFormat" = "%@/mo";
+
+/* Text in the “buy plan” screen, next to the amount the user will be charged at the next billing date */
+"Subscription.PlanUpgradeNextBillingAmountCell.FirstBillingAmount" = "First Billing Amount";
+
+/* Text in the “buy plan” screen, next to the amount the user will be charged at the next billing date */
+"Subscription.PlanUpgradeNextBillingAmountCell.NextBillingAmount" = "Next Billing Amount";
+
+/* Text in the “upgrade plan” screen, showing the number of tickets the user will get on the plan renewal date. Should be tanslated as “tickets” and not “credits” */
+"Subscription.PlanUpgradePlanCreditsCell.CreditsRefilled" = "Your tickets will refill to %ld on your monthly renewal date";
+
+/* Text in the “upgrade plan” screen, next to the number of tickets the new plan includes. Should be “tickets” and not “credits” */
+"Subscription.PlanUpgradePlanCreditsCell.PlanCredits" = "Plan Tickets";
+
+/* Text in the “buy plan” screen, next to the free trial end date (only for plans with free trial */
+"Subscription.PlanUpgradePlanFreeTrialEndDateCell.FreeTrialEndDate" = "Free Trial End";
+
+/* Text in the “buy plan” screen, next to the number of course lessons per month (for long term plans) */
+"Subscription.PlanUpgradePlanLessonsCell.CourseLessons" = "Course Lessons";
+
+/* Text in the “buy plan” screen, showing the number of plan lessons per month */
+"Subscription.PlanUpgradePlanLessonsCell.LessonsPerMonth" = "Up to %ld lessons/mo";
+
+/* Text in the “buy plan” screen, next to the number of plan lessons per month */
+"Subscription.PlanUpgradePlanLessonsCell.PlanLessons" = "Plan Lessons";
+
+/* Text in the “buy plan” screen, next to the first billing date (user must NOT have a registered CC to see this) */
+"Subscription.PlanUpgradePlanNextBillingDateCell.FirstBillingDate" = "First Billing Date";
+
+/* Text in the “buy plan” screen, next to the next billing date */
+"Subscription.PlanUpgradePlanNextBillingDateCell.NextBillingDate" = "Next Billing Date";
+
+/* Text in the “upgrade plan” screen, next to the monthly cost of the new plan */
+"Subscription.PlanUpgradePlanPriceCell.MonthlyPrice" = "Monthly Price";
+
+/* From old price to new price - the first %@ symbol will be filled by the old price while the second by the new price. If you want to switch the order use position specifiers like that: %2$@ %1$@ */
+"Subscription.PlanUpgradePlanPriceCell.PriceCharged" = "%@";
+
+/* Text in the “upgrade plan” screen, next to the date when the plan will be renewed */
+"Subscription.PlanUpgradePlanRenewDateCell.NextRenewalDate" = "Next Renewal Date";
+
+/* Text in the “upgrade plan” screen, next to the amount the user will be refunded */
+"Subscription.PlanUpgradeRefundAmountCell.RefundAmount" = "Refund Amount";
+
+/* Formatting. No need to translate */
+"Subscription.PremiumCreditBundleCreditsCell.PremiumCredits" = "%ld";
+
+/* Text describing tickets that can be purchased outside of a monthly plan */
+"Subscription.PremiumCreditBundleCreditsCell.Title" = "Premium tickets";
+
+/* Button in the premium tickets page, where a user can purchase tickets outside of a plan. Pressing the button sends the user to confirm the purchase */
+"Subscription.PremiumCreditBundleInfoScreen.Button.BuyBundle.Title" = "Buy Bundle";
+
+/* Text in the premium tickets page, where a user can purchase tickets outside of a plan */
+"Subscription.PremiumCreditBundleInfoScreen.Label.BundleDescription.Text" = "Premium ticket bundle info";
+
+/* Title of the premium tickets page, where a user can purchase tickets outside of a plan */
+"Subscription.PremiumCreditBundleInfoScreen.NavigationBar.Title" = "Payment";
+
+/* Text describing tickets that can be purchased outside of a monthly plan */
+"Subscription.PremiumCreditBundlePaymentDoneScreen.Line1Label.Text" = "Premium Tickets";
+
+/* Text in the premium tickets page, where a user can purchase tickets outside of a plan. Describes the number of tickets in each bundle */
+"Subscription.PremiumCreditBundlePaymentDoneScreen.Line2Label.Text" = "%ld tickets";
+
+/* Text in the screen that confirms the purchase of a premium tickets bundle */
+"Subscription.PremiumCreditBundlePaymentDoneScreen.Line3Label.Text" = "Check your inbox for a purchase confirmation email.";
+
+/* Text in the screen that confirms the purchase of a premium tickets bundle */
+"Subscription.PremiumCreditBundlePaymentDoneScreen.NavigationBar.Title" = "Thank you!";
+
+/* Formatting. No need to translate */
+"Subscription.PremiumCreditBundlePriceCell.Price" = "%@";
+
+/* Text in the premium tickets page, where a user can purchase tickets outside of a plan */
+"Subscription.PremiumCreditBundlePriceCell.Title" = "Price";
+
+/* Button in the premium tickets page, where a user can purchase tickets outside of a plan. Pressing the button sends the user to the Frequently Asked Questions page */
+"Subscription.PremiumCreditBundleSelectScreen.Button.CreditsDescription.Title" = "More about Tickets";
+
+/* Text in the premium tickets page, where a user can purchase tickets outside of a plan, describing the maximum number of lessons the user can take with the number of tickets in the bundle */
+"Subscription.PremiumCreditBundleSelectScreen.Cell.CommentLabel.Text" = "(up to %ld lessons)";
+
+/* Text in the premium tickets page, where a user can purchase tickets outside of a plan, describing the number of tickets included in the bundle */
+"Subscription.PremiumCreditBundleSelectScreen.Cell.CreditsLabel.Text" = "%ld tickets";
+
+/* Text in the premium tickets page, where a user can purchase tickets outside of a plan */
+"Subscription.PremiumCreditBundleSelectScreen.Line1TextLabel.Text" = "Purchase Premium Tickets Now";
+
+/* Text in the premium tickets page, where a user can purchase tickets outside of a plan, describing the expiration date of the tickets in the bundle */
+"Subscription.PremiumCreditBundleSelectScreen.Line2TextLabel.Text" = "Valid until %@";
+
+/* 3rd line of text in the credit bundle selection screen */
+"Subscription.PremiumCreditBundleSelectScreen.Line3TextLabel.Text" = "Premium tickets last for the billing month you purchased them in as well as the entire following month";
+
+/* Title of the premium tickets page, where a user can purchase tickets outside of a plan */
+"Subscription.PremiumCreditBundleSelectScreen.NavigationBar.Title" = "Premium Tickets";
+
+/* Message that pops up when a user buys a Gold/Platinum plan, telling them they can now purchase premium tickets outside of their plan */
+"Subscription.PremiumCreditsOnboarding.Label.Text" = "You can now buy premium tickets!";
+
+/* Navigation button in the main screen of the app. Pressing this button sends the user to the teacher list where they can schedule a lesson. “Book” means “Schedule” in this context */
+"Tabbar.Book" = "Teachers";
+
+/* Navigation button in the main screen of the app. Pressing this button sends the user to the chat screen where they can chat by text with a teacher */
+"Tabbar.Chat" = "Chat";
+
+/* Navigation button in the main screen of the app. Pressing this button sends the user to the curriculum screen where they can do homework and use learning materials */
+"Tabbar.Curriculum" = "Curriculum";
+
+/* No description provided */
+"Tabbar.Flashcards" = "Flashcards";
+
+/* Navigation button in the main screen of the app. Pressing this button sends the user to the settings page, where they can change settings for the app and account */
+"Tabbar.Settings" = "Settings";
+
+/* Button in pop-up message asking whether the user is sure they want to log out */
+"Tabbar.SettingsScreen.Alert.VerifyLogout.Button.No.Title" = "No";
+
+/* Button in pop-up message asking whether the user is sure they want to log out */
+"Tabbar.SettingsScreen.Alert.VerifyLogout.Button.Yes.Title" = "Log Out";
+
+/* Text in pop-up message asking whether the user is sure they want to log out */
+"Tabbar.SettingsScreen.Alert.VerifyLogout.Message" = "Are you sure you want to logout?";
+
+/* Title of pop-up message asking whether the user is sure they want to log out */
+"Tabbar.SettingsScreen.Alert.VerifyLogout.Title" = "Logout";
+
+/* Button in the menu on settings screen. Pressing this button opens a new email message addressed to customer support */
+"Tabbar.SettingsScreen.MenuItem.Contact" = "Contact";
+
+/* Button in the menu allowing the user to log in */
+"Tabbar.SettingsScreen.MenuItem.Login" = "Log in";
+
+/* Button in the menu on settings screen. Pressing this button logs the user out of their account */
+"Tabbar.SettingsScreen.MenuItem.Logout" = "Logout";
+
+/* Button in the menu on settings screen that appears when the user has not registered yet. Pressing this button sends the user to the registration screen */
+"Tabbar.SettingsScreen.MenuItem.Profile" = "Profile";
+
+/* Button in the menu on settings screen. Pressing this button sends the user to the FAQ screen */
+"Tabbar.SettingsScreen.MenuItem.Q&A" = "FAQ";
+
+/* Button in the menu on settings screen. Pressing this button shows a screen to refer the app to a friend */
+"Tabbar.SettingsScreen.MenuItem.Refer" = "Refer a friend";
+
+/* Button in the menu allowing the user to register an account */
+"Tabbar.SettingsScreen.MenuItem.Register" = "Register";
+
+/* Button in the menu on settings screen. Pressing this button shows information about the device and app. Used only for engineers */
+"Tabbar.SettingsScreen.MenuItem.Settings" = "Settings";
+
+/* Title of the settings screen.”Other” as in “Miscellaneous” */
+"Tabbar.SettingsScreen.NavigationBar.Title" = "Other";
+
+/* Button in the profile screen. Pressing the button sends the user to the login/register screen */
+"Tabbar.SettingsScreen.SettingsItemCell.InvalidEmail.DetailLabel.Text" = "Register/Login";
+
+/* Button in the settings screen. Pressing the button sends the user to the profile screen */
+"Tabbar.SettingsScreen.SettingsItemCell.ValidEmail.DetailLabel.Text" = "Profile Information";
+
+/* A button title on the tab bar. By tapping it, it will show you a list of plans with a month free discounts. */
+"TabBarButton.FreeTickets.Title.FreeTickets" = "Free lessons";
+
+/* A button title on the tab bar. By tapping it, it will show you a list of plans. */
+"TabBarButton.FreeTickets.Title.Tickets" = "Tickets";
+
+/* Title of the KakaoTalk messenger referral activity */
+"UIActivity.KakaoTalk.ActivityTitle" = "KakaoTalk";
+
+/* Title of the LINE messenger referral activity */
+"UIActivity.LINE.ActivityTitle" = "LINE";
+
+/* Button in a pop up tha appears when there's a connection problem. Pressing the button dismisses the pop */
+"UIHelper.CommonViews.Alert.NoInternetConnection.Button.OK.Title" = "OK";
+
+/* Text in a pop up tha appears when there's a connection problem */
+"UIHelper.CommonViews.Alert.NoInternetConnection.Message" = "Please connect to the internet and try again";
+
+/* Title of a pop up tha appears when there's a connection problem */
+"UIHelper.CommonViews.Alert.NoInternetConnection.Title" = "No Internet Connection";
+
+/* Button in a pop up tha appears when there's a connection problem. Pressing the button dismisses the pop */
+"UIHelper.CommonViews.Alert.ServerError.Button.OK.Title" = "OK";
+
+/* Text in a pop up tha appears when there's a connection problem */
+"UIHelper.CommonViews.Alert.ServerError.Message" = "Please try again later";
+
+/* Title of a pop up tha appears when there's a connection problem */
+"UIHelper.CommonViews.Alert.ServerError.Title" = "Server error";
+
+/* Generic OK button */
+"UIHelper.CommonViews.Button.Submit.Title" = "OK";
+
+/* Formatting. No need to translate */
+"UIHelper.CommonViews.LocalizedTeacherName" = "%@";
+
+/* Default line break mode for labels. Use 0 for word wrapping, 1 for char wrapping (Asian languages) */
+"UIHelper.Label.LineBreakWrapping" = "0";
+
+/* Button in pop up warning the student that their battery level is too low for a video lesson. Pressing this button dismisses the pop up */
+"VideoLesson.Alert.BatteryCheck.Button.OK.Title" = "OK";
+
+/* Text in pop up warning the student that their battery level is too low for a video lesson */
+"VideoLesson.Alert.BatteryCheck.Message" = "Your battery level is too low, please charge your phone or it might die during your lesson.";
+
+/* Title of pop up warning the student that their battery level is too low for a video lesson. */
+"VideoLesson.Alert.BatteryCheck.Title" = "Low Battery";
+
+/* Button in message requesting camera access. Pressing the button dismisses the message */
+"VideoLesson.CallFromTeacher.Alert.CameraDisabled.Button.OK.Title" = "OK";
+
+/* Text in pop up asking the student to enable the device’s camera to have a video lesson */
+"VideoLesson.CallFromTeacher.Alert.CameraDisabled.Message" = "Please enable the camera in the privacy settings in order to start the lesson";
+
+/* Title of pop up asking the student to enable the device’s camera to have a video lesson */
+"VideoLesson.CallFromTeacher.Alert.CameraDisabled.Title" = "Camera Disabled";
+
+/* Button in message requesting microphone access. Pressing the button dismisses the message */
+"VideoLesson.CallFromTeacher.Alert.MicrophoneDisabled.Button.OK.Title" = "OK";
+
+/* Text in pop up asking the student to enable the device’s microphone to have a lesson */
+"VideoLesson.CallFromTeacher.Alert.MicrophoneDisabled.Message" = "Please enable the microphone in the privacy settings in order to start the lesson";
+
+/* Title of pop up asking the student to enable the device’s microphone to have a lesson */
+"VideoLesson.CallFromTeacher.Alert.MicrophoneDisabled.Title" = "Microphone Disabled";
+
+/* Button in calling screen when a lesson is starting. Pressing the button starts a video chat with the teacher */
+"VideoLesson.CallFromTeacher.Label.VideoLesson.Text" = "Video Lesson";
+
+/* Button in calling screen when a lesson is starting. Pressing the button starts an audio call with the teacher */
+"VideoLesson.CallFromTeacher.Label.VoiceLesson.Text" = "Voice lesson";
+
+/* Label tells the app is connecting to lesson on lesson loading screen. */
+"VideoLesson.LoadingScreen.Label.Connecting" = "Loading...";
+
+/* Text in error pop-up saying that email was not set up for this device */
+"VideoLesson.ResumeLessonScreen.Alert.EmailNotSetup.Message" = "This device cannot send email.";
+
+/* Title of error pop-up saying that email was not set up for this device */
+"VideoLesson.ResumeLessonScreen.Alert.EmailNotSetup.Title" = "Please Setup Email";
+
+/* Title of the alert button to NOT finish the lesson */
+"VideoLesson.ResumeLessonScreen.Alert.FinishLesson.Button.No.Title" = "Continue";
+
+/* Title of the alert button to finish the lesson */
+"VideoLesson.ResumeLessonScreen.Alert.FinishLesson.Button.Yes.Title" = "Finish Lesson";
+
+/* Text in pop up that appears when the user chooses to end the lesson before time */
+"VideoLesson.ResumeLessonScreen.Alert.FinishLesson.Message" = "Would you like to end the lesson?";
+
+/* Title of pop up that appears when the user chooses to end the lesson before time */
+"VideoLesson.ResumeLessonScreen.Alert.FinishLesson.Title" = "End Lesson";
+
+/* Button in lesson screen. Pressing this button opens a new email addressed to customer support */
+"VideoLesson.ResumeLessonScreen.Button.ContactSupport.Title" = "Contact Support";
+
+/* Button in lesson screen. Pressing this button ends the lesson */
+"VideoLesson.ResumeLessonScreen.Button.Exit.Title" = "End\nLesson";
+
+/* Text in lesson screen that appears when the user cannot connect to the teacher */
+"VideoLesson.ResumeLessonScreen.Label.CannotConnect.Text" = "Can't connect?";
+
+/* Text in the "teacher is calling" screen that appears when the lesson starts and the user has to decide whether to start the lesson */
+"VideoLesson.ResumeLessonScreen.Label.WaitingForCall.Text" = "Your lesson with %@";
+
+/* Text in the “contact support” email screen that requests the user to describe the circumstances of the lesson/technical issue */
+"VideoLesson.ResumeLessonScreen.SupportContactEmail.Message" = "Please let us know how we can help";
+
+/* Text in the “contact support” email subject line when the user cannot connect to a lesson */
+"VideoLesson.ResumeLessonScreen.SupportContactEmail.Subject" = "Can't connect to lesson";
+
+/* Button in the teacher is calling asking the student whether they want to answer the call immediately or later. Pressing this button will not start the lesson immediately */
+"VideoLesson.TeacherCallScreen.Alert.AnswerLater.Button.AnswerCallLater.Title" = "Answer Call Later";
+
+/* Button in pop up message asking the student whether they want to answer the call immediately or later. Pressing this button will start the lesson immediately */
+"VideoLesson.TeacherCallScreen.Alert.AnswerLater.Button.AnswerCallNow.Title" = "Start the Lesson";
+
+/* Text in pop up message asking the student whether they want to answer the call immediately or later */
+"VideoLesson.TeacherCallScreen.Alert.AnswerLater.Message" = "Are you sure you want to put this call on hold?";
+
+/* Title of pop up message asking the student whether they want to answer the call immediately or later */
+"VideoLesson.TeacherCallScreen.Alert.AnswerLater.Title" = "Your Teacher is Calling";
+
+/* Button in pop up message asking the student whether they want to answer the call immediately or later. Pressing this button will not start the lesson immediately */
+"VideoLesson.TeacherCallScreen.Button.AnswerLater.Title" = "Answer Later";
+
+/* Text in “Teacher is calling” screen */
+"VideoLesson.TeacherCallScreen.Label.TeacherIsCalling.Text" = "%@ is calling";
+
+/* Text in pop up that appears when a user is in a video lesson but hasn't allowed camera access to the app */
+"VideoLesson.VideoView.Alert.CameraAccessNeeded.Message" = "Please go to settings->privacy->camera and give OKpanda access.";
+
+/* Title of message requesting camera access */
+"VideoLesson.VideoView.Alert.CameraAccessNeeded.Title" = "Camera Access Required";
+
+/* Button in “Finish lesson” message, that appears when the user chooses to end the lesson before time. Pressing the button continues the lesson and dismisses the message */
+"VideoLesson.VideoView.Alert.Exit.Button.Cancel.Title" = "Back to Lesson";
+
+/* Button in “Finish lesson” message, that appears when the user chooses to end the lesson before time. Pressing the button ends the lesson */
+"VideoLesson.VideoView.Alert.Exit.Button.OK.Title" = "Stop Lesson";
+
+/* Text in “Finish lesson” message, that appears when the user chooses to end the lesson before time */
+"VideoLesson.VideoView.Alert.Exit.Message" = "Are you sure you want to stop the lesson?";
+
+/* Title of “Finish lesson” message, that appears when the user chooses to end the lesson before time */
+"VideoLesson.VideoView.Alert.Exit.Title" = "Stop Lesson";
+
+/* Title of pop up that appears when the internet connection is lost */
+"VideoLesson.VideoView.Alert.InternetConnectionDropped.Title" = "Your Internet Connection Dropped";
+
+/* Button in pop-up asking the user whether they would like to reconnect to the lesson after having connection issues. Pressing this button will not reconnect the user to the lesson */
+"VideoLesson.VideoView.Alert.Reconnect.Button.NotReconnect.Title" = "Don't Reconnect";
+
+/* Button in pop-up asking the user whether they would like to reconnect to the lesson after having connection issues. Pressing this button will reconnect the user to the lesson */
+"VideoLesson.VideoView.Alert.Reconnect.Button.Reconnect.Title" = "Reconnect";
+
+/* Text in pop-up asking the user whether they would like to reconnect to the lesson after having connection issues */
+"VideoLesson.VideoView.Alert.Reconnect.Message" = "Thanks for letting us know. Tap reconnect or try again later.";
+
+/* Title of pop-up asking the user whether they would like to reconnect to the lesson after having connection issues */
+"VideoLesson.VideoView.Alert.Reconnect.Title" = "Poor Connection?";
+
+/* Message that appears during the video lesson when the time for the lesson is over */
+"VideoLesson.VideoView.Alert.TimeIsUp.Message" = "Your time is up";
+
+/* Title of a message that appears during the video lesson when the time for the lesson is over */
+"VideoLesson.VideoView.Alert.TimeIsUp.Title" = "Announcement";
+
+/* Button in pop up that appears when the user tried to reconnect to the lesson too many times. Pressing this button dismisses the pop up */
+"VideoLesson.VideoView.Alert.TooManyReconnectRetries.Button.OK.Title" = "OK";
+
+/* Text in pop up that appears when the user tried to reconnect to the lesson too many times */
+"VideoLesson.VideoView.Alert.TooManyReconnectRetries.Message" = "Cannot connect to the teacher, please try again";
+
+/* Title of pop up that appears when the user tried to reconnect to the lesson too many times */
+"VideoLesson.VideoView.Alert.TooManyReconnectRetries.Title" = "Connection Error";
+
+/* Button in pop up that appears when the connection is unstable. Pressing this button will try to reconnect the user to the lesson */
+"VideoLesson.VideoView.Button.ConnectionUnstable.Title" = "Reconnect";
+
+/* Button in lesson screen. Pressing this button ends the lesson */
+"VideoLesson.VideoView.Button.Exit.Title" = "Stop Lesson";
+
+/* Text in pop up that appears when the connection is unstable */
+"VideoLesson.VideoView.Label.ConnectionUnstable.Text" = "The connection is unstable.";
+
+/* Message in a pop up that alerts the user that their lesson is about to end in less than 1 minute */
+"VideoLesson.VideoView.Label.LessonEndIn1Mins.Text" = "Less than 1 minute left";
+
+/* Message in a pop up that alerts the user that their lesson is about to end in 3 minutes */
+"VideoLesson.VideoView.Label.LessonEndIn3Mins.Text" = "3 minutes left";
+
+/* Message that appears during the video lesson when the time for the lesson is almost over */
+"VideoLesson.VideoView.Label.LessonWillEndSoon.Text" = "Your lesson will end soon.";
+
+/* Text that appears in lesson screen when there is no internet connection */
+"VideoLesson.VideoView.Label.NoInternet.Text" = "Can't connect to the internet";
+
+/* Message that appears during the video lesson when the app is trying to reconnect the video */
+"VideoLesson.VideoView.Label.Reconnecting.Text" = "Reconnecting";
+
+/* Text that appears in lesson screen when the teacher is not connected during the lesson */
+"VideoLesson.VideoView.Label.TeacherNotReachable.Text" = "The teacher is not reachable";
+
+/* Text that appears in lesson screen when the app is trying to reconnect to the lesson */
+"VideoLesson.VideoView.Label.TryingToReconnect.Text" = "Trying to reconnect";
+
+/* Cancel button in different pop ups, dismissing the pop up */
+"WebViewBaseScreen.Alert.CredentialsEntry.Button.Cancel.Title" = "Cancel";
+
+/* Confirmation button */
+"WebViewBaseScreen.Alert.CredentialsEntry.Button.OK.Title" = "OK";
+
+/* Message in a pop up that requests the user to log in */
+"WebViewBaseScreen.Alert.CredentialsEntry.Message" = "%@ requires user name and password";
+
+/* Placeholder in a pop up that requests the user to log in */
+"WebViewBaseScreen.Alert.CredentialsEntry.TextField.Password.PlaceHolder" = "Password";
+
+/* Placeholder in a pop up that requests the user to log in */
+"WebViewBaseScreen.Alert.CredentialsEntry.TextField.Username.PlaceHolder" = "User";
+
+/* Title of a pop up that requests the user to log in */
+"WebViewBaseScreen.Alert.CredentialsEntry.Title" = "Authentication Step";
+
