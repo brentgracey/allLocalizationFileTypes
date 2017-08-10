@@ -1,0 +1,26 @@
+{
+  "result" : "Başarı",
+  "token" : "",
+  "remember_me" : "Boş",
+  "loggedUser" : {
+    "id" : "1",
+    "first_name" : "Hüssam",
+    "last_name" : "Hüssam",
+    "email" : "Hussam@qordoba.com",
+    "name" : "Brent Gracey",
+    "avatar" : "Https://storage.googleapis.com/dev-env-storage/c86ef738-4a95-4087-ad44-fac14deb94ba_admin kırpılmış __scaled_256__ bir__scaled_32.png",
+    "organizations" : [ {
+      "id" : "2",
+      "name" : "Kontrollü Test Org",
+      "role" : "Sahip"
+    }, {
+      "id" : "1002",
+      "name" : "Hussam api çağrısını test et",
+      "role" : "Sahip"
+    } ],
+    "timezone" : "Pasifik / Niue",
+    "created_at" : "1420066800000",
+    "phone_number" : "12345621",
+    "last_online" : "1469609210000"
+  }
+}
