@@ -1,0 +1,26 @@
+{
+  "result" : "Éxito",
+  "token" : "",
+  "remember_me" : "Nulo",
+  "loggedUser" : {
+    "id" : "1",
+    "first_name" : "Mayo",
+    "last_name" : "Habib",
+    "email" : "may@qordoba.com",
+    "name" : "Puede habib",
+    "avatar" : "https://storage.googleapis.com/dev-env-storage/c86ef738-4a95-4087-ad44-fac14deb94ba_admin un cropped__scaled_32.png cropped__scaled_32.png cropped scaled_32.png cropped scaled_32.png",
+    "organizations" : [ {
+      "id" : "2",
+      "name" : "Prueba controlada Org",
+      "role" : "Propietario"
+    }, {
+      "id" : "1002",
+      "name" : "Prueba llamada 3scale api",
+      "role" : "Propietario"
+    } ],
+    "timezone" : "Pacífico / Niue",
+    "created_at" : "1420066800000",
+    "phone_number" : "12345621",
+    "last_online" : "1469609210000"
+  }
+}
