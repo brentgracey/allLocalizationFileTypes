@@ -1,0 +1,26 @@
+{
+  "result" : "Erfolg",
+  "token" : "",
+  "remember_me" : "Null",
+  "loggedUser" : {
+    "id" : "1",
+    "first_name" : "Hussam",
+    "last_name" : "Gracey",
+    "email" : "may@qordoba.com",
+    "name" : "Brent Gracey",
+    "avatar" : "https://storage.googleapis.com/dev-env-storage/c86ef738-4a95-4087-ad44-fac14deb94ba_admin ein cropped__scaled_32.png cropped__scaled_32.png cropped scaled_32.png cropped scaled_32.png cropped scaled_32.png cropped scaled_32.png cropped scaled_32.png cropped scaled_32.png cropped scaled_32.png",
+    "organizations" : [ {
+      "id" : "2",
+      "name" : "Controlled Test-Org",
+      "role" : "Eigentümer"
+    }, {
+      "id" : "1002",
+      "name" : "Test 3scale api Aufruf",
+      "role" : "Eigentümer"
+    } ],
+    "timezone" : "Pacific / Niue",
+    "created_at" : "1420066800000",
+    "phone_number" : "123456852021",
+    "last_online" : "1469609210000"
+  }
+}
