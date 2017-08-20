@@ -1,0 +1,26 @@
+{
+  "result" : "Success",
+  "token" : "",
+  "remember_me" : "Null",
+  "loggedUser" : {
+    "id" : "1",
+    "first_name" : "Brent1",
+    "last_name" : "Gracey2",
+    "email" : "may@qordoba.com",
+    "name" : "Brent Gracey",
+    "avatar" : "https://storage.googleapis.com/dev-env-storage/c86ef738-4a95-4087-ad44-fac14deb94ba_admin a cropped__scaled_32.png cropped__scaled_32.png",
+    "organizations" : [ {
+      "id" : "2",
+      "name" : "Controlled Test Org",
+      "role" : "Owner"
+    }, {
+      "id" : "1002",
+      "name" : "Test Hussam api call",
+      "role" : "Owner"
+    } ],
+    "timezone" : "Pacific/Niue",
+    "created_at" : "1420066800000",
+    "phone_number" : "12345621",
+    "last_online" : "14696092106000"
+  }
+}
