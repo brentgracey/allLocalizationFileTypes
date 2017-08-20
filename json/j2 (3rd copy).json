@@ -4,8 +4,8 @@
   "remember_me" : null,
   "loggedUser" : {
     "id" : 1,
-    "first_name" : "Brent",
-    "last_name" : "Gracey",
+    "first_name" : "Brent1",
+    "last_name" : "Gracey2",
     "email" : "may@qordoba.com",
     "name" : "Brent Gracey",
     "avatar" : "https://storage.googleapis.com/dev-env-storage/c86ef738-4a95-4087-ad44-fac14deb94ba_admin a__scaled_256__cropped__scaled_32.png",
@@ -21,6 +21,6 @@
     "timezone" : "Pacific/Niue",
     "created_at" : 1420066800000,
     "phone_number" : "12345621",
-    "last_online" : 1469609210000
+    "last_online" : 14696092106000
   }
 }
