@@ -1,0 +1,26 @@
+{
+  "result" : "Kaboom",
+  "token" : "",
+  "remember_me" : "لا شيء",
+  "loggedUser" : {
+    "id" : "1",
+    "first_name" : "حسام",
+    "last_name" : "Otır",
+    "email" : "may@qordoba.com",
+    "name" : "برنت Gracey",
+    "avatar" : "https://storage.googleapis.com/dev-env-storage/c86ef738-4a95-4087-ad44-fac14deb94ba_admin على cropped__scaled_32.png cropped__scaled_32.png",
+    "organizations" : [ {
+      "id" : "2",
+      "name" : "تسيطر اختبار المؤسسة",
+      "role" : "مالك"
+    }, {
+      "id" : "1002",
+      "name" : "اختبار دعوة 3scale المعهد",
+      "role" : "مالك"
+    } ],
+    "timezone" : "المحيط الهادئ / نيوي",
+    "created_at" : "1420066800000",
+    "phone_number" : "12345621",
+    "last_online" : "1469609210000"
+  }
+}
