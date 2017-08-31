@@ -12,7 +12,7 @@
 "organizations" : [ {
 "id" : 2,
 	"name" : "Controlled Test Org",
-"role" : "owner"
+"role" : "admin"
 }, {
 "id" : 1002,
 "name" : "test 3scale api call",
@@ -20,7 +20,7 @@
 } ],
 	"timezone" : "Pacific/Niue",
 "created_at" : 1420066800000,
-"phone_number" : "12345621",
+"phone_number" : "1234sdf5621",
 "last_online" : 1469609210000
 }
 }
