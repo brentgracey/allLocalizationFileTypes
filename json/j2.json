@@ -1,5 +1,5 @@
 {
-  "result" : "success",
+  "result" : "failed",
   "token" : "",
   "remember_me" : null,
   "loggedUser" : {
@@ -15,7 +15,7 @@
       "role" : "owner"
     }, {
       "id" : 1002,
-      "name" : "test 3scale api call",
+      "name" : "test github",
       "role" : "owner"
     } ],
     "timezone" : "Pacific/Niue",
