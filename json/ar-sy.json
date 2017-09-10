@@ -1,7 +1,7 @@
 {
   "result" : "",
   "token" : "",
-  "remember_me" : "",
+  "remember_me" : "لا شيء",
   "loggedUser" : {
     "id" : "",
     "first_name" : "برنت",
