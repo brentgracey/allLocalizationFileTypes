@@ -1,26 +1,26 @@
 {
-  "result" : "",
+  "result" : "Kabooms",
   "token" : "",
-  "remember_me" : "",
+  "remember_me" : "لا شيء33",
   "loggedUser" : {
-    "id" : "",
+    "id" : "1",
     "first_name" : "برنت",
-    "last_name" : "Hussam",
+    "last_name" : "Gracey",
     "email" : "may@qordoba.com",
-    "name" : "",
-    "avatar" : "",
+    "name" : "برنت Gracey 33",
+    "avatar" : "https://google.com",
     "organizations" : [ {
-      "id" : "",
-      "name" : "",
-      "role" : ""
+      "id" : "2",
+      "name" : "تسيطر اختبار المؤسسة",
+      "role" : "مالك"
     }, {
-      "id" : "",
-      "name" : "",
-      "role" : ""
+      "id" : "1002",
+      "name" : "اختبار دعوة 3scale المعهد",
+      "role" : "مالك"
     } ],
-    "timezone" : "",
-    "created_at" : "",
-    "phone_number" : "",
-    "last_online" : ""
+    "timezone" : "المحيط الهادئ / نيوي",
+    "created_at" : "1420066800000",
+    "phone_number" : "12345621",
+    "last_online" : "1469609210000"
   }
 }
