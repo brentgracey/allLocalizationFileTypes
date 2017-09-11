@@ -1,13 +1,13 @@
 {
   "result" : "",
   "token" : "",
-  "remember_me" : "لا شيء33",
+  "remember_me" : "",
   "loggedUser" : {
     "id" : "",
     "first_name" : "",
     "last_name" : "",
-    "email" : "",
-    "name" : "",
+    "email" : "may@qordoba.com",
+    "name" : "برنت Gracey 33",
     "avatar" : "",
     "organizations" : [ {
       "id" : "",
