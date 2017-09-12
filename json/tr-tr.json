@@ -1,0 +1,26 @@
+{
+  "result" : "failed",
+  "token" : "nosure",
+  "remember_me" : "null",
+  "loggedUser" : {
+    "id" : "1",
+    "first_name" : "bre",
+    "last_name" : "grean",
+    "email" : "may",
+    "name" : "brent",
+    "avatar" : "__scaled_256__",
+    "organizations" : [ {
+      "id" : "2",
+      "name" : "coroll",
+      "role" : "owner"
+    }, {
+      "id" : "werw",
+      "name" : "24532",
+      "role" : "owner"
+    } ],
+    "timezone" : "publikci",
+    "created_at" : "342342",
+    "phone_number" : "24r234",
+    "last_online" : "23424"
+  }
+}
