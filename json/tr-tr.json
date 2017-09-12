@@ -1,26 +1,26 @@
 {
   "result" : "failed",
-  "token" : "nosure",
+  "token" : "no",
   "remember_me" : "null",
   "loggedUser" : {
     "id" : "1",
-    "first_name" : "bre",
-    "last_name" : "grean",
+    "first_name" : "brent",
+    "last_name" : "brent",
     "email" : "may",
     "name" : "brent",
     "avatar" : "__scaled_256__",
     "organizations" : [ {
       "id" : "2",
-      "name" : "coroll",
-      "role" : "owner"
+      "name" : "co",
+      "role" : "owver"
     }, {
-      "id" : "werw",
-      "name" : "24532",
+      "id" : "2342",
+      "name" : "2342",
       "role" : "owner"
     } ],
-    "timezone" : "publikci",
-    "created_at" : "342342",
-    "phone_number" : "24r234",
-    "last_online" : "23424"
+    "timezone" : "234",
+    "created_at" : "23424",
+    "phone_number" : "2342",
+    "last_online" : "234234"
   }
 }
