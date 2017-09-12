@@ -1,0 +1,26 @@
+{
+  "result" : "failed",
+  "token" : "noruse",
+  "remember_me" : "null",
+  "loggedUser" : {
+    "id" : "1",
+    "first_name" : "brent",
+    "last_name" : "gracey",
+    "email" : "may",
+    "name" : "brent",
+    "avatar" : "__scaled_256__",
+    "organizations" : [ {
+      "id" : "2",
+      "name" : "cotroll",
+      "role" : "owner"
+    }, {
+      "id" : "1002",
+      "name" : "test",
+      "role" : "owner"
+    } ],
+    "timezone" : "name",
+    "created_at" : "23242",
+    "phone_number" : "32424",
+    "last_online" : "23424"
+  }
+}
