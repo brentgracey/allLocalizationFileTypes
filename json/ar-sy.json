@@ -1,0 +1,26 @@
+{
+  "result" : "",
+  "token" : "",
+  "remember_me" : "",
+  "loggedUser" : {
+    "id" : "",
+    "first_name" : "",
+    "last_name" : "",
+    "email" : "",
+    "name" : "",
+    "avatar" : "",
+    "organizations" : [ {
+      "id" : "",
+      "name" : "",
+      "role" : ""
+    }, {
+      "id" : "",
+      "name" : "",
+      "role" : ""
+    } ],
+    "timezone" : "",
+    "created_at" : "",
+    "phone_number" : "",
+    "last_online" : ""
+  }
+}
