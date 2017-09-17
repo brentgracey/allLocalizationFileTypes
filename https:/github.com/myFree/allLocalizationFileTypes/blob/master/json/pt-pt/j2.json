@@ -1,0 +1,26 @@
+{
+  "result" : "سيبسيب",
+  "token" : "سي",
+  "remember_me" : "سي",
+  "loggedUser" : {
+    "id" : "يس",
+    "first_name" : "سي",
+    "last_name" : "يس",
+    "email" : "بيس",
+    "name" : "سيب",
+    "avatar" : "__scaled_256__",
+    "organizations" : [ {
+      "id" : "سيب",
+      "name" : "س",
+      "role" : "سيب"
+    }, {
+      "id" : "سي",
+      "name" : "سيب",
+      "role" : "بس"
+    } ],
+    "timezone" : "سيب",
+    "created_at" : "ب",
+    "phone_number" : "س",
+    "last_online" : "سيب"
+  }
+}
