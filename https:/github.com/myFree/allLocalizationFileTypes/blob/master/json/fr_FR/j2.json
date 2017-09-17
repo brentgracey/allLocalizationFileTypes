@@ -1,0 +1,26 @@
+{
+  "result" : "sfsfsdfs",
+  "token" : "sdfsdf",
+  "remember_me" : "sdfsdfsdf",
+  "loggedUser" : {
+    "id" : "sdfsdf",
+    "first_name" : "sdfsdf",
+    "last_name" : "sdfsdfs",
+    "email" : "sdfsdfsdf",
+    "name" : "sdfsdf",
+    "avatar" : "__scaled_256__sdfsdf",
+    "organizations" : [ {
+      "id" : "sdfsdf",
+      "name" : "sdfsdf",
+      "role" : "sdfsdf"
+    }, {
+      "id" : "sdfsdf",
+      "name" : "sdfsdf",
+      "role" : "sdfsd"
+    } ],
+    "timezone" : "sdsd",
+    "created_at" : "sdsdsd",
+    "phone_number" : "fsdfsdf",
+    "last_online" : "fsdfsdf"
+  }
+}
