@@ -1,0 +1,26 @@
+{
+  "result" : "sdfsdfsdf",
+  "token" : "sdfs",
+  "remember_me" : "dfs",
+  "loggedUser" : {
+    "id" : "sd",
+    "first_name" : "sd",
+    "last_name" : "sdf",
+    "email" : "sdf",
+    "name" : "sdf",
+    "avatar" : "__scaled_256__sd",
+    "organizations" : [ {
+      "id" : "sdf",
+      "name" : "sdf",
+      "role" : "sdf"
+    }, {
+      "id" : "df",
+      "name" : "f",
+      "role" : "dfs"
+    } ],
+    "timezone" : "s",
+    "created_at" : "sdfs",
+    "phone_number" : "sdf",
+    "last_online" : "sdf"
+  }
+}
