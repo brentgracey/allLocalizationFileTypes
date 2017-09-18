@@ -15,9 +15,9 @@
       "name" : "Controlled Test Org",
       "role" : "admin"
     }, {
-      "id" : 1002,
+      "id" : 1002555,
       "name" : "test 3scale api call",
-      "role" : "admin",
+      "role" : "adminnnnn",
       "hello": "hi"
     } ],
     "timezone" : "Pacific/Niue",
