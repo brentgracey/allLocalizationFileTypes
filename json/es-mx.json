@@ -11,7 +11,7 @@
     "avatar" : "__scaled_256__",
     "organizations" : [ {
       "id" : "2",
-      "name" : "org",
+      "name" : "test",
       "role" : "owner"
     }, {
       "id" : "1002",
