@@ -1,0 +1,26 @@
+{
+  "result" : "suss",
+  "token" : "no source",
+  "remember_me" : "null",
+  "loggedUser" : {
+    "id" : "1",
+    "first_name" : "brent",
+    "last_name" : "gracey",
+    "email" : "may",
+    "name" : "bret",
+    "avatar" : "__scaled_256__",
+    "organizations" : [ {
+      "id" : "2",
+      "name" : "org",
+      "role" : "owner"
+    }, {
+      "id" : "1002",
+      "name" : "call",
+      "role" : "owner"
+    } ],
+    "timezone" : "niue",
+    "created_at" : "234242",
+    "phone_number" : "234234",
+    "last_online" : "890"
+  }
+}
