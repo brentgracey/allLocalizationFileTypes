@@ -1,0 +1,26 @@
+{
+  "result" : "test",
+  "token" : "sourc",
+  "remember_me" : "null",
+  "loggedUser" : {
+    "id" : "1",
+    "first_name" : "brent",
+    "last_name" : "gracy",
+    "email" : "may",
+    "name" : "brent",
+    "avatar" : "__scaled_256__",
+    "organizations" : [ {
+      "id" : "11",
+      "name" : "continue to test",
+      "role" : "woner"
+    }, {
+      "id" : "1002",
+      "name" : "test",
+      "role" : "owner"
+    } ],
+    "timezone" : "pasc",
+    "created_at" : "wefwer",
+    "phone_number" : "sdf",
+    "last_online" : "324243"
+  }
+}
