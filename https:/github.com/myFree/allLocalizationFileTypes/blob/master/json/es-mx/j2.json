@@ -1,0 +1,28 @@
+{
+  "result" : "success",
+  "token" : "tomen",
+  "remember_me" : "lskd",
+  "loggedUser" : {
+    "id" : "lsdd",
+    "client_id" : "hussam",
+    "first_name" : "brent",
+    "last_name" : "Gracey",
+    "email" : "lsd",
+    "name" : "sdf",
+    "avatar" : "__scaled_256__sdfsdf",
+    "organizations" : [ {
+      "id" : "dsfsdf",
+      "name" : "fsdfdsf",
+      "role" : "fsdfsdf"
+    }, {
+      "id" : "tuto",
+      "name" : "fsdff",
+      "role" : "test",
+      "hello" : "test"
+    } ],
+    "timezone" : "fsdfsf",
+    "created_at" : "dfsfdf",
+    "phone_number" : "dfsdfsf",
+    "last_online" : "fsfsf"
+  }
+}
