@@ -4,8 +4,9 @@
   "remember_me" : "Dfgdfg",
   "loggedUser" : {
     "id" : "1",
-    "first_name" : "Gdfgdfg",
-    "last_name" : "Gdfgdg",
+    "client_id" : "hussam",
+    "first_name" : "brent",
+    "last_name" : "gracy",
     "email" : "may@qordoba.com",
     "name" : "Gdfgdfg",
     "avatar" : "G __scaled_86ef738-4a95-4087-ad44-fac14deb94ba_admin",
@@ -14,9 +15,10 @@
       "name" : "Df",
       "role" : "Gd"
     }, {
-      "id" : "1002",
+      "id" : "34435435",
       "name" : "Dfg",
-      "role" : "Df"
+      "role" : "Adminnnnn",
+      "hello" : "Merhaba"
     } ],
     "timezone" : "G",
     "created_at" : "1420066800000",
