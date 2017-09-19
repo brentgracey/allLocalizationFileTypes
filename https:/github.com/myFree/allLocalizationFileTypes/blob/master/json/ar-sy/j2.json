@@ -1,0 +1,28 @@
+{
+  "result" : "sdfsdf",
+  "token" : "sdf",
+  "remember_me" : "sdfsdf",
+  "loggedUser" : {
+    "id" : "sdfsdf",
+    "client_id" : "hussam",
+    "first_name" : "brent",
+    "last_name" : "Graceyy",
+    "email" : "sdf",
+    "name" : "f",
+    "avatar" : "__scaled_256__sdfsdf",
+    "organizations" : [ {
+      "id" : "sdfsdfsf",
+      "name" : "fsdfsd",
+      "role" : "fsdf"
+    }, {
+      "id" : "567890",
+      "name" : "fdsf",
+      "role" : "Adminnnnn",
+      "hello" : "مرحبا"
+    } ],
+    "timezone" : "fsdf",
+    "created_at" : "sdfsdf",
+    "phone_number" : "fdsfsdf",
+    "last_online" : "fsdfdf"
+  }
+}
