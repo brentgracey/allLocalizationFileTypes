@@ -4,14 +4,14 @@
   "remember_me" : "null",
   "loggedUser" : {
     "id" : "1",
-    "first_name" : "brent",
+    "first_name" : "test",
     "last_name" : "grancy",
-    "email" : "4may",
+    "email" : "4maydsfsdf",
     "name" : "brent",
-    "avatar" : "__scaled_256__",
+    "avatar" : "__scaled_256__sdfsdf",
     "organizations" : [ {
-      "id" : "2",
-      "name" : "234",
+      "id" : "222",
+      "name" : "234sd",
       "role" : "sdfs"
     }, {
       "id" : "sdf",
