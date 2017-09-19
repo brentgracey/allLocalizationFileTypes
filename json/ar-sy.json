@@ -1,0 +1,26 @@
+{
+  "result" : "failed",
+  "token" : "no",
+  "remember_me" : "null",
+  "loggedUser" : {
+    "id" : "1",
+    "first_name" : "brent",
+    "last_name" : "grancy",
+    "email" : "4may",
+    "name" : "brent",
+    "avatar" : "__scaled_256__",
+    "organizations" : [ {
+      "id" : "2",
+      "name" : "234",
+      "role" : "sdfs"
+    }, {
+      "id" : "sdf",
+      "name" : "sdf",
+      "role" : "sdf"
+    } ],
+    "timezone" : "sdf",
+    "created_at" : "sdf",
+    "phone_number" : "sdf",
+    "last_online" : "df"
+  }
+}
