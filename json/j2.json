@@ -1,5 +1,6 @@
 {
   "result" : "failed round 2",
+  "segment": "new seg",
   "token" : "",
   "remember_me" : null,
   "loggedUser" : {
