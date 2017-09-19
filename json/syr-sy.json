@@ -1,5 +1,6 @@
 {
   "result" : "test",
+  "segment" : "test",
   "token" : "tset",
   "remember_me" : "test",
   "loggedUser" : {
