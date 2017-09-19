@@ -1,0 +1,26 @@
+{
+  "result" : "failed",
+  "token" : "no surce",
+  "remember_me" : "null",
+  "loggedUser" : {
+    "id" : "213",
+    "first_name" : "brent",
+    "last_name" : "gracey",
+    "email" : "may",
+    "name" : "brent",
+    "avatar" : "__scaled_256__",
+    "organizations" : [ {
+      "id" : "22",
+      "name" : "test comp",
+      "role" : "owner"
+    }, {
+      "id" : "144",
+      "name" : "api call",
+      "role" : "owner"
+    } ],
+    "timezone" : "pacific",
+    "created_at" : "231231",
+    "phone_number" : "23123",
+    "last_online" : "2313"
+  }
+}
