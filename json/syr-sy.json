@@ -1,0 +1,27 @@
+{
+  "result" : "failed round 5",
+  "segment" : "test",
+  "token" : "tset",
+  "remember_me" : "test",
+  "loggedUser" : {
+    "id" : "test",
+    "first_name" : "sfd",
+    "last_name" : "sdfsdfsdf",
+    "email" : "sdfsdf",
+    "name" : "sdfsdf",
+    "avatar" : "__scaled_256__sdfsdf",
+    "organizations" : [ {
+      "id" : "sdfsdf",
+      "name" : "sdfsdf",
+      "role" : "sdfsdf"
+    }, {
+      "id" : "fsdfsdf",
+      "name" : "sdfsdf",
+      "role" : "sdfsdf"
+    } ],
+    "timezone" : "sdfsdf",
+    "created_at" : "fsdfsdffsdf",
+    "phone_number" : "sdfsdf",
+    "last_online" : "sdfsdf"
+  }
+}
