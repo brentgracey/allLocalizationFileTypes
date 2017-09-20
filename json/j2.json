@@ -1,22 +1,24 @@
 {
-  "result" : "success",
-  "token" : "",
+  "result" : "successss",
+  "token" : "token",
   "remember_me" : null,
   "loggedUser" : {
     "id" : 1,
+    "client_id": "hussam",
     "first_name" : "Brent",
-    "last_name" : "Gracey",
+    "last_name" : "Graceyyy",
     "email" : "may@qordoba.com",
     "name" : "Brent Gracey",
     "avatar" : "https://storage.googleapis.com/dev-env-storage/c86ef738-4a95-4087-ad44-fac14deb94ba_admin a__scaled_256__cropped__scaled_32.png",
     "organizations" : [ {
       "id" : 2,
       "name" : "Controlled Test Org",
-      "role" : "owner"
+      "role" : "admin"
     }, {
-      "id" : 1002,
+      "id" : 1002555,
       "name" : "test 3scale api call",
-      "role" : "owner"
+      "role" : "adminnnnn",
+      "hello": "hi"
     } ],
     "timezone" : "Pacific/Niue",
     "created_at" : 1420066800000,
