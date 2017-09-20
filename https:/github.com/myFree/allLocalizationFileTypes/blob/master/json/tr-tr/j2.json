@@ -1,0 +1,26 @@
+{
+  "result" : "Dfsdfsdf",
+  "token" : "",
+  "remember_me" : "Dfgdfg",
+  "loggedUser" : {
+    "id" : "1",
+    "first_name" : "Brent",
+    "last_name" : "Gdfgdg",
+    "email" : "may@qordoba.com",
+    "name" : "Gdfgdfg",
+    "avatar" : "G __scaled_86ef738-4a95-4087-ad44-fac14deb94ba_admin https://storage.googleapis.com/dev-env-storage/c86ef738-4a95-4087-ad44-fac14deb94ba_admin cropped__scaled_32.png",
+    "organizations" : [ {
+      "id" : "2",
+      "name" : "Df",
+      "role" : "Df"
+    }, {
+      "id" : "1002",
+      "name" : "Dfg",
+      "role" : "Df"
+    } ],
+    "timezone" : "G",
+    "created_at" : "1420066800000",
+    "phone_number" : "12345621",
+    "last_online" : "1469609210000"
+  }
+}
