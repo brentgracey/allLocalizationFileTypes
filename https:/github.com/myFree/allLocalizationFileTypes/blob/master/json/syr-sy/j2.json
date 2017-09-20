@@ -1,0 +1,26 @@
+{
+  "result" : "succssess",
+  "token" : "",
+  "remember_me" : "Test",
+  "loggedUser" : {
+    "id" : "1",
+    "first_name" : "Sfd",
+    "last_name" : "Sdfsdfsdf",
+    "email" : "may@qordoba.com",
+    "name" : "Sdfsdf",
+    "avatar" : "Sdfsdf __scaled_86ef738-4a95-4087-ad44-fac14deb94ba_admin",
+    "organizations" : [ {
+      "id" : "2",
+      "name" : "Sdfsdfasd",
+      "role" : "Sdfsdf"
+    }, {
+      "id" : "1002",
+      "name" : "Sdfsdf",
+      "role" : "Sdfsdf"
+    } ],
+    "timezone" : "Sdfsdf",
+    "created_at" : "1420066800000",
+    "phone_number" : "12345621",
+    "last_online" : "1469609210000"
+  }
+}
