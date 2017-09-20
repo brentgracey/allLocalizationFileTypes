@@ -21,7 +21,7 @@ msgid "The finish brings unusual, luminous and powerful freshness"
 msgstr "اللمسة الأخيرة تضفي نضارة مضيئة، قوية وغير عادية"
 
 #: 
-msgid "The finished puzzle measures 88cms x 61cms, and contains 150 pieces, so is one of our more challenging puzzles."
+msgid "The finisheddd puzzle measures 88cms x 61cms, and contains 150 pieces, so is one of our more challenging puzzles."
 msgstr "يبلغ حجم البازل بعد الانتهاء من تجميعه 88 سم × 61 سم، ويحتوي على 150 قطعة، لذا فإنه يعد واحدًا من أكثر البازل تحديًا لدينا."
 
 #: 
@@ -33,7 +33,7 @@ msgid "THE FIRST ASSASSIN AT THE BIRTH OF THE MODERN AGE - As the brash, rebelli
 msgstr "القاتل الأول في تاريخ العصر الحديث - كشخصية حاد الطبع، المتمرد جاكوب فري، سدد لكماتك وتغلب على الأعداء بطرق قتل متعددة سريعة كالبرق وحركات مضادة. استخدم التخفي المعدل"
 
 #: 
-msgid "The first collection of fresh water in perfumery"
+msgid "The firsttt collection of fresh water in perfumery"
 msgstr "أول مجموعة من المياه العذبة في عالم العطور"
 
 #: 
