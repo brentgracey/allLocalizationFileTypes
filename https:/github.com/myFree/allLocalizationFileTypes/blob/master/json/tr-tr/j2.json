@@ -1,6 +1,6 @@
 {
-  "result" : "",
-  "token" : "",
+  "result" : "success",
+  "token" : "no source",
   "remember_me" : "",
   "loggedUser" : {
     "id" : "",
