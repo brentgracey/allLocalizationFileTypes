@@ -1,24 +1,24 @@
 {
-  "result" : "Sdfsdfsdf",
+  "result" : "Succssess",
   "token" : "",
-  "remember_me" : "Null",
+  "remember_me" : "Test",
   "loggedUser" : {
     "id" : "1",
-    "first_name" : "Brent",
-    "last_name" : "Gracey",
+    "first_name" : "Sfd",
+    "last_name" : "Sdfsdfsdf",
     "email" : "may@qordoba.com",
-    "name" : "Brent",
+    "name" : "Sdfsdf",
     "avatar" : "Sdfsdf __scaled_86ef738-4a95-4087-ad44-fac14deb94ba_admin https://storage.googleapis.com/dev-env-storage/c86ef738-4a95-4087-ad44-fac14deb94ba_admin cropped__scaled_32.png",
     "organizations" : [ {
       "id" : "2",
-      "name" : "Test comp",
-      "role" : "Owner"
+      "name" : "Sdfsdfasd",
+      "role" : "Sdfsdf"
     }, {
       "id" : "1002",
-      "name" : "Api call",
-      "role" : "Owner"
+      "name" : "Sdfsdf",
+      "role" : "Sdfsdf"
     } ],
-    "timezone" : "Pacific",
+    "timezone" : "Sdfsdf",
     "created_at" : "1420066800000",
     "phone_number" : "12345621",
     "last_online" : "1469609210000"
