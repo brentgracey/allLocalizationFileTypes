@@ -1,0 +1,26 @@
+{
+  "result" : "Success",
+  "token" : "",
+  "remember_me" : "Null",
+  "loggedUser" : {
+    "id" : "1",
+    "first_name" : "Brent",
+    "last_name" : "Gracey",
+    "email" : "may@qordoba.com",
+    "name" : "Brent",
+    "avatar" : "Sdfsdf scaled_86ef738-4a95-4087-ad44-fac14deb94ba_admin https://storage.googleapis.com/dev-env-storage/c86ef738-4a95-4087-ad44-fac14deb94ba_admin",
+    "organizations" : [ {
+      "id" : "2",
+      "name" : "Test comp",
+      "role" : "Owner"
+    }, {
+      "id" : "1002",
+      "name" : "Api call",
+      "role" : "Owner"
+    } ],
+    "timezone" : "Pacific",
+    "created_at" : "1420066800000",
+    "phone_number" : "12345621",
+    "last_online" : "1469609210000"
+  }
+}
