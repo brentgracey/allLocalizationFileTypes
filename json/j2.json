@@ -12,7 +12,7 @@
     "organizations" : [ {
       "id" : 2,
       "name" : "Controlled Test Org",
-      "role" : "owner"
+      "role" : "same same but different"
     }, {
       "id" : 1002,
       "name" : "test 3scale api call",
