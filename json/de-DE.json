@@ -1,0 +1,26 @@
+{
+  "result" : "Erfolg",
+  "token" : "",
+  "remember_me" : "Asdfasdf",
+  "loggedUser" : {
+    "id" : "1",
+    "first_name" : "26sep",
+    "last_name" : "26sep",
+    "email" : "may@qordoba.com",
+    "name" : "Sadfsadf",
+    "avatar" : "Gdfgdfg __scaled_86ef738-4a95-4087-ad44-fac14deb94ba_admin https://storage.googleapis.com/dev-env-storage/c86ef738-4a95-4087-ad44-fac14deb94ba_admin",
+    "organizations" : [ {
+      "id" : "2",
+      "name" : "Sdafsdfsdfdsf",
+      "role" : "Sdfsdf"
+    }, {
+      "id" : "1002",
+      "name" : "Sdfsdf",
+      "role" : "Sdfsdf"
+    } ],
+    "timezone" : "Sdfdsf",
+    "created_at" : "1420066800000",
+    "phone_number" : "12345621",
+    "last_online" : "1469609210000"
+  }
+}
