@@ -25,3 +25,5 @@
 /* Text in error pop up that appears when a user enters the wrong email or password */
 "Authentication.Alert.LoginError.Message.InvalidEmailOrPassword" = "Invalid email or password";
 
+
+
