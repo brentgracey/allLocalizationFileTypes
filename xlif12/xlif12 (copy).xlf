@@ -28,8 +28,8 @@
      するアプリケーションです。</target>
    </trans-unit>
    <trans-unit id="4" maxbytes="36">
-    <source xml:lang="en-US">XLIFF Data Manager</source>
-    <target xml:lang="ja-JP">XLIFF データ・マネージャ</target>
+    <source xml:lang="en-US">XSource</source>
+    <target xml:lang="ja-JP">XSource</target>
    </trans-unit>
   </body>
  </file>
