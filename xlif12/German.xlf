@@ -16,8 +16,7 @@
    <trans-unit id="3" maxbytes="114">
     <source xml:lang="en-US">An application to and 
      process XLIFF documents</source>
-    <target xml:lang="de-DE">An application to and 
-     process XLIFF documents</target>
+    <target xml:lang="de-DE">blah blah blah</target>
    </trans-unit>
    <trans-unit id="4" maxbytes="36">
     <source xml:lang="en-US">XLIFF Data Manager</source>
