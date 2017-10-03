@@ -1,5 +1,5 @@
 <xliff version="1.2">
- <file original="Graphic Example.psd"
+ <file original="GET IN THERE.psd"
   source-language="en-US" target-language="ja-JP"
   tool="Rainbow" datatype="photoshop">
   <header>
@@ -11,7 +11,7 @@
      tool="Rainbow" date="20010926T152258Z"
      company-name="NeverLand Inc." job-id="123"
      contact-name="Peter Pan" contact-email="ppan@example.com">
-     <note>Make sure to use the glossary I sent you yesterday.
+     <note>Make sure to use the I sent you yesterday.
       Thanks.</note>
     </phase>
    </phase-group>
@@ -22,13 +22,13 @@
     <target xml:lang="ja-JP">Quetzal</target>
    </trans-unit>
    <trans-unit id="3" maxbytes="114">
-    <source xml:lang="en-US">An application to manipulate and 
+    <source xml:lang="en-US"> to manipulate and 
      process XLIFF documents</source>
     <target xml:lang="ja-JP">XLIFF 文書を編集、または処理
      するアプリケーションです。</target>
    </trans-unit>
    <trans-unit id="4" maxbytes="36">
-    <source xml:lang="en-US">XLIFF Data Manager</source>
+    <source xml:lang="en-US">XLIFF Manager</source>
     <target xml:lang="ja-JP">XLIFF データ・マネージャ</target>
    </trans-unit>
   </body>

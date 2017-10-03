@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="PostmatesCourier/PostmatesCourier/Localization/en.lproj/Localizable.strings" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.3" build-num="8E3004b"/>
+    </header>
+    <body>
+      <trans-unit id="id-confirmation-view.text.id-expired">
+        <source>The 
+%1$@ 
+is 
+expired.
+	</source>
+        <note>Text if ID expired</note>
+      </trans-unit>
+      <trans-unit id="id-confirmation-view.text.id-invalid">
+        <source>The 
+%1$@ 
+is 
+expired.
+	</source>
+        <note>Text if ID invalid</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

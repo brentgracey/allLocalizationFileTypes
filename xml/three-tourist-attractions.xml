@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="attractions_found">
+        <item quantity="one">One tourist attraction nearby!</item>
+        <item quantity="two">TWO tourist attractionzz nearby!</item>
+        <item quantity="other">%d tourist attractions nearby!</item>
+    </plurals>
+
+</resources>
