@@ -19,7 +19,7 @@ msgstr "msgstr 1"
 
 #: skycomponents/horizoncomponent.cpp:429
 msgctxt "today"
-msgid "msgid 2"
+msgid "asdfasdf 2"
 msgstr "msgstr 2"
 
 # Hash space is a translator comment that should be preserved.
@@ -31,7 +31,7 @@ msgstr "msgstr 3"
 #, kde-format
 msgid "msgid 4"
 msgid_plural "msgid_plural 1"
-msgstr[0] "msgstr[0]"
+msgstr[0] "asdfasdf[0]"
 msgstr[1] "msgstr[1]"
 msgstr[2] "msgstr[2]"
 
