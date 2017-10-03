@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="PostmatesCourier/PostmatesCourier/Localization/en.lproj/Localizable.stringsdict" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0" build-num="9A235"/>
+    </header>
+    <body>
+      <trans-unit id="/item-entry/NSStringLocalizedFormatKey:dict/:string">
+        <source>You are purchasing %1$#@items@...</source>
+      </trans-unit>
+      <trans-unit id="/item-entry/items:dict/many:dict/:string">
+        <source>items</source>
+      </trans-unit>
+      <trans-unit id="/item-entry/items:dict/one:dict/:string">
+        <source>item</source>
+      <trans-unit id="/item-entry/items:dict/zero:dict/:string">
+        <source>items</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

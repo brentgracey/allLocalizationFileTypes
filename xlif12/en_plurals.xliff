@@ -1,0 +1,2162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="PostmatesCourier/PostmatesCourier/Localization/en.lproj/Localizable.strings" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0" build-num="9A235"/>
+    </header>
+    <body>
+      <trans-unit id="Courier issue does not have an identifier.">
+        <source>Courier issue does not have an identifier.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Job does not have an identifier.">
+        <source>Job does not have an identifier.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="account-agreements.title">
+        <source>Before continuing, you'll need to agree to the following terms.</source>
+        <note>Inform user needs to agree to following terms</note>
+      </trans-unit>
+      <trans-unit id="account-status-view.permissions.location-denied.message">
+        <source>Location Services must be turned on at all times when using Postmates so we can offer you the best deliveries.
+From your Settings app, visit Privacy &gt; Location Services to ensure Location Services are turned on and enabled for Postmates Fleet.</source>
+        <note>Message to display if location access has been denied</note>
+      </trans-unit>
+      <trans-unit id="account-status-view.permissions.location-denied.title">
+        <source>We need your current location before you can go online.</source>
+        <note>Title to display if location access has been denied</note>
+      </trans-unit>
+      <trans-unit id="account-status-view.permissions.push-notification-denied.message">
+        <source>Push Notifications must be turned on at all times when using Postmates so we can offer you the best deliveries.
+From your Settings app, visit Privacy &gt; Push Notifications to ensure Push Notifications are turned on and enabled for Postmates Fleet.</source>
+        <note>Message to display if push notifications have been disabled</note>
+      </trans-unit>
+      <trans-unit id="account-status-view.permissions.push-notification-denied.title">
+        <source>We need you to allow notifications before you can go online.</source>
+        <note>Title to display if push notifications have been disabled</note>
+      </trans-unit>
+      <trans-unit id="account-status-view.settings-button.title">
+        <source>Go to Settings</source>
+        <note>Go to Settings</note>
+      </trans-unit>
+      <trans-unit id="account-status-view.sign-out-button.title">
+        <source>Sign Out</source>
+        <note>Sign out button</note>
+      </trans-unit>
+      <trans-unit id="account-status.title">
+        <source>Complete these steps to go online.</source>
+        <note>Inform user to complete steps before account can be activated</note>
+      </trans-unit>
+      <trans-unit id="account-table-view.error-alert.confirm-button.title">
+        <source>Okay</source>
+        <note>Confirm button</note>
+      </trans-unit>
+      <trans-unit id="account-table-view.error-alert.message">
+        <source>Something went wrong. Check your internet connection and try again.</source>
+        <note>Error message to display if capabilities can't be loaded</note>
+      </trans-unit>
+      <trans-unit id="account-table-view.footer.build-info">
+        <source>Version %1$@, Build %2$@</source>
+        <note>Display build version and number</note>
+      </trans-unit>
+      <trans-unit id="account-table-view.rows.courier-feature.off">
+        <source>Off</source>
+        <note>Text to display if courier feature is off</note>
+      </trans-unit>
+      <trans-unit id="account-table-view.rows.courier-feature.on">
+        <source>On</source>
+        <note>Text to display if courier feature is on</note>
+      </trans-unit>
+      <trans-unit id="account-table-view.rows.earnings">
+        <source>Earnings</source>
+        <note>Earnings</note>
+      </trans-unit>
+      <trans-unit id="account-table-view.rows.help-center">
+        <source>Help Center</source>
+        <note>Help Center</note>
+      </trans-unit>
+      <trans-unit id="account-table-view.rows.internal-tools">
+        <source>Internal Tools</source>
+        <note>Internal tools</note>
+      </trans-unit>
+      <trans-unit id="account-table-view.rows.newsroom">
+        <source>Newsroom</source>
+        <note>Newsroom</note>
+      </trans-unit>
+      <trans-unit id="account-table-view.rows.sign-out">
+        <source>Sign Out</source>
+        <note>Sign out</note>
+      </trans-unit>
+      <trans-unit id="account-table-view.rows.vehicle">
+        <source>Vehicle</source>
+        <note>Vehicle</note>
+      </trans-unit>
+      <trans-unit id="account-table-view.sections.dashboard">
+        <source>Dashboard</source>
+        <note>Dashboard section header</note>
+      </trans-unit>
+      <trans-unit id="account-table-view.sections.preferences">
+        <source>Preferences</source>
+        <note>Preferences section header</note>
+      </trans-unit>
+      <trans-unit id="account-table-view.sections.support">
+        <source>Support</source>
+        <note>Support section header</note>
+      </trans-unit>
+      <trans-unit id="account-table-view.sign-out-alert.cancel">
+        <source>Cancel</source>
+        <note>Cancel sign out</note>
+      </trans-unit>
+      <trans-unit id="account-table-view.sign-out-alert.confirm">
+        <source>Sign Out</source>
+        <note>Confirm sign out</note>
+      </trans-unit>
+      <trans-unit id="account-table-view.sign-out-alert.message">
+        <source>Are you sure you want to sign out of your account?</source>
+        <note>Message for alert if PM wants to sign out</note>
+      </trans-unit>
+      <trans-unit id="account-table-view.sign-out-error-alert.message">
+        <source>You must complete your active deliveries before going offline.</source>
+        <note>Message for alert if PM can't be logged out</note>
+      </trans-unit>
+      <trans-unit id="account-table-view.sign-out-error-alert.title">
+        <source>Trouble Signing Out</source>
+        <note>Title for alert if PM can't be logged out</note>
+      </trans-unit>
+      <trans-unit id="account-table-view.title">
+        <source>Account</source>
+        <note>Account view's title</note>
+      </trans-unit>
+      <trans-unit id="add-receipts-cell.camera-button.title">
+        <source>Add</source>
+        <note>Action button to Add receipt</note>
+      </trans-unit>
+      <trans-unit id="add-receipts-cell.header.title">
+        <source>Receipts</source>
+        <note>Cell title: Receipts</note>
+      </trans-unit>
+      <trans-unit id="agreements-webview.accept-alert.agree-button.title">
+        <source>Agree</source>
+        <note>Agree button</note>
+      </trans-unit>
+      <trans-unit id="agreements-webview.accept-alert.dismiss-button.title">
+        <source>Dismiss</source>
+        <note>Dismiss button</note>
+      </trans-unit>
+      <trans-unit id="agreements-webview.accept-alert.title">
+        <source>I agree to the %1$@.</source>
+        <note>Agreement alert title</note>
+      </trans-unit>
+      <trans-unit id="agreements-webview.bottom-bar.accept-button.title">
+        <source>Accept</source>
+        <note>Accept</note>
+      </trans-unit>
+      <trans-unit id="agreements-webview.bottom-bar.back-button.title">
+        <source>Back</source>
+        <note>Back</note>
+      </trans-unit>
+      <trans-unit id="alert-window.done-button.title">
+        <source>Okay</source>
+        <note>Okay</note>
+      </trans-unit>
+      <trans-unit id="app-boy.courier-promo.error-alert.dismiss-button.title">
+        <source>Dismiss</source>
+        <note>Dismiss button</note>
+      </trans-unit>
+      <trans-unit id="app-boy.courier-promo.error-alert.message">
+        <source>Sorry, something went wrong redeeming this promotion.
+%@</source>
+        <note>Error alert message</note>
+      </trans-unit>
+      <trans-unit id="app-boy.courier-promo.error-alert.title">
+        <source>Promotion Error</source>
+        <note>Error alert title</note>
+      </trans-unit>
+      <trans-unit id="app-boy.courier-promo.error-alert.try-again-button.title">
+        <source>Try Again</source>
+        <note>Try Again button</note>
+      </trans-unit>
+      <trans-unit id="app-delegate.application-will-terminate.alert.message">
+        <source>We’re unable to send updates for any ongoing jobs. Please re-open the Postmates Fleet app.</source>
+        <note>Application will terminate, let user know they won't receive any updates</note>
+      </trans-unit>
+      <trans-unit id="app-session-controller.account-status.sign-out-alert.cancel-button.title">
+        <source>Cancel</source>
+        <note>Cancel button</note>
+      </trans-unit>
+      <trans-unit id="app-session-controller.account-status.sign-out-alert.message">
+        <source>Are you sure you want to sign out of your account?</source>
+        <note>Sign out alert</note>
+      </trans-unit>
+      <trans-unit id="app-session-controller.account-status.sign-out-alert.sign-out-button.title">
+        <source>Sign Out</source>
+        <note>Sign Out button</note>
+      </trans-unit>
+      <trans-unit id="battery-monitor.alert.done-button.title">
+        <source>Got it!</source>
+        <note>Got it</note>
+      </trans-unit>
+      <trans-unit id="battery-monitor.bad-level-alert.message">
+        <source>Your battery is dangerously low. Please charge up as soon as possible!</source>
+        <note>Low Battery Alert message</note>
+      </trans-unit>
+      <trans-unit id="battery-monitor.bad-level-alert.title">
+        <source>Low Battery Alert</source>
+        <note>Low Battery Alert title</note>
+      </trans-unit>
+      <trans-unit id="battery-monitor.forced-off-duty-alert.message">
+        <source>Your battery is too low to remain on duty.</source>
+        <note>Forced Off Duty Alert message</note>
+      </trans-unit>
+      <trans-unit id="battery-monitor.forced-off-duty-alert.title">
+        <source>Forced Off Duty</source>
+        <note>Forced Off Duty Alert title</note>
+      </trans-unit>
+      <trans-unit id="battery-monitor.low-level-alert.message">
+        <source>Please charge up!
+You will be logged off at 10%!</source>
+        <note>Low Battery Warning message</note>
+      </trans-unit>
+      <trans-unit id="battery-monitor.low-level-alert.title">
+        <source>Low Battery Warning</source>
+        <note>Low Battery Warning title</note>
+      </trans-unit>
+      <trans-unit id="capabilities-summary.vehicle.bicycle">
+        <source>Bicycle</source>
+        <note>Bicycle</note>
+      </trans-unit>
+      <trans-unit id="capabilities-summary.vehicle.car">
+        <source>Car</source>
+        <note>Car</note>
+      </trans-unit>
+      <trans-unit id="capabilities-summary.vehicle.motorcycle">
+        <source>Motorcycle</source>
+        <note>Motorcycle</note>
+      </trans-unit>
+      <trans-unit id="capabilities-summary.vehicle.scooter">
+        <source>Scooter</source>
+        <note>Scooter</note>
+      </trans-unit>
+      <trans-unit id="capabilities-summary.vehicle.truck">
+        <source>Truck</source>
+        <note>Truck</note>
+      </trans-unit>
+      <trans-unit id="capabilities-summary.vehicle.van">
+        <source>Van</source>
+        <note>Van</note>
+      </trans-unit>
+      <trans-unit id="capabilities-summary.vehicle.walker">
+        <source>Foot</source>
+        <note>Foot</note>
+      </trans-unit>
+      <trans-unit id="checklist-view.bottom-bar.agreements-fetch-error.title">
+        <source>Agreement Fetch Error</source>
+        <note>Agreement Fetch Error</note>
+      </trans-unit>
+      <trans-unit id="checklist-view.bottom-bar.continue-button.title">
+        <source>Continue</source>
+        <note>Continue</note>
+      </trans-unit>
+      <trans-unit id="checklist-view.bottom-bar.dismiss-button.title">
+        <source>Dismiss</source>
+        <note>Dismiss</note>
+      </trans-unit>
+      <trans-unit id="courier-status.location-error">
+        <source>Your location could not be determined. Please make sure Location updates are enabled and try again.</source>
+        <note>Please make sure location updates are enabled and try again</note>
+      </trans-unit>
+      <trans-unit id="courier-support-form-view.action-button.title">
+        <source>Please make a selection</source>
+        <note>Make a selection button</note>
+      </trans-unit>
+      <trans-unit id="courier-support.call-customer">
+        <source>Call Customer</source>
+        <note>Call Customer</note>
+      </trans-unit>
+      <trans-unit id="courier-support.cancel-alert.title">
+        <source>Dismiss</source>
+        <note>Dismiss</note>
+      </trans-unit>
+      <trans-unit id="courier-support.cancel-current-job-issue.error.title">
+        <source>Error Canceling Job Support</source>
+        <note>Error Canceling Job Support</note>
+      </trans-unit>
+      <trans-unit id="courier-support.cancel-job-confirmation-alert.confirm-button.title">
+        <source>Yes</source>
+        <note>Confirm button</note>
+      </trans-unit>
+      <trans-unit id="courier-support.cancel-job-confirmation-alert.message">
+        <source>Are you sure you want to mark this item as 'Unavailable'? This will raise a Live Order Support ticket to cancel the order.</source>
+        <note>Cancel order alert message</note>
+      </trans-unit>
+      <trans-unit id="courier-support.cancel-job-confirmation-alert.title">
+        <source>Cancel Order?</source>
+        <note>Cancel order alert title</note>
+      </trans-unit>
+      <trans-unit id="courier-support.cancel-request-alert.cancel-button.title">
+        <source>Cancel Request</source>
+        <note>Cancel request button</note>
+      </trans-unit>
+      <trans-unit id="courier-support.cancel-request-alert.dismiss-button.title">
+        <source>Dismiss</source>
+        <note>Dismiss button</note>
+      </trans-unit>
+      <trans-unit id="courier-support.create-job-issue.error.title">
+        <source>Support Error</source>
+        <note>Support Error</note>
+      </trans-unit>
+      <trans-unit id="courier-support.issue-received-alert.done-button.title">
+        <source>Okay</source>
+        <note>Okay</note>
+      </trans-unit>
+      <trans-unit id="courier-support.issue-received-alert.message">
+        <source>Live Order Support will contact you shortly.</source>
+        <note>LOS will contact you shortly</note>
+      </trans-unit>
+      <trans-unit id="courier-support.issue-received-alert.title">
+        <source>Issue Received</source>
+        <note>Issue received</note>
+      </trans-unit>
+      <trans-unit id="courier-support.show-alert.dismiss-button.title">
+        <source>Dismiss</source>
+        <note>Dismiss button</note>
+      </trans-unit>
+      <trans-unit id="courier-support.show-customer-list">
+        <source>Which order?</source>
+        <note>Courier Support Title: Show customer list</note>
+      </trans-unit>
+      <trans-unit id="courier-support.show-throttling-cancel.dismiss-button.title">
+        <source>Dismiss</source>
+        <note>Dismiss button</note>
+      </trans-unit>
+      <trans-unit id="courier-support.support-error-alert.dismiss-button.title">
+        <source>Dismiss</source>
+        <note>Dismiss button</note>
+      </trans-unit>
+      <trans-unit id="courier-support.support-error-alert.message">
+        <source>Something went wrong. Please select another option.</source>
+        <note>Error message</note>
+      </trans-unit>
+      <trans-unit id="courier-support.text-customer">
+        <source>Text Customer</source>
+        <note>Text Customer</note>
+      </trans-unit>
+      <trans-unit id="create-receipt-view.back-button.title">
+        <source>Cancel</source>
+        <note>Cancel</note>
+      </trans-unit>
+      <trans-unit id="create-receipt-view.loading-view.removing-duplicate">
+        <source>Removing duplicate receipt(s)...</source>
+        <note>Removing duplicates...</note>
+      </trans-unit>
+      <trans-unit id="create-receipt-view.loading-view.upload-finished">
+        <source>Finishing Upload</source>
+        <note>Finishing Upload</note>
+      </trans-unit>
+      <trans-unit id="create-receipt-view.loading-view.uploading">
+        <source>Uploading...</source>
+        <note>Uploading</note>
+      </trans-unit>
+      <trans-unit id="create-receipt-view.permissions.denied.cancel-button.title">
+        <source>Cancel</source>
+        <note>Cancel</note>
+      </trans-unit>
+      <trans-unit id="create-receipt-view.permissions.denied.message">
+        <source>Postmates Fleet needs Camera access in order to take receipt photos. Tap on Settings to change Camera access.</source>
+        <note>Alert's message to grant permissions (previously denied)</note>
+      </trans-unit>
+      <trans-unit id="create-receipt-view.permissions.denied.settings-button.title">
+        <source>Settings</source>
+        <note>Settings</note>
+      </trans-unit>
+      <trans-unit id="create-receipt-view.permissions.denied.title">
+        <source>Permission Required</source>
+        <note>Alert's title to grant permissions (previously denied)</note>
+      </trans-unit>
+      <trans-unit id="create-receipt-view.permissions.grant.done-button.title">
+        <source>OK</source>
+        <note>OK</note>
+      </trans-unit>
+      <trans-unit id="create-receipt-view.permissions.grant.message">
+        <source>Please grant Postmates Fleet access to your Camera on the next screen to take receipt photos.</source>
+        <note>Alert's message to grant permissions</note>
+      </trans-unit>
+      <trans-unit id="create-receipt-view.permissions.grant.title">
+        <source>Permission Required</source>
+        <note>Alert's title to grant permissions</note>
+      </trans-unit>
+      <trans-unit id="create-receipt-view.save-button.title">
+        <source>Save</source>
+        <note>Save</note>
+      </trans-unit>
+      <trans-unit id="create-receipt-view.title">
+        <source>Add Receipt</source>
+        <note>Add receipt</note>
+      </trans-unit>
+      <trans-unit id="dispatch-event-handler.expired-alert.message">
+        <source>Sorry, this delivery is no longer available.</source>
+        <note>Dispatch no longer available</note>
+      </trans-unit>
+      <trans-unit id="dispatch-event-handler.new-delivery-available.message">
+        <source>A new delivery is available.</source>
+        <note>New delivery available</note>
+      </trans-unit>
+      <trans-unit id="dispatch-window.accept-button.title">
+        <source>Accept</source>
+        <note>Button to accept dispatches</note>
+      </trans-unit>
+      <trans-unit id="dispatch-window.header-view.skip-button.title">
+        <source>Skip</source>
+        <note>Button to skip dispatch</note>
+      </trans-unit>
+      <trans-unit id="dispatch-window.header-view.title.pickup">
+        <source>Pick Up %d Order(s)</source>
+        <note>Number of orders to pickup</note>
+      </trans-unit>
+      <trans-unit id="dispatch-window.summary-card-detail-view.title.batched">
+        <source>Order %@</source>
+        <note>Order details</note>
+      </trans-unit>
+      <trans-unit id="dispatch-window.summary-card-detail-view.title.default">
+        <source>Order Details</source>
+        <note>Order details</note>
+      </trans-unit>
+      <trans-unit id="dispatch-window.summary-view.card-view.title.default">
+        <source>New Dispatch</source>
+        <note>New dispatch default title</note>
+      </trans-unit>
+      <trans-unit id="dropoff-confirmation.action-button.title">
+        <source>Complete Dropoff</source>
+        <note>Action to complete the dropoff</note>
+      </trans-unit>
+      <trans-unit id="dropoff-confirmation.complete-dropoff-error.title">
+        <source>Something went wrong! Please try again.</source>
+        <note>Title to indicate the action could not be completed and that the user should re-attempt</note>
+      </trans-unit>
+      <trans-unit id="dropoff-confirmation.default-customer-reference">
+        <source>the customer</source>
+        <note>Default reference to customer when name unavailable</note>
+      </trans-unit>
+      <trans-unit id="dropoff-confirmation.subtitle">
+        <source>Please leave the items with %1$@.</source>
+        <note>Assurance to leave items with the customer</note>
+      </trans-unit>
+      <trans-unit id="dropoff-confirmation.title">
+        <source>Verification Complete</source>
+        <note>Title indicating the successful state of the verification steps</note>
+      </trans-unit>
+      <trans-unit id="dropoff-handoff.id-scanning.timeout.action.manual">
+        <source>Manual</source>
+        <note>Action to enter information using keyboard</note>
+      </trans-unit>
+      <trans-unit id="dropoff-handoff.id-scanning.timeout.action.retry">
+        <source>Retry</source>
+        <note>Action to restart the process</note>
+      </trans-unit>
+      <trans-unit id="dropoff-handoff.id-scanning.timeout.message">
+        <source>Try scanning the %1$@ again or enter the information manually</source>
+        <note>Prompt to offer user the option of entering information manually or trying again</note>
+      </trans-unit>
+      <trans-unit id="dropoff-handoff.id-scanning.timeout.title">
+        <source>Something went wrong</source>
+        <note>Title indicating an error may have occured</note>
+      </trans-unit>
+      <trans-unit id="dropoff-view.action-button.complete.title">
+        <source>Complete</source>
+        <note>Button to complete a dropoff action</note>
+      </trans-unit>
+      <trans-unit id="dropoff-view.action-button.dropoff-button.title">
+        <source>Complete Dropoff</source>
+        <note>Button to complete dropoff</note>
+      </trans-unit>
+      <trans-unit id="dropoff-view.action-button.record-signature.title">
+        <source>Record Signature</source>
+        <note>Action button to record signature</note>
+      </trans-unit>
+      <trans-unit id="dropoff-view.action-button.scan-id.title">
+        <source>Scan ID</source>
+        <note>Action button to scan ID</note>
+      </trans-unit>
+      <trans-unit id="dropoff-view.alert.away-from-dropoff.message">
+        <source>Before attempting to complete the delivery, make sure you are at the customer’s dropoff location as it appears in the Fleet app.</source>
+        <note>Not in dropoff radius alert's message</note>
+      </trans-unit>
+      <trans-unit id="dropoff-view.alert.away-from-dropoff.title">
+        <source>Please go to dropoff</source>
+        <note>Not in dropoff radius alert's title</note>
+      </trans-unit>
+      <trans-unit id="dropoff-view.cell.title.view-items">
+        <source>View %d item(s)</source>
+        <note>View number of items</note>
+      </trans-unit>
+      <trans-unit id="dropoff-view.notes.verify-id">
+        <source>A verified ID is required to complete this delivery</source>
+        <note>ID verification notes</note>
+      </trans-unit>
+      <trans-unit id="dropoff-view.notes.verify-id-and-signature">
+        <source>A verified ID and signature are required to complete this delivery</source>
+        <note>ID and signature verification notes</note>
+      </trans-unit>
+      <trans-unit id="dropoff-view.notes.verify-signature">
+        <source>A verified signature is required to complete this delivery</source>
+        <note>Signature verification notes</note>
+      </trans-unit>
+      <trans-unit id="dropoff-view.title">
+        <source>Order %1$@</source>
+        <note>Title with order reference number</note>
+      </trans-unit>
+      <trans-unit id="duty-button.title.finding-next-stop">
+        <source>Finding your next stop</source>
+        <note>Message informing that we're finding a match</note>
+      </trans-unit>
+      <trans-unit id="duty-button.title.go-offline">
+        <source>Go Offline</source>
+        <note>PM online without any waypoints, display message to go offline</note>
+      </trans-unit>
+      <trans-unit id="duty-button.title.go-online">
+        <source>Go Online</source>
+        <note>PM offline, display message to go online</note>
+      </trans-unit>
+      <trans-unit id="duty-button.title.number-stops">
+        <source>%d Stop(s)</source>
+        <note>Number of waypoints (or stops) remaining</note>
+      </trans-unit>
+      <trans-unit id="error.charge-failed.message">
+        <source>Please tap the button below to connect with Postmates customer service.</source>
+        <note>Error message if charge failed</note>
+      </trans-unit>
+      <trans-unit id="error.default.message">
+        <source>We're working on it—try again soon.</source>
+        <note>Default error message</note>
+      </trans-unit>
+      <trans-unit id="error.default.title">
+        <source>Whoops! Something went wrong.</source>
+        <note>Default error title</note>
+      </trans-unit>
+      <trans-unit id="error.default.url-title">
+        <source>More Info</source>
+        <note>More Info</note>
+      </trans-unit>
+      <trans-unit id="error.deprecated.message">
+        <source>A new version of the app is now available. Please update to the latest version.</source>
+        <note>Error message if deprecated version</note>
+      </trans-unit>
+      <trans-unit id="error.deprecated.title">
+        <source>Update Available</source>
+        <note>Error title if deprecated version</note>
+      </trans-unit>
+      <trans-unit id="error.deprecated.url-title">
+        <source>Update</source>
+        <note>Update</note>
+      </trans-unit>
+      <trans-unit id="error.invalid-form.message">
+        <source>Unknown form error.</source>
+        <note>Unknown form error.</note>
+      </trans-unit>
+      <trans-unit id="event-notification.show-id-instructions.done-button.title">
+        <source>Okay</source>
+        <note>Okay</note>
+      </trans-unit>
+      <trans-unit id="expandable-text-container-view.more-label.title">
+        <source>More</source>
+        <note>More</note>
+      </trans-unit>
+      <trans-unit id="forgot-password-view.email-textfield.placeholder.active">
+        <source>example@postmates.com</source>
+        <note>example@postmates.com</note>
+      </trans-unit>
+      <trans-unit id="forgot-password-view.email-textfield.placeholder.inactive">
+        <source>Email Address</source>
+        <note>Email Address</note>
+      </trans-unit>
+      <trans-unit id="forgot-password-view.error">
+        <source>Could Not Reset Password</source>
+        <note>Could Not Reset Password</note>
+      </trans-unit>
+      <trans-unit id="forgot-password-view.send-button.title">
+        <source>Send Instructions</source>
+        <note>Send Instructions</note>
+      </trans-unit>
+      <trans-unit id="forgot-password-view.title.default-message">
+        <source>What's your email address?</source>
+        <note>Default message</note>
+      </trans-unit>
+      <trans-unit id="forgot-password-view.title.error-message">
+        <source>Please enter a valid email.</source>
+        <note>Please enter a valid email address.</note>
+      </trans-unit>
+      <trans-unit id="form-view.submit-button.title">
+        <source>Submit</source>
+        <note>Submit button</note>
+      </trans-unit>
+      <trans-unit id="home-view.complete-waypoint.error">
+        <source>Failed to complete</source>
+        <note>Error message to display if waypoint can't be completed</note>
+      </trans-unit>
+      <trans-unit id="id-components.type.drivers-license">
+        <source>driver's license</source>
+        <note>Driver's License</note>
+      </trans-unit>
+      <trans-unit id="id-components.type.drivers-license.title">
+        <source>Driver's License</source>
+        <note>Driver's License</note>
+      </trans-unit>
+      <trans-unit id="id-components.type.passport">
+        <source>passport</source>
+        <note>Passport</note>
+      </trans-unit>
+      <trans-unit id="id-components.type.passport.title">
+        <source>Passport</source>
+        <note>Passport</note>
+      </trans-unit>
+      <trans-unit id="id-components.type.state-id">
+        <source>state ID</source>
+        <note>State ID</note>
+      </trans-unit>
+      <trans-unit id="id-components.type.state-id.title">
+        <source>State ID</source>
+        <note>State ID</note>
+      </trans-unit>
+      <trans-unit id="id-confirmation-view.action-button.default-title">
+        <source>Complete Dropoff</source>
+        <note>Default title (complete dropoff)</note>
+      </trans-unit>
+      <trans-unit id="id-confirmation-view.action-button.record-signature-title">
+        <source>Record Signature</source>
+        <note>Record Signature</note>
+      </trans-unit>
+      <trans-unit id="id-confirmation-view.text.clear-to-proceed.customer-name">
+        <source>Everything looks good.
+You’re okay to give %1$@ the order and complete the delivery.</source>
+        <note>Text if no signature is required (with customer name)</note>
+      </trans-unit>
+      <trans-unit id="id-confirmation-view.text.clear-to-proceed.default">
+        <source>Everything looks good.
+You’re okay to give the customer the order and complete the delivery.</source>
+        <note>Text if no signature is required (no customer name)</note>
+      </trans-unit>
+      <trans-unit id="id-confirmation-view.text.id-expired">
+        <source>The %1$@ is expired. You can not leave the order.
+You will be paid to return the items after completing the delivery.</source>
+        <note>Text if ID expired</note>
+      </trans-unit>
+      <trans-unit id="id-confirmation-view.text.id-invalid">
+        <source>The %1$@ is not valid. You can not leave the order.
+You will be paid to return the items after completing the delivery.</source>
+        <note>Text if ID invalid</note>
+      </trans-unit>
+      <trans-unit id="id-confirmation-view.text.record-signature">
+        <source>Please rotate your device for the customer to sign.</source>
+        <note>Text if signature is required</note>
+      </trans-unit>
+      <trans-unit id="id-confirmation-view.text.underage">
+        <source>The customer is underage. You can not leave the order.
+You will be paid to return the items after completing the delivery.</source>
+        <note>Text if customer is underage</note>
+      </trans-unit>
+      <trans-unit id="id-data-table-view.back-button.title">
+        <source>Back</source>
+        <note>Back button</note>
+      </trans-unit>
+      <trans-unit id="id-data-table-view.cell.expiration-date.placeholder">
+        <source>Expiration Date</source>
+        <note>Expiration date placeholder</note>
+      </trans-unit>
+      <trans-unit id="id-data-table-view.cell.id-number.placeholder">
+        <source>ID Number</source>
+        <note>ID Number placeholder</note>
+      </trans-unit>
+      <trans-unit id="id-data-table-view.continue-button.title">
+        <source>Continue</source>
+        <note>Continue button</note>
+      </trans-unit>
+      <trans-unit id="id-data-table-view.header-label.default">
+        <source>Enter the ID number and expiration.</source>
+        <note>Header title</note>
+      </trans-unit>
+      <trans-unit id="id-identifier-table-view.back-button.title">
+        <source>Back</source>
+        <note>Back</note>
+      </trans-unit>
+      <trans-unit id="id-identifier-table-view.cell.birthdate.placeholder">
+        <source>Date of Birth</source>
+        <note>Date of Birth</note>
+      </trans-unit>
+      <trans-unit id="id-identifier-table-view.cell.firstname.placeholder">
+        <source>First Name</source>
+        <note>First name</note>
+      </trans-unit>
+      <trans-unit id="id-identifier-table-view.cell.lastname.placeholder">
+        <source>Last Name</source>
+        <note>Last name</note>
+      </trans-unit>
+      <trans-unit id="id-identifier-table-view.continue-button.title">
+        <source>Continue</source>
+        <note>Continue</note>
+      </trans-unit>
+      <trans-unit id="id-identifier-table-view.header-label.default">
+        <source>Enter the customer's information.</source>
+        <note>Default header text</note>
+      </trans-unit>
+      <trans-unit id="id-identifier-table-view.header-label.invalid">
+        <source>Enter a valid birth date.</source>
+        <note>Header text is validation failed</note>
+      </trans-unit>
+      <trans-unit id="id-issuance-view.back-button.title">
+        <source>Back</source>
+        <note>Back button</note>
+      </trans-unit>
+      <trans-unit id="id-issuance-view.continue-button.title">
+        <source>Continue</source>
+        <note>Continue button</note>
+      </trans-unit>
+      <trans-unit id="id-issuance-view.title">
+        <source>What kind of ID do they have?</source>
+        <note>Page's title</note>
+      </trans-unit>
+      <trans-unit id="image-view.done-button.title">
+        <source>Done</source>
+        <note>Done</note>
+      </trans-unit>
+      <trans-unit id="image-view.retake-button.title">
+        <source>Retake</source>
+        <note>Retake</note>
+      </trans-unit>
+      <trans-unit id="login-view.email-textfield.placeholder.active">
+        <source>example@postmates.com</source>
+        <note>example@postmates.com</note>
+      </trans-unit>
+      <trans-unit id="login-view.email-textfield.placeholder.inactive">
+        <source>Email Address</source>
+        <note>Email Address</note>
+      </trans-unit>
+      <trans-unit id="login-view.forgot-password-button.title">
+        <source>Forgot Password</source>
+        <note>Forgot Password</note>
+      </trans-unit>
+      <trans-unit id="login-view.password-textfield.placeholder">
+        <source>Password</source>
+        <note>Password</note>
+      </trans-unit>
+      <trans-unit id="login-view.sign-in-button.title">
+        <source>Sign In</source>
+        <note>Sign In</note>
+      </trans-unit>
+      <trans-unit id="login-view.title.reset-message">
+        <source>Check your email for instructions on how to reset your password.</source>
+        <note>Message if password reset has been initialized</note>
+      </trans-unit>
+      <trans-unit id="login-view.title.welcome-message">
+        <source>Welcome to the Fleet!
+Sign in using your email.</source>
+        <note>Default title welcoming user</note>
+      </trans-unit>
+      <trans-unit id="login-view.validate-form.error.email">
+        <source>Please enter a valid email address.</source>
+        <note>Please enter a valid email.</note>
+      </trans-unit>
+      <trans-unit id="login-view.validate-form.error.password">
+        <source>A password must have at least %d characters.</source>
+        <note>Error message if password length is &lt; %d</note>
+      </trans-unit>
+      <trans-unit id="mail-composer-view.other-error-alert.message">
+        <source>An error occurred while trying to send your request. Please try again.</source>
+        <note>Other error alert title</note>
+      </trans-unit>
+      <trans-unit id="mail-composer-view.other-error-alert.title">
+        <source>Email Not Sent</source>
+        <note>Other error alert title</note>
+      </trans-unit>
+      <trans-unit id="mail-composer-view.save-failed-alert.message">
+        <source>An error occurred while trying to save your draft. Please try again.</source>
+        <note>Save failed alert message</note>
+      </trans-unit>
+      <trans-unit id="mail-composer-view.save-failed-alert.title">
+        <source>Email Not Saved</source>
+        <note>Save failed alert title</note>
+      </trans-unit>
+      <trans-unit id="mail-composer-view.saved-alert.message">
+        <source>Your request has been saved as a draft. You may continue it later from your mail app.</source>
+        <note>Saved alert message</note>
+      </trans-unit>
+      <trans-unit id="mail-composer-view.saved-alert.title">
+        <source>Draft Saved</source>
+        <note>Saved alert title</note>
+      </trans-unit>
+      <trans-unit id="mail-composer-view.sent-alert.message">
+        <source>Your request has been sent.</source>
+        <note>Sent alert message</note>
+      </trans-unit>
+      <trans-unit id="mail-composer-view.sent-alert.title">
+        <source>Email Sent</source>
+        <note>Sent alert title</note>
+      </trans-unit>
+      <trans-unit id="navigation-helper.alert.cancel-button.title">
+        <source>Cancel</source>
+        <note>Cancel</note>
+      </trans-unit>
+      <trans-unit id="navigation-helper.alert.title">
+        <source>What would you like to use for directions?</source>
+        <note>Title of the alert asking for maps app</note>
+      </trans-unit>
+      <trans-unit id="navigation-helper.error-alert.message">
+        <source>Please make sure the app is installed!</source>
+        <note>Alert's message if maps app can't open</note>
+      </trans-unit>
+      <trans-unit id="navigation-helper.error-alert.title">
+        <source>Can't open %@</source>
+        <note>Alert's title if maps app can't open</note>
+      </trans-unit>
+      <trans-unit id="navigation-helper.navigation-app.apple-maps">
+        <source>Apple Maps</source>
+        <note>Apple Maps</note>
+      </trans-unit>
+      <trans-unit id="navigation-helper.navigation-app.google-maps">
+        <source>Google Maps</source>
+        <note>Google Maps</note>
+      </trans-unit>
+      <trans-unit id="navigation-helper.navigation-app.waze">
+        <source>Waze</source>
+        <note>Waze</note>
+      </trans-unit>
+      <trans-unit id="network-error-handler.alert.dismiss-button.title">
+        <source>Dismiss</source>
+        <note>Dismiss</note>
+      </trans-unit>
+      <trans-unit id="network-error-handler.alert.done-button.title">
+        <source>Okay</source>
+        <note>Okay</note>
+      </trans-unit>
+      <trans-unit id="network-error-handler.alert.retry-button.title">
+        <source>Retry</source>
+        <note>Retry</note>
+      </trans-unit>
+      <trans-unit id="news-message-card.action-label.read-more">
+        <source>Read More</source>
+        <note>Default text for action label (read more)</note>
+      </trans-unit>
+      <trans-unit id="newsfeed.newsroom.title">
+        <source>Newsroom</source>
+        <note>Newsroom</note>
+      </trans-unit>
+      <trans-unit id="newsroom-view.action-button.title">
+        <source>View More</source>
+        <note>Button title to view more newsroom items</note>
+      </trans-unit>
+      <trans-unit id="newsroom-view.title">
+        <source>Newsroom</source>
+        <note>Newsroom</note>
+      </trans-unit>
+      <trans-unit id="newsroom-view.unread-card-count">
+        <source>You have %d unread message(s)</source>
+        <note>Number of unread messages</note>
+      </trans-unit>
+      <trans-unit id="notification.delivery-complete.message">
+        <source>Delivery complete! You earned %@ before tip(s).</source>
+        <note>Notify delivery is complete with earnings</note>
+      </trans-unit>
+      <trans-unit id="notification.delivery-complete.title">
+        <source>Delivery Complete!</source>
+        <note>Title of notification for complete delivery</note>
+      </trans-unit>
+      <trans-unit id="order-detail-view.item-cell.notes-label.title">
+        <source>This order has already been placed</source>
+        <note>This order has already been placed</note>
+      </trans-unit>
+      <trans-unit id="order-detail-view.item-cell.pickup-button.title">
+        <source>Picked Up</source>
+        <note>Pickup button</note>
+      </trans-unit>
+      <trans-unit id="order-detail-view.item-cell.unavailable-button.title">
+        <source>Unavailable</source>
+        <note>Unavailable button</note>
+      </trans-unit>
+      <trans-unit id="order-detail-view.item-cell.unavailable-label.title">
+        <source>UNAVAILABLE</source>
+        <note>Label highlighting unavailable item</note>
+      </trans-unit>
+      <trans-unit id="order-detail-view.item-cell.view-image.title">
+        <source>View Image</source>
+        <note>View item's image</note>
+      </trans-unit>
+      <trans-unit id="order-message.state.csi-is-ordering.long">
+        <source>Customer Service is ordering...</source>
+        <note>Customer Service is ordering</note>
+      </trans-unit>
+      <trans-unit id="order-message.state.csi-is-ordering.short">
+        <source>CS is ordering...</source>
+        <note>CS is ordering</note>
+      </trans-unit>
+      <trans-unit id="order-message.state.place-order-at-pickup">
+        <source>Place order at pickup</source>
+        <note>Place order at pickup</note>
+      </trans-unit>
+      <trans-unit id="order-message.state.proceed-to-pickup">
+        <source>Proceed to pickup and await instructions</source>
+        <note>Proceed to pickup and wait for instructions</note>
+      </trans-unit>
+      <trans-unit id="order-message.state.unknown">
+        <source> </source>
+        <note>Unknown state</note>
+      </trans-unit>
+      <trans-unit id="pickup-view.action-button.pickup-button.title">
+        <source>Complete Pickup</source>
+        <note>Button to complete pickup</note>
+      </trans-unit>
+      <trans-unit id="pickup-view.batched-alert.confirm">
+        <source>Okay</source>
+        <note>Okay</note>
+      </trans-unit>
+      <trans-unit id="pickup-view.batched-alert.message">
+        <source>You'll be delivering to %d customers.  Be sure to collect all orders before completing pickup.</source>
+        <note>Message for batched pickup warning</note>
+      </trans-unit>
+      <trans-unit id="pickup-view.high-charge-alert.cancel-button.title">
+        <source>Go Back</source>
+        <note>Alert's cancel button if high charge is detected</note>
+      </trans-unit>
+      <trans-unit id="pickup-view.high-charge-alert.confirm-button.title">
+        <source>Confirm</source>
+        <note>Alert's confirm button if high charge is detected</note>
+      </trans-unit>
+      <trans-unit id="pickup-view.high-charge-alert.message">
+        <source>You're about to charge the customer %@. Please double-check the receipts before confirming.</source>
+        <note>Alert's message if high charge is detected</note>
+      </trans-unit>
+      <trans-unit id="pickup-view.high-charge-alert.title">
+        <source>High Charge Warning</source>
+        <note>Alert's title if high charge is detected</note>
+      </trans-unit>
+      <trans-unit id="pickup-view.paid.title">
+        <source>PAID</source>
+        <note>PAID</note>
+      </trans-unit>
+      <trans-unit id="pickup-view.receipt-delete-failure-alert.title">
+        <source>Receipt Delete Failed</source>
+        <note>Alert's title if receipt deletion failed</note>
+      </trans-unit>
+      <trans-unit id="pickup-view.undeliverable-alert.message">
+        <source>Check if the customer wants to substitute or skip unavailable items.</source>
+        <note>Alert's message if item is undeliverable</note>
+      </trans-unit>
+      <trans-unit id="pickup-view.undeliverable-alert.title">
+        <source>Please contact customer</source>
+        <note>Alert's title if item is undeliverable</note>
+      </trans-unit>
+      <trans-unit id="preordered-cell.order-label.title.customer">
+        <source>Order for %1$@</source>
+        <note>Title to show for customer order</note>
+      </trans-unit>
+      <trans-unit id="preordered-cell.order-label.title.default">
+        <source>Order for customer</source>
+        <note>Default title to show for customer order</note>
+      </trans-unit>
+      <trans-unit id="preordered-cell.order-label.title.reference">
+        <source>Order %1$@</source>
+        <note>Title with order reference number</note>
+      </trans-unit>
+      <trans-unit id="preordered-cell.pickup-button.title">
+        <source>Picked Up</source>
+        <note>Button pushed if item has been picked up</note>
+      </trans-unit>
+      <trans-unit id="preordered-cell.view-details-button.title">
+        <source>View %d item(s)</source>
+        <note>View number of items</note>
+      </trans-unit>
+      <trans-unit id="receipt-entry-view.change-photo.title">
+        <source>Change Photo</source>
+        <note>Change Photo</note>
+      </trans-unit>
+      <trans-unit id="receipt-entry-view.description">
+        <source>Enter the total amount for this receipt.</source>
+        <note>Description</note>
+      </trans-unit>
+      <trans-unit id="receipt-view.alert.cancel-button.title">
+        <source>Go Back</source>
+        <note>Go Back</note>
+      </trans-unit>
+      <trans-unit id="receipt-view.alert.done-button.title">
+        <source>Okay</source>
+        <note>Okay</note>
+      </trans-unit>
+      <trans-unit id="receipt-view.duplicate-amount-alert.keep-receipts-button.title">
+        <source>Keep both, I did pay %d time(s).</source>
+        <note>Keep both receipts</note>
+      </trans-unit>
+      <trans-unit id="receipt-view.duplicate-amount-alert.message">
+        <source>Are you sure you paid %1$d time(s) for the %2$@ receipt?</source>
+        <note>Duplicate amount message</note>
+      </trans-unit>
+      <trans-unit id="receipt-view.duplicate-amount-alert.replace-receipts-button.title">
+        <source>Oops, delete the other %d receipt(s).</source>
+        <note>Replace receipts</note>
+      </trans-unit>
+      <trans-unit id="receipt-view.duplicate-amount-alert.title">
+        <source>Duplicate Receipt Warning</source>
+        <note>Duplicate amount title</note>
+      </trans-unit>
+      <trans-unit id="receipt-view.high-charge-alert.message">
+        <source>You're about to charge the customer %1$@. Is that total correct?</source>
+        <note>High charge amount message</note>
+      </trans-unit>
+      <trans-unit id="receipt-view.high-charge-alert.title">
+        <source>High Charge Warning</source>
+        <note>High charge amount title</note>
+      </trans-unit>
+      <trans-unit id="receipt-view.missing-image-alert.message">
+        <source>Please add a picture of the receipt before saving.</source>
+        <note>Missing image only message</note>
+      </trans-unit>
+      <trans-unit id="receipt-view.missing-image-alert.title">
+        <source>Receipt Picture Required</source>
+        <note>Missing image only title</note>
+      </trans-unit>
+      <trans-unit id="receipt-view.purchase-price-required-alert.message">
+        <source>Add the total from the receipt before saving.</source>
+        <note>Purchase price required message</note>
+      </trans-unit>
+      <trans-unit id="receipt-view.purchase-price-required-alert.title">
+        <source>No Receipt Total</source>
+        <note>Purchase price required title</note>
+      </trans-unit>
+      <trans-unit id="receipt-view.zero-amount-alert.message">
+        <source>You are about to save a %1$@ receipt. If you paid for this order, enter the total before saving.</source>
+        <note>Zero amount message</note>
+      </trans-unit>
+      <trans-unit id="receipt-view.zero-amount-alert.title">
+        <source>%1$@ Receipt</source>
+        <note>Zero amount title</note>
+      </trans-unit>
+      <trans-unit id="receipt-view.zero-amount-and-missing-image-alert.message">
+        <source>You are about to save a %1$@ receipt. If you paid for this order, add a picture of the receipt and enter the total before saving.</source>
+        <note>Zero amount and missing image message</note>
+      </trans-unit>
+      <trans-unit id="receipt-view.zero-amount-and-missing-image-alert.title">
+        <source>%1$@ Receipt</source>
+        <note>Zero amount and missing image</note>
+      </trans-unit>
+      <trans-unit id="receipts-cell.add-button.title">
+        <source>Add</source>
+        <note>Action button to add receipt</note>
+      </trans-unit>
+      <trans-unit id="receipts-cell.header.title">
+        <source>Receipts</source>
+        <note>Cell title: Receipts</note>
+      </trans-unit>
+      <trans-unit id="requirement-annotation-view.pickup-label.title">
+        <source>Pickup</source>
+        <note>Pickup</note>
+      </trans-unit>
+      <trans-unit id="signature-view.done-button.title">
+        <source>Done</source>
+        <note>Button to confirm the signature</note>
+      </trans-unit>
+      <trans-unit id="signature-view.placeholder.title">
+        <source>Please sign here</source>
+        <note>Placeholder indicating where to sign</note>
+      </trans-unit>
+      <trans-unit id="undeliverable-instructions-view.action-button.title">
+        <source>Continue</source>
+        <note>Continue</note>
+      </trans-unit>
+      <trans-unit id="undeliverable-option-view.action-button.title.customer-found">
+        <source>Customer Found</source>
+        <note>Button's title if customer's found</note>
+      </trans-unit>
+      <trans-unit id="undeliverable-option-view.action-button.title.dropoff">
+        <source>Complete as Undelivered</source>
+        <note>Button's title if dropoff can be completed</note>
+      </trans-unit>
+      <trans-unit id="undeliverable-option-view.cna-confirm.affirmative-button.title">
+        <source>Yes</source>
+        <note>Affirmative option (yes)</note>
+      </trans-unit>
+      <trans-unit id="undeliverable-option-view.cna-confirm.negative-button.title">
+        <source>No</source>
+        <note>Negative option (no)</note>
+      </trans-unit>
+      <trans-unit id="undeliverable-option-view.notes.cna">
+        <source>Were you able to deliver the order to %1$@?</source>
+        <note>Is PM able to deliver items to customer</note>
+      </trans-unit>
+      <trans-unit id="undeliverable-option-view.notes.cna.unknown">
+        <source>Were you able to deliver the order to the customer?</source>
+        <note>Is PM able to deliver items to unknown customer</note>
+      </trans-unit>
+      <trans-unit id="undeliverable-option-view.notes.contact-customer">
+        <source>%1$@ has until %2$@ to accept this delivery. Please contact them.</source>
+        <note>Notice that customer has until hh:mm to accept delivery and need to contact them</note>
+      </trans-unit>
+      <trans-unit id="undeliverable-option-view.notes.contact-customer.unknown">
+        <source>The customer has until %1$@ to accept this delivery. Please contact them.</source>
+        <note>Notice that unknown customer has until hh:mm to accept delivery and need to contact them</note>
+      </trans-unit>
+      <trans-unit id="undeliverable-option-view.title.cna">
+        <source>Did you find the customer?</source>
+        <note>Title if customer not available</note>
+      </trans-unit>
+      <trans-unit id="undeliverable-option-view.title.default">
+        <source>Wait %@</source>
+        <note>Default title of view (wait m:ss)</note>
+      </trans-unit>
+      <trans-unit id="vehicle-consent-view.back-button.title">
+        <source>Back</source>
+        <note>Back button</note>
+      </trans-unit>
+      <trans-unit id="vehicle-consent-view.consent-button.title">
+        <source>I Consent</source>
+        <note>Consent button</note>
+      </trans-unit>
+      <trans-unit id="vehicle-consent-view.description">
+        <source>Postmates will conduct a background check on your driving record before allowing you to do deliveries by motor vehicle.
+By tapping “I consent”, you authorize Postmates to order a Motor Vehicle Records report about you from a consumer reporting agency. You will receive a copy of your report at no charge.</source>
+        <note>Paragraph describing motor vehicle report</note>
+      </trans-unit>
+      <trans-unit id="vehicle-consent-view.title">
+        <source>Consent to Motor Vehicle Report</source>
+        <note>Page title</note>
+      </trans-unit>
+      <trans-unit id="vehicle-form-submitted-view.continue-button.title">
+        <source>Continue</source>
+        <note>Button to continue</note>
+      </trans-unit>
+      <trans-unit id="vehicle-form-submitted-view.message">
+        <source>Your documents have been received and are being reviewed. We will send an email update soon.</source>
+        <note>Message to inform documents have been received</note>
+      </trans-unit>
+      <trans-unit id="vehicle-form-view.back-button.title">
+        <source>Back</source>
+        <note>Back button</note>
+      </trans-unit>
+      <trans-unit id="vehicle-form-view.close-button.title">
+        <source>Close</source>
+        <note>Close button</note>
+      </trans-unit>
+      <trans-unit id="vehicle-form-view.license-error-alert.done-button.title">
+        <source>Okay</source>
+        <note>Okay</note>
+      </trans-unit>
+      <trans-unit id="vehicle-form-view.license-error-alert.message">
+        <source>Something went wrong. Check your internet connection and try again.</source>
+        <note>Message to display if error occured</note>
+      </trans-unit>
+      <trans-unit id="vehicle-form-view.license-validation-error-alert.done-button.title">
+        <source>Okay</source>
+        <note>Okay</note>
+      </trans-unit>
+      <trans-unit id="vehicle-form-view.license-validation-error-alert.message">
+        <source>Please complete the required fields.</source>
+        <note>Message to display if vehicle validation failed</note>
+      </trans-unit>
+      <trans-unit id="vehicle-form-view.next-button.title">
+        <source>Next</source>
+        <note>Next button</note>
+      </trans-unit>
+      <trans-unit id="vehicle-form-view.vehicle-background-check-error-alert.done-button.title">
+        <source>Okay</source>
+        <note>Okay</note>
+      </trans-unit>
+      <trans-unit id="vehicle-form-view.vehicle-background-check-error-alert.message">
+        <source>Something went wrong. Check your internet connection and try again.</source>
+        <note>Message to display if error occured</note>
+      </trans-unit>
+      <trans-unit id="vehicle-form.field.license-expiration-date">
+        <source>Expiration Date</source>
+        <note>License expiration field</note>
+      </trans-unit>
+      <trans-unit id="vehicle-form.field.license-number">
+        <source>Driver's License Number</source>
+        <note>License number field</note>
+      </trans-unit>
+      <trans-unit id="vehicle-form.field.license-state">
+        <source>State</source>
+        <note>License state field</note>
+      </trans-unit>
+      <trans-unit id="vehicle-form.field.policy-expiration-date">
+        <source>Expiration Date</source>
+        <note>Insurance policy expiration field</note>
+      </trans-unit>
+      <trans-unit id="vehicle-form.field.policy-holder">
+        <source>Policy Holder</source>
+        <note>Insurance policy holder field</note>
+      </trans-unit>
+      <trans-unit id="vehicle-form.field.policy-number">
+        <source>Policy Number</source>
+        <note>Insurance policy number field</note>
+      </trans-unit>
+      <trans-unit id="vehicle-form.field.policy-provider">
+        <source>Provider</source>
+        <note>Insurance policy provider field</note>
+      </trans-unit>
+      <trans-unit id="vehicle-form.insurance.legal">
+        <source>By continuing, you certify that you have a valid and current vehicle insurance.</source>
+        <note>Insurance legal message</note>
+      </trans-unit>
+      <trans-unit id="vehicle-form.insurance.message">
+        <source>To make deliveries by motor vehicle, you must have valid and current insurance.</source>
+        <note>Insurance message</note>
+      </trans-unit>
+      <trans-unit id="vehicle-form.insurance.title">
+        <source>Vehicle Insurance</source>
+        <note>Insurance title</note>
+      </trans-unit>
+      <trans-unit id="vehicle-form.license.legal">
+        <source>By continuing, you certify that you have a valid and current driver’s license.</source>
+        <note>Driver license legal message</note>
+      </trans-unit>
+      <trans-unit id="vehicle-form.license.message">
+        <source>To make deliveries by motor vehicle, you must have a valid and current driver’s license.</source>
+        <note>Driver license message</note>
+      </trans-unit>
+      <trans-unit id="vehicle-form.license.title">
+        <source>Driver's License</source>
+        <note>Driver license title</note>
+      </trans-unit>
+      <trans-unit id="vehicle-selection-view.add-motor-vehicle">
+        <source>Add Motor Vehicle</source>
+        <note>Button title to add a motor vehicle</note>
+      </trans-unit>
+      <trans-unit id="vehicle-selection-view.close-button.title">
+        <source>Close</source>
+        <note>Close button</note>
+      </trans-unit>
+      <trans-unit id="vehicle-selection-view.motor-vehicle.title">
+        <source>Motor Vehicle</source>
+        <note>Motor vehicle</note>
+      </trans-unit>
+      <trans-unit id="vehicle-selection-view.pending-vehicle-alert.done-button.title">
+        <source>Okay</source>
+        <note>Okay button</note>
+      </trans-unit>
+      <trans-unit id="vehicle-selection-view.pending-vehicle.denied-status">
+        <source>There was an issue adding your motor vehicle. Check your email for updates.</source>
+        <note>Alert message if motor vehicle is denied</note>
+      </trans-unit>
+      <trans-unit id="vehicle-selection-view.pending-vehicle.pending-status">
+        <source>PENDING</source>
+        <note>Motor vehicle pending approval</note>
+      </trans-unit>
+      <trans-unit id="vehicle-selection-view.pending-vehicle.submitted-status">
+        <source>Your documents are being reviewed. We will send an email update soon.</source>
+        <note>Alert message if motor vehicle documents are submitted</note>
+      </trans-unit>
+      <trans-unit id="vehicle-selection-view.show-vehicle-error-alert.done-button.title">
+        <source>Okay</source>
+        <note>Okay button</note>
+      </trans-unit>
+      <trans-unit id="vehicle-selection-view.show-vehicle-error-alert.message">
+        <source>Something went wrong. Check your internet connection and try again.</source>
+        <note>Error message if unable to load vehicle</note>
+      </trans-unit>
+      <trans-unit id="vehicle-selection-view.supported.message.multi-vehicle">
+        <source>You'll be matched with orders based on your vehicle setting.</source>
+        <note>Message if PM has several vehicles</note>
+      </trans-unit>
+      <trans-unit id="vehicle-selection-view.supported.message.single-vehicle">
+        <source>You’ll be offered deliveries and suggested routes based on your vehicle. You can change this anytime you’re offline in account settings.</source>
+        <note>Message if PM has only one vehicle</note>
+      </trans-unit>
+      <trans-unit id="vehicle-selection-view.supported.title">
+        <source>Set Your Vehicle</source>
+        <note>Set your vehicle title</note>
+      </trans-unit>
+      <trans-unit id="vehicle-selection-view.unable-change-vehicle-alert.title">
+        <source>Unable to Change Vehicles</source>
+        <note>Error message if unable to change vehicle</note>
+      </trans-unit>
+      <trans-unit id="vehicle-selection-view.unsupported.message">
+        <source>Your current market isn’t optimized for these vehicles. The deliveries you are offered may be limited.</source>
+        <note>Unsupported vehicles message</note>
+      </trans-unit>
+      <trans-unit id="vehicle-selection-view.unsupported.title">
+        <source>Unsupported</source>
+        <note>Unsupported vehicles title</note>
+      </trans-unit>
+      <trans-unit id="verification-view.cancel-button.title">
+        <source>Cancel</source>
+        <note>Cancel</note>
+      </trans-unit>
+      <trans-unit id="verification-view.capability-error.message">
+        <source>SMS is not available on this device.</source>
+        <note>Error message if device don't support SMS</note>
+      </trans-unit>
+      <trans-unit id="verification-view.label.title">
+        <source>Before you can log in, you'll need to register your device.</source>
+        <note>Informs user device needs to be registered</note>
+      </trans-unit>
+      <trans-unit id="verification-view.sending-error.message">
+        <source>Please make sure you have cell phone service and try again.</source>
+        <note>Error message if SMS can't be sent</note>
+      </trans-unit>
+      <trans-unit id="verification-view.sending-error.title">
+        <source>Trouble Sending SMS</source>
+        <note>Error title if SMS can't be sent</note>
+      </trans-unit>
+      <trans-unit id="verification-view.step-one.message">
+        <source>Tap here to open your SMS composer.</source>
+        <note>Step 1 message (open sms composer)</note>
+      </trans-unit>
+      <trans-unit id="verification-view.step-three.message">
+        <source>Wait for an SMS response from us. Then, tap here to complete login.</source>
+        <note>Step 3 message (complete login)</note>
+      </trans-unit>
+      <trans-unit id="verification-view.step-two.message">
+        <source>Tap 'Send'. Be sure not to change the message body.</source>
+        <note>Step 2 message (tap send)</note>
+      </trans-unit>
+      <trans-unit id="verification-view.title">
+        <source>Registration</source>
+        <note>Registration</note>
+      </trans-unit>
+      <trans-unit id="view-controller.alert.cancel-button.title">
+        <source>Cancel</source>
+        <note>Cancel</note>
+      </trans-unit>
+      <trans-unit id="view-controller.alert.done-button.title">
+        <source>Okay</source>
+        <note>Okay</note>
+      </trans-unit>
+      <trans-unit id="waypoint-annotation-view.dropoff">
+        <source>DROPOFF</source>
+        <note>Dropoff annotation</note>
+      </trans-unit>
+      <trans-unit id="waypoint-annotation-view.pickup">
+        <source>PICKUP</source>
+        <note>Pickup annotation</note>
+      </trans-unit>
+      <trans-unit id="waypoint-summary-view.instruction.title.dropoff">
+        <source>Confirm dropoff</source>
+        <note>Title to confirm dropoff</note>
+      </trans-unit>
+      <trans-unit id="waypoint-summary-view.instruction.title.order">
+        <source>Order when you arrive</source>
+        <note>Order at the pickup location</note>
+      </trans-unit>
+      <trans-unit id="waypoint-summary-view.instruction.title.pay">
+        <source>Payment required</source>
+        <note>Pay with Postmates card</note>
+      </trans-unit>
+      <trans-unit id="waypoint-summary-view.instruction.title.pickup">
+        <source>Pick up %d order(s)</source>
+        <note>Number of pickups already ordered, payment required</note>
+      </trans-unit>
+      <trans-unit id="waypoint-summary-view.prepaid-instruction.title.pickup">
+        <source>Pick up %d prepaid order(s)</source>
+        <note>Number of pickups already ordered, payment not required</note>
+      </trans-unit>
+      <trans-unit id="waypoint-view.action-button.title.support">
+        <source>Support</source>
+        <note>Support</note>
+      </trans-unit>
+      <trans-unit id="waypoint-view.title.dropoff">
+        <source>Dropoff</source>
+        <note>Dropoff</note>
+      </trans-unit>
+      <trans-unit id="waypoint-view.title.pickup">
+        <source>Pickup</source>
+        <note>Pickup</note>
+      </trans-unit>
+      <trans-unit id="waypoints-list.cell.last-stop.title">
+        <source>Last Stop</source>
+        <note>Last waypoint / stop</note>
+      </trans-unit>
+      <trans-unit id="waypoints-list.cell.title.dropoff">
+        <source>Dropoff</source>
+        <note>Dropoff</note>
+      </trans-unit>
+      <trans-unit id="waypoints-list.cell.title.pickup">
+        <source>%d order(s)</source>
+        <note>Number of orders to pickup</note>
+      </trans-unit>
+      <trans-unit id="waypoints-list.dispatch-status.duty-switch.title">
+        <source>Find More Deliveries</source>
+        <note>Text for duty switch</note>
+      </trans-unit>
+      <trans-unit id="waypoints-list.footer-label.off-duty">
+        <source>Turn on to start receiving new delivery requests</source>
+        <note>Footer text if courrier is off duty</note>
+      </trans-unit>
+      <trans-unit id="waypoints-list.footer-label.on-duty">
+        <source>Turn off to stop receiving new delivery requests</source>
+        <note>Footer text if courrier is on duty</note>
+      </trans-unit>
+      <trans-unit id="waypoints-list.list-stops.header.current.title">
+        <source>Current Stop</source>
+        <note>Header title for current stop</note>
+      </trans-unit>
+      <trans-unit id="waypoints-list.list-stops.header.next.title">
+        <source>Up Next</source>
+        <note>Header title for next stops</note>
+      </trans-unit>
+      <trans-unit id="waypoints-list.offline-hint-label.title">
+        <source>Going offline after last stop</source>
+        <note>Message to inform PM is going offline after last stop</note>
+      </trans-unit>
+      <trans-unit id="waypoints-list.title">
+        <source>Your Stops</source>
+        <note>Title of screen (Your Stops)</note>
+      </trans-unit>
+      <trans-unit id="webview.error.button.title">
+        <source>Try again</source>
+        <note>Try again button</note>
+      </trans-unit>
+      <trans-unit id="webview.error.message">
+        <source>There was a problem loading %1$@. Check your Internet and try again.</source>
+        <note>Error message</note>
+      </trans-unit>
+      <trans-unit id="webview.error.title">
+        <source>Something went wrong.</source>
+        <note>Something went wrong</note>
+      </trans-unit>
+      <trans-unit id="work-completion-option.reason.cancelled">
+        <source>Cancelled</source>
+        <note>Cancelled</note>
+      </trans-unit>
+      <trans-unit id="work-completion-option.reason.customer-underage">
+        <source>Customer Underage</source>
+        <note>Customer Underage</note>
+      </trans-unit>
+      <trans-unit id="work-completion-option.reason.expired-id">
+        <source>ID Expired</source>
+        <note>Expired ID</note>
+      </trans-unit>
+      <trans-unit id="work-completion-option.reason.intoxicated">
+        <source>Too Intoxicated</source>
+        <note>Too Intoxicated</note>
+      </trans-unit>
+      <trans-unit id="work-completion-option.reason.merchant-closed">
+        <source>Merchant Closed</source>
+        <note>Merchant Closed</note>
+      </trans-unit>
+      <trans-unit id="work-completion-option.reason.merchant-refused">
+        <source>Merchant Refused Order</source>
+        <note>Merchant Refused Order</note>
+      </trans-unit>
+      <trans-unit id="work-completion-option.reason.no-id">
+        <source>No Identification</source>
+        <note>No Identification</note>
+      </trans-unit>
+      <trans-unit id="work-completion-option.reason.not-available">
+        <source>Nobody Available</source>
+        <note>Nobody Available</note>
+      </trans-unit>
+      <trans-unit id="work-completion-option.reason.order-unavailable">
+        <source>Order Unavailable</source>
+        <note>Order Unavailable</note>
+      </trans-unit>
+      <trans-unit id="work-completion-option.reason.routine.dropoff">
+        <source>Delivered to Customer</source>
+        <note>Delivered to Customer</note>
+      </trans-unit>
+      <trans-unit id="work-completion-option.reason.routine.pickup">
+        <source>Picked Up</source>
+        <note>Picked Up</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="PostmatesCourier/PostmatesCourier/Localization/en.lproj/Localizable.stringsdict" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0" build-num="9A235"/>
+    </header>
+    <body>
+      <trans-unit id="/create-receipt-view.loading-view.removing-duplicate:dict/NSStringLocalizedFormatKey:dict/:string">
+        <source>Removing duplicate %1$#@receipts@...</source>
+      </trans-unit>
+      <trans-unit id="/create-receipt-view.loading-view.removing-duplicate:dict/receipts:dict/few:dict/:string">
+        <source>receipts</source>
+      </trans-unit>
+      <trans-unit id="/create-receipt-view.loading-view.removing-duplicate:dict/receipts:dict/many:dict/:string">
+        <source>receipts</source>
+      </trans-unit>
+      <trans-unit id="/create-receipt-view.loading-view.removing-duplicate:dict/receipts:dict/one:dict/:string">
+        <source>receipt</source>
+      </trans-unit>
+      <trans-unit id="/create-receipt-view.loading-view.removing-duplicate:dict/receipts:dict/other:dict/:string">
+        <source>receipts</source>
+      </trans-unit>
+      <trans-unit id="/create-receipt-view.loading-view.removing-duplicate:dict/receipts:dict/two:dict/:string">
+        <source>receipts</source>
+      </trans-unit>
+      <trans-unit id="/create-receipt-view.loading-view.removing-duplicate:dict/receipts:dict/zero:dict/:string">
+        <source>receipts</source>
+      </trans-unit>
+      <trans-unit id="/dispatch-window.header-view.title.pickup:dict/NSStringLocalizedFormatKey:dict/:string">
+        <source>Pick Up %#@number_orders@</source>
+      </trans-unit>
+      <trans-unit id="/dispatch-window.header-view.title.pickup:dict/number_orders:dict/few:dict/:string">
+        <source>%d Orders</source>
+      </trans-unit>
+      <trans-unit id="/dispatch-window.header-view.title.pickup:dict/number_orders:dict/many:dict/:string">
+        <source>%d Orders</source>
+      </trans-unit>
+      <trans-unit id="/dispatch-window.header-view.title.pickup:dict/number_orders:dict/one:dict/:string">
+        <source>1 Order</source>
+      </trans-unit>
+      <trans-unit id="/dispatch-window.header-view.title.pickup:dict/number_orders:dict/other:dict/:string">
+        <source>%d Orders</source>
+      </trans-unit>
+      <trans-unit id="/dispatch-window.header-view.title.pickup:dict/number_orders:dict/two:dict/:string">
+        <source>%d Orders</source>
+      </trans-unit>
+      <trans-unit id="/dispatch-window.header-view.title.pickup:dict/number_orders:dict/zero:dict/:string">
+        <source>%d Orders</source>
+      </trans-unit>
+      <trans-unit id="/dropoff-view.cell.title.view-items:dict/NSStringLocalizedFormatKey:dict/:string">
+        <source>View %#@number_items@</source>
+      </trans-unit>
+      <trans-unit id="/dropoff-view.cell.title.view-items:dict/number_items:dict/few:dict/:string">
+        <source>%d items</source>
+      </trans-unit>
+      <trans-unit id="/dropoff-view.cell.title.view-items:dict/number_items:dict/many:dict/:string">
+        <source>%d items</source>
+      </trans-unit>
+      <trans-unit id="/dropoff-view.cell.title.view-items:dict/number_items:dict/one:dict/:string">
+        <source>1 item</source>
+      </trans-unit>
+      <trans-unit id="/dropoff-view.cell.title.view-items:dict/number_items:dict/other:dict/:string">
+        <source>%d items</source>
+      </trans-unit>
+      <trans-unit id="/dropoff-view.cell.title.view-items:dict/number_items:dict/two:dict/:string">
+        <source>%d items</source>
+      </trans-unit>
+      <trans-unit id="/dropoff-view.cell.title.view-items:dict/number_items:dict/zero:dict/:string">
+        <source>%d items</source>
+      </trans-unit>
+      <trans-unit id="/duty-button.title.number-stops:dict/NSStringLocalizedFormatKey:dict/:string">
+        <source>%#@number_stops@</source>
+      </trans-unit>
+      <trans-unit id="/duty-button.title.number-stops:dict/number_stops:dict/few:dict/:string">
+        <source>%d Stops</source>
+      </trans-unit>
+      <trans-unit id="/duty-button.title.number-stops:dict/number_stops:dict/many:dict/:string">
+        <source>%d Stops</source>
+      </trans-unit>
+      <trans-unit id="/duty-button.title.number-stops:dict/number_stops:dict/one:dict/:string">
+        <source>1 Stop</source>
+      </trans-unit>
+      <trans-unit id="/duty-button.title.number-stops:dict/number_stops:dict/other:dict/:string">
+        <source>%d Stops</source>
+      </trans-unit>
+      <trans-unit id="/duty-button.title.number-stops:dict/number_stops:dict/two:dict/:string">
+        <source>%d Stops</source>
+      </trans-unit>
+      <trans-unit id="/duty-button.title.number-stops:dict/number_stops:dict/zero:dict/:string">
+        <source>%d Stops</source>
+      </trans-unit>
+      <trans-unit id="/login-view.validate-form.error.password:dict/NSStringLocalizedFormatKey:dict/:string">
+        <source>A password must have at least %1$#@characters@.</source>
+      </trans-unit>
+      <trans-unit id="/login-view.validate-form.error.password:dict/receipts:dict/few:dict/:string">
+        <source>%d characters</source>
+      </trans-unit>
+      <trans-unit id="/login-view.validate-form.error.password:dict/receipts:dict/many:dict/:string">
+        <source>%d characters</source>
+      </trans-unit>
+      <trans-unit id="/login-view.validate-form.error.password:dict/receipts:dict/one:dict/:string">
+        <source>1 character</source>
+      </trans-unit>
+      <trans-unit id="/login-view.validate-form.error.password:dict/receipts:dict/other:dict/:string">
+        <source>%d characters</source>
+      </trans-unit>
+      <trans-unit id="/login-view.validate-form.error.password:dict/receipts:dict/two:dict/:string">
+        <source>%d characters</source>
+      </trans-unit>
+      <trans-unit id="/login-view.validate-form.error.password:dict/receipts:dict/zero:dict/:string">
+        <source>%d characters</source>
+      </trans-unit>
+      <trans-unit id="/newsroom-view.unread-card-count:dict/NSStringLocalizedFormatKey:dict/:string">
+        <source>You have %#@number_orders@ </source>
+      </trans-unit>
+      <trans-unit id="/newsroom-view.unread-card-count:dict/number_orders:dict/few:dict/:string">
+        <source>%d unread messages</source>
+      </trans-unit>
+      <trans-unit id="/newsroom-view.unread-card-count:dict/number_orders:dict/many:dict/:string">
+        <source>%d unread messages</source>
+      </trans-unit>
+      <trans-unit id="/newsroom-view.unread-card-count:dict/number_orders:dict/one:dict/:string">
+        <source>1 unread message</source>
+      </trans-unit>
+      <trans-unit id="/newsroom-view.unread-card-count:dict/number_orders:dict/other:dict/:string">
+        <source>%d unread messages</source>
+      </trans-unit>
+      <trans-unit id="/newsroom-view.unread-card-count:dict/number_orders:dict/two:dict/:string">
+        <source>%d unread messages</source>
+      </trans-unit>
+      <trans-unit id="/newsroom-view.unread-card-count:dict/number_orders:dict/zero:dict/:string">
+        <source>%d unread messages</source>
+      </trans-unit>
+      <trans-unit id="/notification.delivery-complete.message:dict/NSStringLocalizedFormatKey:dict/:string">
+        <source>Delivery complete! You earned %1$@ before %2$#@tips@.</source>
+      </trans-unit>
+      <trans-unit id="/notification.delivery-complete.message:dict/tips:dict/few:dict/:string">
+        <source>tips</source>
+      </trans-unit>
+      <trans-unit id="/notification.delivery-complete.message:dict/tips:dict/many:dict/:string">
+        <source>tips</source>
+      </trans-unit>
+      <trans-unit id="/notification.delivery-complete.message:dict/tips:dict/one:dict/:string">
+        <source>tip</source>
+      </trans-unit>
+      <trans-unit id="/notification.delivery-complete.message:dict/tips:dict/other:dict/:string">
+        <source>tips</source>
+      </trans-unit>
+      <trans-unit id="/notification.delivery-complete.message:dict/tips:dict/two:dict/:string">
+        <source>tips</source>
+      </trans-unit>
+      <trans-unit id="/notification.delivery-complete.message:dict/tips:dict/zero:dict/:string">
+        <source>tips</source>
+      </trans-unit>
+      <trans-unit id="/pickup-view.batched-alert.message:dict/NSStringLocalizedFormatKey:dict/:string">
+        <source>You'll be delivering to %#@number_customers@. Be sure to collect all orders before completing pickup.</source>
+      </trans-unit>
+      <trans-unit id="/pickup-view.batched-alert.message:dict/number_customers:dict/few:dict/:string">
+        <source>%d customers</source>
+      </trans-unit>
+      <trans-unit id="/pickup-view.batched-alert.message:dict/number_customers:dict/many:dict/:string">
+        <source>%d customers</source>
+      </trans-unit>
+      <trans-unit id="/pickup-view.batched-alert.message:dict/number_customers:dict/one:dict/:string">
+        <source>1 customer</source>
+      </trans-unit>
+      <trans-unit id="/pickup-view.batched-alert.message:dict/number_customers:dict/other:dict/:string">
+        <source>%d customers</source>
+      </trans-unit>
+      <trans-unit id="/pickup-view.batched-alert.message:dict/number_customers:dict/two:dict/:string">
+        <source>%d customers</source>
+      </trans-unit>
+      <trans-unit id="/pickup-view.batched-alert.message:dict/number_customers:dict/zero:dict/:string">
+        <source>%d customers</source>
+      </trans-unit>
+      <trans-unit id="/preordered-cell.view-details-button.title:dict/NSStringLocalizedFormatKey:dict/:string">
+        <source>View %#@number_items@</source>
+      </trans-unit>
+      <trans-unit id="/preordered-cell.view-details-button.title:dict/number_items:dict/few:dict/:string">
+        <source>%d items</source>
+      </trans-unit>
+      <trans-unit id="/preordered-cell.view-details-button.title:dict/number_items:dict/many:dict/:string">
+        <source>%d items</source>
+      </trans-unit>
+      <trans-unit id="/preordered-cell.view-details-button.title:dict/number_items:dict/one:dict/:string">
+        <source>1 item</source>
+      </trans-unit>
+      <trans-unit id="/preordered-cell.view-details-button.title:dict/number_items:dict/other:dict/:string">
+        <source>%d items</source>
+      </trans-unit>
+      <trans-unit id="/preordered-cell.view-details-button.title:dict/number_items:dict/two:dict/:string">
+        <source>%d items</source>
+      </trans-unit>
+      <trans-unit id="/preordered-cell.view-details-button.title:dict/number_items:dict/zero:dict/:string">
+        <source>%d items</source>
+      </trans-unit>
+      <trans-unit id="/receipt-view.duplicate-amount-alert.keep-receipts-button.title:dict/NSStringLocalizedFormatKey:dict/:string">
+        <source>Keep both, I did pay %2$@ %1$#@times@.</source>
+      </trans-unit>
+      <trans-unit id="/receipt-view.duplicate-amount-alert.keep-receipts-button.title:dict/times:dict/few:dict/:string">
+        <source>%d times</source>
+      </trans-unit>
+      <trans-unit id="/receipt-view.duplicate-amount-alert.keep-receipts-button.title:dict/times:dict/many:dict/:string">
+        <source>%d times</source>
+      </trans-unit>
+      <trans-unit id="/receipt-view.duplicate-amount-alert.keep-receipts-button.title:dict/times:dict/one:dict/:string">
+        <source>once</source>
+      </trans-unit>
+      <trans-unit id="/receipt-view.duplicate-amount-alert.keep-receipts-button.title:dict/times:dict/other:dict/:string">
+        <source>%d times</source>
+      </trans-unit>
+      <trans-unit id="/receipt-view.duplicate-amount-alert.keep-receipts-button.title:dict/times:dict/two:dict/:string">
+        <source>%d times</source>
+      </trans-unit>
+      <trans-unit id="/receipt-view.duplicate-amount-alert.keep-receipts-button.title:dict/times:dict/zero:dict/:string">
+        <source>%d times</source>
+      </trans-unit>
+      <trans-unit id="/receipt-view.duplicate-amount-alert.message:dict/NSStringLocalizedFormatKey:dict/:string">
+        <source>Are you sure you paid %1$#@times@ for the %2$@ receipt?</source>
+      </trans-unit>
+      <trans-unit id="/receipt-view.duplicate-amount-alert.message:dict/times:dict/few:dict/:string">
+        <source>%d times</source>
+      </trans-unit>
+      <trans-unit id="/receipt-view.duplicate-amount-alert.message:dict/times:dict/many:dict/:string">
+        <source>%d times</source>
+      </trans-unit>
+      <trans-unit id="/receipt-view.duplicate-amount-alert.message:dict/times:dict/one:dict/:string">
+        <source>once</source>
+      </trans-unit>
+      <trans-unit id="/receipt-view.duplicate-amount-alert.message:dict/times:dict/other:dict/:string">
+        <source>%d times</source>
+      </trans-unit>
+      <trans-unit id="/receipt-view.duplicate-amount-alert.message:dict/times:dict/two:dict/:string">
+        <source>%d times</source>
+      </trans-unit>
+      <trans-unit id="/receipt-view.duplicate-amount-alert.message:dict/times:dict/zero:dict/:string">
+        <source>%d times</source>
+      </trans-unit>
+      <trans-unit id="/receipt-view.duplicate-amount-alert.replace-receipts-button.title:dict/NSStringLocalizedFormatKey:dict/:string">
+        <source>Oops, delete the other %1$#@receipts@.</source>
+      </trans-unit>
+      <trans-unit id="/receipt-view.duplicate-amount-alert.replace-receipts-button.title:dict/receipts:dict/few:dict/:string">
+        <source>receipts</source>
+      </trans-unit>
+      <trans-unit id="/receipt-view.duplicate-amount-alert.replace-receipts-button.title:dict/receipts:dict/many:dict/:string">
+        <source>receipts</source>
+      </trans-unit>
+      <trans-unit id="/receipt-view.duplicate-amount-alert.replace-receipts-button.title:dict/receipts:dict/one:dict/:string">
+        <source>receipt</source>
+      </trans-unit>
+      <trans-unit id="/receipt-view.duplicate-amount-alert.replace-receipts-button.title:dict/receipts:dict/other:dict/:string">
+        <source>receipts</source>
+      </trans-unit>
+      <trans-unit id="/receipt-view.duplicate-amount-alert.replace-receipts-button.title:dict/receipts:dict/two:dict/:string">
+        <source>receipts</source>
+      </trans-unit>
+      <trans-unit id="/receipt-view.duplicate-amount-alert.replace-receipts-button.title:dict/receipts:dict/zero:dict/:string">
+        <source>receipts</source>
+      </trans-unit>
+      <trans-unit id="/waypoint-summary-view.instruction.title.pickup:dict/NSStringLocalizedFormatKey:dict/:string">
+        <source>Pick up %#@number_pickups@</source>
+      </trans-unit>
+      <trans-unit id="/waypoint-summary-view.instruction.title.pickup:dict/number_pickups:dict/few:dict/:string">
+        <source>%d orders</source>
+      </trans-unit>
+      <trans-unit id="/waypoint-summary-view.instruction.title.pickup:dict/number_pickups:dict/many:dict/:string">
+        <source>%d orders</source>
+      </trans-unit>
+      <trans-unit id="/waypoint-summary-view.instruction.title.pickup:dict/number_pickups:dict/one:dict/:string">
+        <source>1 order</source>
+      </trans-unit>
+      <trans-unit id="/waypoint-summary-view.instruction.title.pickup:dict/number_pickups:dict/other:dict/:string">
+        <source>%d orders</source>
+      </trans-unit>
+      <trans-unit id="/waypoint-summary-view.instruction.title.pickup:dict/number_pickups:dict/two:dict/:string">
+        <source>%d orders</source>
+      </trans-unit>
+      <trans-unit id="/waypoint-summary-view.instruction.title.pickup:dict/number_pickups:dict/zero:dict/:string">
+        <source>%d orders</source>
+      </trans-unit>
+      <trans-unit id="/waypoint-summary-view.prepaid-instruction.title.pickup:dict/NSStringLocalizedFormatKey:dict/:string">
+        <source>Pick up %#@number_pickups@</source>
+      </trans-unit>
+      <trans-unit id="/waypoint-summary-view.prepaid-instruction.title.pickup:dict/number_pickups:dict/few:dict/:string">
+        <source>%d prepaid orders</source>
+      </trans-unit>
+      <trans-unit id="/waypoint-summary-view.prepaid-instruction.title.pickup:dict/number_pickups:dict/many:dict/:string">
+        <source>%d prepaid orders</source>
+      </trans-unit>
+      <trans-unit id="/waypoint-summary-view.prepaid-instruction.title.pickup:dict/number_pickups:dict/one:dict/:string">
+        <source>1 prepaid order</source>
+      </trans-unit>
+      <trans-unit id="/waypoint-summary-view.prepaid-instruction.title.pickup:dict/number_pickups:dict/other:dict/:string">
+        <source>%d prepaid orders</source>
+      </trans-unit>
+      <trans-unit id="/waypoint-summary-view.prepaid-instruction.title.pickup:dict/number_pickups:dict/two:dict/:string">
+        <source>%d prepaid orders</source>
+      </trans-unit>
+      <trans-unit id="/waypoint-summary-view.prepaid-instruction.title.pickup:dict/number_pickups:dict/zero:dict/:string">
+        <source>%d prepaid orders</source>
+      </trans-unit>
+      <trans-unit id="/waypoints-list.cell.title.pickup:dict/NSStringLocalizedFormatKey:dict/:string">
+        <source>Pickup %#@number_orders@</source>
+      </trans-unit>
+      <trans-unit id="/waypoints-list.cell.title.pickup:dict/number_orders:dict/few:dict/:string">
+        <source>%d orders</source>
+      </trans-unit>
+      <trans-unit id="/waypoints-list.cell.title.pickup:dict/number_orders:dict/many:dict/:string">
+        <source>%d orders</source>
+      </trans-unit>
+      <trans-unit id="/waypoints-list.cell.title.pickup:dict/number_orders:dict/one:dict/:string">
+        <source>1 order</source>
+      </trans-unit>
+      <trans-unit id="/waypoints-list.cell.title.pickup:dict/number_orders:dict/other:dict/:string">
+        <source>%d orders</source>
+      </trans-unit>
+      <trans-unit id="/waypoints-list.cell.title.pickup:dict/number_orders:dict/two:dict/:string">
+        <source>%d orders</source>
+      </trans-unit>
+      <trans-unit id="/waypoints-list.cell.title.pickup:dict/number_orders:dict/zero:dict/:string">
+        <source>%d orders</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="PostmatesCourier/PostmatesCourier/PostmatesCourier-Info.plist" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0" build-num="9A235"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName">
+        <source>${BUNDLE_DISPLAY_NAME}</source>
+      </trans-unit>
+      <trans-unit id="CFBundleGetInfoString">
+        <source/>
+      </trans-unit>
+      <trans-unit id="CFBundleName">
+        <source>${PRODUCT_NAME}</source>
+      </trans-unit>
+      <trans-unit id="NSCameraUsageDescription">
+        <source>To be able to take photos of receipts.</source>
+      </trans-unit>
+      <trans-unit id="NSLocationWhenInUseUsageDescription">
+        <source>To be able to go on duty.</source>
+      </trans-unit>
+      <trans-unit id="NSPhotoLibraryUsageDescription">
+        <source>To be able to submit screenshots.</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Vendor/en.lproj/Localizable-MultiDocument.strings" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0" build-num="9A235"/>
+    </header>
+    <body>
+      <trans-unit id="mdx.error-view.authentication-failed">
+        <source>Authentication failed</source>
+      </trans-unit>
+      <trans-unit id="mdx.error-view.button.cancel">
+        <source>CANCEL</source>
+      </trans-unit>
+      <trans-unit id="mdx.error-view.button.retry">
+        <source>RETRY</source>
+      </trans-unit>
+      <trans-unit id="mdx.error-view.camera-access-disabled.button.title">
+        <source>Confirm</source>
+      </trans-unit>
+      <trans-unit id="mdx.error-view.camera-access-disabled.content">
+        <source>%@ needs access to your camera. Please check your privacy settings.</source>
+      </trans-unit>
+      <trans-unit id="mdx.error-view.camera-access-disabled.title">
+        <source>Camera access disabled</source>
+      </trans-unit>
+      <trans-unit id="mdx.error-view.cancelled-by-user">
+        <source>Cancelled by end-user</source>
+      </trans-unit>
+      <trans-unit id="mdx.error-view.device-is-offline">
+        <source>No Internet connection available</source>
+      </trans-unit>
+      <trans-unit id="mdx.error-view.error.headline">
+        <source>Error</source>
+      </trans-unit>
+      <trans-unit id="mdx.error-view.invalid-key">
+        <source>Certificate not valid anymore. Please contact the app vendor</source>
+      </trans-unit>
+      <trans-unit id="mdx.error-view.network-problem">
+        <source>We have encountered a network communication problem</source>
+      </trans-unit>
+      <trans-unit id="mdx.scan-view.confirmation.button.readable">
+        <source>READABLE</source>
+      </trans-unit>
+      <trans-unit id="mdx.scan-view.confirmation.button.retake">
+        <source>RETAKE</source>
+      </trans-unit>
+      <trans-unit id="mdx.scan-view.confirmation.text">
+        <source>Make sure that all data on your document is fully visible, glare free and not blurred</source>
+      </trans-unit>
+      <trans-unit id="mdx.scan-view.help.document-BC">
+        <source>Birth certificate</source>
+      </trans-unit>
+      <trans-unit id="mdx.scan-view.help.document-BS">
+        <source>Bank statement</source>
+      </trans-unit>
+      <trans-unit id="mdx.scan-view.help.document-CAAP">
+        <source>Cash advance application</source>
+      </trans-unit>
+      <trans-unit id="mdx.scan-view.help.document-CB">
+        <source>Council bill</source>
+      </trans-unit>
+      <trans-unit id="mdx.scan-view.help.document-CC">
+        <source>Credit card</source>
+      </trans-unit>
+      <trans-unit id="mdx.scan-view.help.document-CCS">
+        <source>Credit card statement</source>
+      </trans-unit>
+      <trans-unit id="mdx.scan-view.help.document-CRC">
+        <source>Corporate resolution certificate</source>
+      </trans-unit>
+      <trans-unit id="mdx.scan-view.help.document-CUSTOM">
+        <source>Document</source>
+      </trans-unit>
+      <trans-unit id="mdx.scan-view.help.document-HCC">
+        <source>Health care card</source>
+      </trans-unit>
+      <trans-unit id="mdx.scan-view.help.document-IC">
+        <source>Insurance card</source>
+      </trans-unit>
+      <trans-unit id="mdx.scan-view.help.document-LAG">
+        <source>Lease agreement</source>
+      </trans-unit>
+      <trans-unit id="mdx.scan-view.help.document-LOAP">
+        <source>Loan application</source>
+      </trans-unit>
+      <trans-unit id="mdx.scan-view.help.document-MEDC">
+        <source>Medicare card</source>
+      </trans-unit>
+      <trans-unit id="mdx.scan-view.help.document-MOAP">
+        <source>Mortgage application</source>
+      </trans-unit>
+      <trans-unit id="mdx.scan-view.help.document-PB">
+        <source>Phone bill</source>
+      </trans-unit>
+      <trans-unit id="mdx.scan-view.help.document-SEL">
+        <source>School enrolment letter</source>
+      </trans-unit>
+      <trans-unit id="mdx.scan-view.help.document-SENC">
+        <source>Seniors card</source>
+      </trans-unit>
+      <trans-unit id="mdx.scan-view.help.document-SS">
+        <source>Superannuation statement</source>
+      </trans-unit>
+      <trans-unit id="mdx.scan-view.help.document-SSC">
+        <source>Social security card</source>
+      </trans-unit>
+      <trans-unit id="mdx.scan-view.help.document-STUC">
+        <source>Student card</source>
+      </trans-unit>
+      <trans-unit id="mdx.scan-view.help.document-TAC">
+        <source>Trade association card</source>
+      </trans-unit>
+      <trans-unit id="mdx.scan-view.help.document-TR">
+        <source>Tax return</source>
+      </trans-unit>
+      <trans-unit id="mdx.scan-view.help.document-UB">
+        <source>Utility bill</source>
+      </trans-unit>
+      <trans-unit id="mdx.scan-view.help.document-USSS">
+        <source>US social security card</source>
+      </trans-unit>
+      <trans-unit id="mdx.scan-view.help.document-VC">
+        <source>Voided check</source>
+      </trans-unit>
+      <trans-unit id="mdx.scan-view.help.document-VT">
+        <source>Vehicle title</source>
+      </trans-unit>
+      <trans-unit id="mdx.scan-view.help.document-WWCC">
+        <source>Working with children check</source>
+      </trans-unit>
+      <trans-unit id="mdx.scan-view.navigationItem.title">
+        <source>Scan document</source>
+      </trans-unit>
+      <trans-unit id="mdx.submission-view.navigationItem.title">
+        <source/>
+      </trans-unit>
+      <trans-unit id="mdx.submission-view.successful.description">
+        <source/>
+      </trans-unit>
+      <trans-unit id="mdx.submission-view.successful.headline">
+        <source>Upload successful</source>
+      </trans-unit>
+      <trans-unit id="mdx.submission-view.uploading.description">
+        <source>This should only take a couple of seconds, depending on your network connectivity</source>
+      </trans-unit>
+      <trans-unit id="mdx.submission-view.uploading.headline">
+        <source>Uploading your documents</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Vendor/en.lproj/Localizable-Netverify.strings" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0" build-num="9A235"/>
+    </header>
+    <body>
+      <trans-unit id="netverify.alert-view.button.confirm.title">
+        <source>Confirm</source>
+      </trans-unit>
+      <trans-unit id="netverify.alert-view.camera-access-disabled.description">
+        <source>%@ needs access to your camera. Please check your privacy settings.</source>
+      </trans-unit>
+      <trans-unit id="netverify.alert-view.camera-access-disabled.title">
+        <source>Camera access disabled</source>
+      </trans-unit>
+      <trans-unit id="netverify.confirmation-view.button.retry">
+        <source>RETAKE</source>
+      </trans-unit>
+      <trans-unit id="netverify.confirmation-view.button.submit">
+        <source>READABLE</source>
+      </trans-unit>
+      <trans-unit id="netverify.confirmation-view.headline">
+        <source>Check readability</source>
+      </trans-unit>
+      <trans-unit id="netverify.confirmation-view.label">
+        <source>Make sure that all data on your document is fully visible, glare free and not blurred</source>
+      </trans-unit>
+      <trans-unit id="netverify.confirmation-view.manual-face.label">
+        <source>Make sure your face is fully visible and the image is not blurred</source>
+      </trans-unit>
+      <trans-unit id="netverify.country-selection.navigationItem.title">
+        <source>Select your country</source>
+      </trans-unit>
+      <trans-unit id="netverify.error-view.address-missing.button.continue.title">
+        <source>Tap to continue</source>
+      </trans-unit>
+      <trans-unit id="netverify.error-view.button.cancel.title">
+        <source>CANCEL</source>
+      </trans-unit>
+      <trans-unit id="netverify.error-view.button.retry.title">
+        <source>RETRY</source>
+      </trans-unit>
+      <trans-unit id="netverify.error-view.error.header.title">
+        <source>Error</source>
+      </trans-unit>
+      <trans-unit id="netverify.error.authentication-failed.title">
+        <source>Authentication failed</source>
+      </trans-unit>
+      <trans-unit id="netverify.error.cancelled-by-user.title">
+        <source>Cancelled by end-user</source>
+      </trans-unit>
+      <trans-unit id="netverify.error.device-is-offline.title">
+        <source>No Internet connection available</source>
+      </trans-unit>
+      <trans-unit id="netverify.error.invalid-key.title">
+        <source>Certificate not valid anymore. Please contact the app vendor</source>
+      </trans-unit>
+      <trans-unit id="netverify.error.network-problem.title">
+        <source>We have encountered a network communication problem</source>
+      </trans-unit>
+      <trans-unit id="netverify.error.user-address-missing">
+        <source>The barcode of your document didn´t contain your address, turn your document and scan the front.</source>
+      </trans-unit>
+      <trans-unit id="netverify.error.user-address-missing.title">
+        <source>Scan front</source>
+      </trans-unit>
+      <trans-unit id="netverify.scan-help-view.button.barcode-fallback.title">
+        <source>NO BARCODE ON MY ID</source>
+      </trans-unit>
+      <trans-unit id="netverify.scan-help-view.button.general-fallback.title">
+        <source>CAPTURE IS NOT WORKING</source>
+      </trans-unit>
+      <trans-unit id="netverify.scan-help-view.document-back.title">
+        <source>Back</source>
+      </trans-unit>
+      <trans-unit id="netverify.scan-help-view.document-front.title">
+        <source>Front</source>
+      </trans-unit>
+      <trans-unit id="netverify.scan-help-view.document-inside.title">
+        <source>Inside</source>
+      </trans-unit>
+      <trans-unit id="netverify.scan-help-view.document-outside.title">
+        <source>Outside</source>
+      </trans-unit>
+      <trans-unit id="netverify.scan-help-view.driver-license.title">
+        <source>Driver's license</source>
+      </trans-unit>
+      <trans-unit id="netverify.scan-help-view.face.button.continue">
+        <source>START</source>
+      </trans-unit>
+      <trans-unit id="netverify.scan-help-view.face.description">
+        <source>A picture of your face will now be taken automatically. Center your face within the overlay.
+
+Blink twice to complete the process.</source>
+      </trans-unit>
+      <trans-unit id="netverify.scan-help-view.face.duration">
+        <source>The scanning process takes 5 seconds.</source>
+      </trans-unit>
+      <trans-unit id="netverify.scan-help-view.face.headline">
+        <source>Align your Face</source>
+      </trans-unit>
+      <trans-unit id="netverify.scan-help-view.identity-card.title">
+        <source>Identity card</source>
+      </trans-unit>
+      <trans-unit id="netverify.scan-help-view.paper.title">
+        <source>Please point your camera at the customer's unfolded document and take a photo.</source>
+      </trans-unit>
+      <trans-unit id="netverify.scan-help-view.passport.title">
+        <source>Passport</source>
+      </trans-unit>
+      <trans-unit id="netverify.scan-help-view.plastic.title">
+        <source>Please point your camera at the barcode of the customer’s document.</source>
+      </trans-unit>
+      <trans-unit id="netverify.scan-help-view.steps">
+        <source>Step %lu of %lu</source>
+      </trans-unit>
+      <trans-unit id="netverify.scan-help-view.visa.title">
+        <source>Visa</source>
+      </trans-unit>
+      <trans-unit id="netverify.scan-options.accessibility-label.close-button">
+        <source>Close</source>
+      </trans-unit>
+      <trans-unit id="netverify.scan-options.cell.country.unselected.title">
+        <source>Select a country</source>
+      </trans-unit>
+      <trans-unit id="netverify.scan-options.cell.document-type.driver-license.title">
+        <source>Driver's License</source>
+      </trans-unit>
+      <trans-unit id="netverify.scan-options.cell.document-type.identity-card.title">
+        <source>Identity Card</source>
+      </trans-unit>
+      <trans-unit id="netverify.scan-options.cell.document-type.passport.title">
+        <source>Passport</source>
+      </trans-unit>
+      <trans-unit id="netverify.scan-options.cell.document-type.visa.title">
+        <source>Visa</source>
+      </trans-unit>
+      <trans-unit id="netverify.scan-options.cell.document-variant.paper.title">
+        <source>Folded document</source>
+      </trans-unit>
+      <trans-unit id="netverify.scan-options.cell.document-variant.plastic.title">
+        <source>Plastic photocard</source>
+      </trans-unit>
+      <trans-unit id="netverify.scan-options.cell.preselected.subtitle">
+        <source>Cannot be changed</source>
+      </trans-unit>
+      <trans-unit id="netverify.scan-options.header.title">
+        <source>Select the type of document you wish to scan</source>
+      </trans-unit>
+      <trans-unit id="netverify.scan-options.navigationItem.title">
+        <source>Select your document</source>
+      </trans-unit>
+      <trans-unit id="netverify.scan-options.section-header.country.title">
+        <source>YOUR COUNTRY</source>
+      </trans-unit>
+      <trans-unit id="netverify.scan-options.section-header.document-type.title">
+        <source>TYPE OF DOCUMENT</source>
+      </trans-unit>
+      <trans-unit id="netverify.scan-options.section-header.document-variant.title">
+        <source>LAYOUT OF DOCUMENT</source>
+      </trans-unit>
+      <trans-unit id="netverify.scan-view.accessibility-label.button.switch-to-back-camera">
+        <source>Switch to back camera</source>
+      </trans-unit>
+      <trans-unit id="netverify.scan-view.accessibility-label.button.switch-to-front-camera">
+        <source>Switch to front camera</source>
+      </trans-unit>
+      <trans-unit id="netverify.scan-view.accessibility-label.button.take-shot">
+        <source>Take a photo</source>
+      </trans-unit>
+      <trans-unit id="netverify.scan-view.accessibility-label.flash-button.activate">
+        <source>Activate flash</source>
+      </trans-unit>
+      <trans-unit id="netverify.scan-view.accessibility-label.flash-button.deactivate">
+        <source>Deactivate flash</source>
+      </trans-unit>
+      <trans-unit id="netverify.scan-view.face.label.moves-eyes-blink">
+        <source>Move your eyes or blink</source>
+      </trans-unit>
+      <trans-unit id="netverify.scan-view.face.navigation-item.title">
+        <source>Take a Selfie</source>
+      </trans-unit>
+      <trans-unit id="netverify.scan-view.navigationItem.title">
+        <source>Scan document</source>
+      </trans-unit>
+      <trans-unit id="netverify.scan-view.passport.overlay.title">
+        <source>PASSPORT</source>
+      </trans-unit>
+      <trans-unit id="netverify.scan-view.use-back-card.overlay.title">
+        <source>USE BACK</source>
+      </trans-unit>
+      <trans-unit id="netverify.scan-view.use-front-card.overlay.title">
+        <source>USE FRONT</source>
+      </trans-unit>
+      <trans-unit id="netverify.scan-view.visa.overlay.title">
+        <source>VISA</source>
+      </trans-unit>
+      <trans-unit id="netverify.submission-view.successful.description">
+        <source/>
+      </trans-unit>
+      <trans-unit id="netverify.submission-view.successful.headline">
+        <source>Upload successful</source>
+      </trans-unit>
+      <trans-unit id="netverify.submission-view.uploading.description">
+        <source>This should only take a couple of seconds, depending on your network connectivity</source>
+      </trans-unit>
+      <trans-unit id="netverify.submission-view.uploading.headline">
+        <source>Uploading your documents</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

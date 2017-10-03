@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Adjustment" xml:space="preserve">
+    <value>Adjustment</value>
+  </data>
+  <data name="Alloc" xml:space="preserve">
+    <value>Allocation</value>
+  </data>
+  <data name="BankTransfer" xml:space="preserve">
+    <value>Bank Transfer</value>
+  </data>
+  <data name="CashPaid" xml:space="preserve">
+    <value>Spend Money</value>
+  </data>
+  <data name="CashReceived" xml:space="preserve">
+    <value>Receive Money</value>
+  </data>
+  <data name="ConversionBalances" xml:space="preserve">
+    <value>Conversion Balance Journal</value>
+  </data>
+  <data name="CreditNote" xml:space="preserve">
+    <value>Credit Note</value>
+  </data>
+  <data name="EndOfLastFinancialQuarter" xml:space="preserve">
+    <value>End of Last Quarter</value>
+  </data>
+  <data name="EndOfLastFinancialYear" xml:space="preserve">
+    <value>End of Last Financial Year</value>
+  </data>
+  <data name="EndOfLastMonth" xml:space="preserve">
+    <value>End of Last Month</value>
+  </data>
+  <data name="ExpenseClaim" xml:space="preserve">
+    <value>Expense Claim</value>
+  </data>
+  <data name="ExpenseClaimPayment" xml:space="preserve">
+    <value>Expense Claim Payment</value>
+  </data>
+  <data name="FinancialQuarterToDate" xml:space="preserve">
+    <value>Quarter to Date</value>
+  </data>
+  <data name="FinancialYearToDate" xml:space="preserve">
+    <value>Year to Date</value>
+  </data>
+  <data name="GLExport_Warning_AccountsWithoutCodes" xml:space="preserve">
+    <value>You do not have a chart of accounts code assigned for {num} of your bank accounts. You may need to assign a &lt;a href={coaLink}&gt;chart of account&lt;/a&gt; code so that you can upload your export to the selected product.</value>
+  </data>
+  <data name="GLExport_Warning_AccountsWithoutCodesArchived" xml:space="preserve">
+    <value> Some of these accounts may be &lt;a href={archivedCoaLink}&gt;archived&lt;/a&gt;</value>
+  </data>
+  <data name="History_Warning_MaxResultsReached" xml:space="preserve">
+    <value>Below are the most recent {max} records matching your search criteria. Try narrowing your criteria to ensure your search displays all matching records.</value>
+  </data>
+  <data name="Invoice" xml:space="preserve">
+    <value>Invoice</value>
+  </data>
+  <data name="LastFinancialYear" xml:space="preserve">
+    <value>Last Financial Year</value>
+  </data>
+  <data name="LastMonth" xml:space="preserve">
+    <value>Last Month</value>
+  </data>
+  <data name="LastQuarter" xml:space="preserve">
+    <value>Last Quarter</value>
+  </data>
+  <data name="LastTaxMonth" xml:space="preserve">
+    <value>Last CIS Filing Month</value>
+    <comment>Tax month range.  In UK personal or self-employed tax filing months run from 6th of month - 5th of following month</comment>
+  </data>
+  <data name="Link_LearnMore" xml:space="preserve">
+    <value>&lt;a href="{link}" target="_blank"&gt;Learn more&lt;/a&gt;</value>
+  </data>
+  <data name="ManualJournal" xml:space="preserve">
+    <value>Manual Journal</value>
+  </data>
+  <data name="MonthToDate" xml:space="preserve">
+    <value>Month to Date</value>
+  </data>
+  <data name="Overpay" xml:space="preserve">
+    <value>Overpayment</value>
+  </data>
+  <data name="Pay" xml:space="preserve">
+    <value>Payment</value>
+  </data>
+  <data name="Payable" xml:space="preserve">
+    <value>Payable</value>
+  </data>
+  <data name="PracticeOffline" xml:space="preserve">
+    <value>Schedules are currently unavailable because the practice organisation is offline for maintenance. For information on when you will be back online please click &lt;a href="{link}" target="_blank"&gt;here&lt;/a&gt;.</value>
+  </data>
+  <data name="Prepay" xml:space="preserve">
+    <value>Prepayment</value>
+  </data>
+  <data name="Receivable" xml:space="preserve">
+    <value>Receivable</value>
+  </data>
+  <data name="Refund" xml:space="preserve">
+    <value>Refund</value>
+  </data>
+  <data name="SetupRules_SetupButton" xml:space="preserve">
+    <value>Set up Rules</value>
+  </data>
+  <data name="ThisFinancialYear" xml:space="preserve">
+    <value>This Financial Year</value>
+  </data>
+  <data name="ThisMonth" xml:space="preserve">
+    <value>This Month</value>
+  </data>
+  <data name="ThisQuarter" xml:space="preserve">
+    <value>This Quarter</value>
+  </data>
+  <data name="ThisTaxMonth" xml:space="preserve">
+    <value>This CIS Filing Month</value>
+    <comment>Tax month range.  In UK personal or self-employed tax filing months run from 6th of month - 5th of following month</comment>
+  </data>
+  <data name="Today" xml:space="preserve">
+    <value>Today</value>
+  </data>
+  <data name="Warning_MaxResultLimit" xml:space="preserve">
+    <value>Well, that's awkward. Xero cannot display this report because of the amount of data being requested. We're working on handling this better, but in the meantime you can still export the report, or select a shorter date range and rerun your report in stages.</value>
+  </data>
+</root>
