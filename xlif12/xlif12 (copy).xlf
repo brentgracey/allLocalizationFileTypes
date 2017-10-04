@@ -22,7 +22,7 @@
     <target xml:lang="ja-JP">Quetzal</target>
    </trans-unit>
    <trans-unit id="3" maxbytes="114">
-    <source xml:lang="en-US">An application to manipulate and 
+    <source xml:lang="en-US">An and 
      process XLIFF documents</source>
     <target xml:lang="ja-JP">XLIFF 文書を編集、または処理
      するアプリケーションです。</target>
