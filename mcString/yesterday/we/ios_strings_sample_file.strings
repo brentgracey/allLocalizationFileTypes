@@ -1,8 +1,8 @@
 /* Comment 1 */
-"Item_Without_semicolonasdf" = "Text1";
+"Item_Without_semicolonasdf_resync" = "Text1";
 
 /* Comment 2 */
-"Item_With_semicolonasdf" = "Text2 %ld %lx %C;Text3";
+"Item_With_semicolonasdf_resync" = "Text2 %ld %lx %C;Text3";
 
 /* Comment 3 */
 "Item_With_colonasdf" = "Text4:Text5asdfsadfsdf - must get REJECTED!!!";
