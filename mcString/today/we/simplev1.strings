@@ -1,0 +1,3 @@
+/* Pop-up asking to allow the app (OKpanda) send push notifications */
+"AppDelegate.Alert.AllowPushNotification.Button.Cancel.Title" = "Don't Allow";
+
