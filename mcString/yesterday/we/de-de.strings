@@ -1,0 +1,6 @@
+
+"Item_Without_semicolon" = "Text1";
+
+"Item_With_semicolon" = "Text2 %l dx; %l Text3 %C";
+
+"Item_With_colon" = "Text4: - muss abgelehnt bekommen !!!";
