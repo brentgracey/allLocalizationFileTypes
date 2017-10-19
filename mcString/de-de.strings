@@ -1,0 +1,18 @@
+
+"AppDelegate.Alert.AllowPushNotification.Button.Cancel.Title" = "TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT";
+
+"AppDelegate.Alert.AllowPushNotification.Button.OK.Title" = "TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT";
+
+"AppDelegate.Alert.AllowPushNotification.Message" = "TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT";
+
+"AppDelegate.Alert.AllowPushNotification.Title" = "TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT";
+
+"AppDelegate.Alert.UnsupportedVersion.Message" = "TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT";
+
+"AppDelegate.Alert.UnsupportedVersion.Title" = "Nicht unterstützte Version";
+
+"Authentication.Alert.LoginError.Message.General" = "";
+
+"Authentication.Alert.LoginError.Message.InvalidEmail" = "";
+
+"Authentication.Alert.LoginError.Message.InvalidEmailOrPassword" = "";
