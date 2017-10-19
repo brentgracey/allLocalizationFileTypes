@@ -1,0 +1,18 @@
+
+"AppDelegate.Alert.AllowPushNotification.Button.Cancel.Title" = "";
+
+"AppDelegate.Alert.AllowPushNotification.Button.OK.Title" = "";
+
+"AppDelegate.Alert.AllowPushNotification.Message" = "";
+
+"AppDelegate.Alert.AllowPushNotification.Title" = "";
+
+"AppDelegate.Alert.UnsupportedVersion.Message" = "";
+
+"AppDelegate.Alert.UnsupportedVersion.Title" = "";
+
+"Authentication.Alert.LoginError.Message.General" = "";
+
+"Authentication.Alert.LoginError.Message.InvalidEmail" = "";
+
+"Authentication.Alert.LoginError.Message.InvalidEmailOrPassword" = "";
