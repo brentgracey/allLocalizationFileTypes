@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="GetItNow/Classes/Base.lproj/AccountSettings.storyboard" source-language="en" datatype="plaintext" target-language="es-MX">
+    <header>
+    <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.0"></tool></header>
+    <body>
+      <trans-unit id="1Te-6m-0uz.normalTitle">
+        <source>Manage Subscription</source>
+        <target xml:lang="es-MX">Manage Subscription</target>
+<note>Class = "UIButton"; normalTitle = "Manage Subscription"; ObjectID = "1Te-6m-0uz";</note>
+      </trans-unit>
+      <trans-unit id="1or-vF-sXR.text">
+        <source>Status</source>
+        <target xml:lang="es-MX">Status</target>
+<note>Class = "UILabel"; text = "Status"; ObjectID = "1or-vF-sXR";</note>
+      </trans-unit>
+      <trans-unit id="44x-18-1FY.text">
+        <source>Knight Rider</source>
+        <target xml:lang="es-MX">Knight Rider</target>
+<note>Class = "UITextField"; text = "Knight Rider"; ObjectID = "44x-18-1FY"; Note = "Don't localize";</note>
+      </trans-unit>
+      <trans-unit id="588-mg-mhs.title">
+        <source>About</source>
+        <target xml:lang="es-MX">Acerca de nosotros</target>
+<note>Class = "UITableViewController"; title = "About"; ObjectID = "588-mg-mhs";</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
