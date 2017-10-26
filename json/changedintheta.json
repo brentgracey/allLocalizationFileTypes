@@ -1,7 +1,7 @@
 {
   "result" : "Erfolg",
   "token" : "",
-  "remember_me" : "Asdfasdf",
+  "remember_me" : "cheese",
   "loggedUser" : {
     "id" : "1",
     "first_name" : "26sep",
@@ -18,7 +18,7 @@
       "name" : "Sdfsdf",
       "role" : "Sdfsdf"
     } ],
-    "timezone" : "Sdfdsf",
+    "timezone" : "local",
     "created_at" : "1420066800000",
     "phone_number" : "12345621",
     "last_online" : "1469609210000"
