@@ -1,0 +1,26 @@
+# 
+msgid ""
+msgstr""
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5;"
+
+
+msgid "the-quick-jumping-brown-fox-key"
+msgstr "Source: The [[quick]] brown fox jumped over the lazy dog."
+
+msgid "gifed-horse-key"
+msgstr "Soruce: You don't look a gift horse \n In the mouth"
+
+# Comment on It's ducks all the way down. ... currently not supported by Q
+# Comment on It's ducks all the way down. ... currently not supported by Q
+msgctxt "context-key"
+msgid "loads-of-ducks-key"
+msgstr "Soruce: It's ducks all the way down."
+
+msgid "ive-told-you-key-is-under-wiper"
+msgid_plural ""
+msgstr[0] "Source[0]: I have already told you %d time"
+msgstr[1] "Source[1]: I have already told you %d times"
+msgstr[2] "Source[2]: I have already told you %d times"
+msgstr[3] "Source[3]: I have already told you %d times"
+msgstr[4] "Source[4]: I have already told you %d times"
+msgstr[5] "Source[5]: I have already told you %d times"
