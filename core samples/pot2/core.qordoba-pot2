@@ -1,0 +1,27 @@
+# 
+msgid ""
+msgstr""
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5;"
+
+
+msgid "The [[quick]] brown fox jumped over the lazy dog."
+msgstr "FILE TRANSLATION: The [[quick]] brown fox jumped over the lazy dog."
+
+msgid "You don't look a gift horse \n In the mouth"
+msgstr "FILE TRANSLATION: You don't look a gift horse \n In the mouth"
+
+# Comment on It's ducks all the way down. ... currently not supported by Q
+# Comment on It's ducks all the way down. ... currently not supported by Q
+msgctxt "South possible also not supported"
+msgid "It's ducks all the way down."
+msgstr "FILE TRANSLATION: It's ducks all the way down."
+
+msgid "I have already told you %d time"
+msgid_plural "I have already told you %d times"
+msgstr[0] "FILE TRANSLATION: I have already told you %d time"
+msgstr[1] "FILE TRANSLATION: I have already told you %d times"
+msgstr[2] "FILE TRANSLATION: I have already told you %d times"
+msgstr[3] "FILE TRANSLATION: I have already told you %d times"
+msgstr[4] "FILE TRANSLATION: I have already told you %d times"
+msgstr[5] "FILE TRANSLATION: I have already told you %d times"
+

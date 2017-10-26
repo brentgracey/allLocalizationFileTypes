@@ -1,0 +1,17 @@
+1
+00:00:05,958 --> 00:00:10,028
+<i></i>
+
+2
+00:00:11,022 --> 00:00:16,938
+<i>The [[quick]] brown fox jumped over the lazy dog.</i>
+
+3
+00:00:17,987 --> 00:00:23,053
+<i>You don't look a gift horse 
+ In the mouth</i>
+
+4
+00:00:23,976 --> 00:00:27,951
+<i>It's ducks all the way down.</i>
+
