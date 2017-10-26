@@ -20,8 +20,8 @@ msgid "topoday"
 msgstr "today today now"
 
 #: viewpart/UnicodeBlocks.h:151
-msgid "new new new has nothing todo with it"
-msgstr "new new new to do with it"
+msgid "new new new has nothing todo it"
+msgstr "new new new to do it"
 
 #: mainwindow.cpp:127
 msgid "Time: %1 second"
