@@ -20,7 +20,7 @@ import scala.concurrent.{ExecutionContext, Future}
 
 // MariaDB Based Check... might be needed if data is not migrated
 /*val areDuplicatesOfTheseSegmentsAlreadyPushed : Seq[SegmentTextAlreadyPushedInPage] = AnormSql.areDuplicatesOfTheseSegmentsAlreadyPushed(
-  recordTranslationEvents.projectId,
+  
   recordTranslationEvents.translationEvents.map{_.segmentId},
   recordTranslationEvents.futureMilestoneIds,
   cycleId
