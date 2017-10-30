@@ -1,11 +1,11 @@
 {
   "result" : "",
   "token" : "",
-  "remember_me" : "TTTTTTTTTTTTTTTTTTTTTTT",
+  "remember_me" : "",
   "loggedUser" : {
-    "id" : "TTTTTTTTTTTTTTTTTTTTTTT",
-    "first_name" : "TTTTTTTTTTTTTTTTTTTTTTT",
-    "last_name" : "TTTTTTTTTTTTTTTTTTTTTTT",
+    "id" : "",
+    "first_name" : "",
+    "last_name" : "",
     "email" : "",
     "name" : "",
     "avatar" : "",
