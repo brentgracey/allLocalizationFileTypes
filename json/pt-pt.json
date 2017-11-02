@@ -1,26 +1,12 @@
 {
-  "result" : "321",
-  "token" : "",
-  "remember_me" : "Sdfsdf",
-  "loggedUser" : {
-    "id" : "1",
-    "first_name" : "regress",
-    "last_name" : "26sep",
-    "email" : "may@qordoba.com",
-    "name" : "Sdfsdf",
-    "avatar" : "Sdfsdf scaled_86ef738-4a95-4087-ad44-fac14deb94ba_admin https://storage.googleapis.com/dev-env-storage/c86ef738-4a95-4087-ad44-fac14deb94ba_admin cropped__scaled_32.png cropped__scaled_32.png cropped scaled_32.png cropped scaled_32.png cropped scaled_32.png cropped scaled_32.png cropped scaled_32.png cropped scaled_32.png cropped scaled_32.png",
-    "organizations" : [ {
-      "id" : "2",
-      "name" : "Sdfsdfsdf",
-      "role" : "Sdfsdf"
-    }, {
-      "id" : "1002",
-      "name" : "Sdfsdf",
-      "role" : "Sdfsdf"
-    } ],
-    "timezone" : "Sdfsdf",
-    "created_at" : "1420066800000",
-    "phone_number" : "12345621",
-    "last_online" : "1469609210000"
-  }
+  "key-0" : "",
+  "key-00" : "Sdfsdf",
+  "key-1-number" : "10",
+  "key-1" : "TM [[quick]] PRT The brown fox jumped over the lazy dog. V2. translation",
+  "key-2" : "You don't look a gift horse \n In the mouth",
+  "key-3" : "TM PORT It's ducks all the way down.",
+  "day_of_week_array" : [ {
+    "Monday" : "Segunda-feira é o primeiro dia v2",
+    "Tuesday" : "O resto"
+  } ]
 }
