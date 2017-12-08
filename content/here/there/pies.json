@@ -1,3 +1,5 @@
-"pies" : {
-   "eat": "meat"
+{
+   "pies" : {
+      "eat": "meat"
+   }
 }
