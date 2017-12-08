@@ -1,0 +1,23 @@
+{  
+   "source_repository_branch":"master",
+   "ignore_files":[  
+
+   ],
+   "whitelist_files":[  
+
+   ],
+   "ignore_users":[  
+
+   ],
+   "ignore_branches":[  
+
+   ],
+   "pull_request_title":null,
+   "translation_file_naming":{  
+      "id":"[filename:sourceNameKept]_[use_folder:custom]_[fileExtension:fileExtensionUseExsiting]",
+      "absolute_sub_folder":"{targetLanguage_Name}_cheese{targetLanguageCode_TARGETLANGUAGECODE}",
+      "file_extension":"fileExtensionUseExsiting",
+      "file_name":"sourceNameKept"
+   },
+   "git_hub_status_mode":"failure"
+}
