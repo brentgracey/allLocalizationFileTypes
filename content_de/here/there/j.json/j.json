@@ -1,0 +1,11 @@
+{
+  "source_repository_branch" : "Meister",
+  "pull_request_title" : "Asdfasdf",
+  "translation_file_naming" : {
+    "id" : "[filename:sourceNameKept]_[use_folder:custom]_[fileExtension:fileExtensionUseExsiting]",
+    "absolute_sub_folder" : "{targetLanguage_Name}_cheese{targetLanguageCode_TARGETLANGUAGECODE}",
+    "file_extension" : "fileExtensionUseExsiting",
+    "file_name" : "content"
+  },
+  "git_hub_status_mode" : "Fehler"
+}
