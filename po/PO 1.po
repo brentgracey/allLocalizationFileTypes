@@ -25,7 +25,7 @@ msgstr "msgstr 2"
 # Hash space is a translator comment that should be preserved.
 #: viewpart/UnicodeBlocks.h:151
 msgid "msgid 3"
-msgstr "msgstr 3"
+msgstr "msgstr 3 lwoy"
 
 #: mainwindow.cpp:127
 #, kde-format
