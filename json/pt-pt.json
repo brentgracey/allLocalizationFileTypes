@@ -1,14 +1,13 @@
 {
-  "result" : "321",
-  "token" : "",
-  "remember_me" : "Sdfsdf",
+  "result" : "TTTTTTTTTTTTTTTTTTTTTTTTTT",
+  "token" : "TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT",
   "loggedUser" : {
-    "id" : "1",
+    "id" : "TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT",
     "first_name" : "regress",
     "last_name" : "26sep",
     "email" : "may@qordoba.com",
     "name" : "Sdfsdf",
-    "avatar" : "Sdfsdf scaled_86ef738-4a95-4087-ad44-fac14deb94ba_admin https://storage.googleapis.com/dev-env-storage/c86ef738-4a95-4087-ad44-fac14deb94ba_admin cropped__scaled_32.png cropped__scaled_32.png cropped scaled_32.png cropped scaled_32.png cropped scaled_32.png cropped scaled_32.png cropped scaled_32.png cropped scaled_32.png cropped scaled_32.png",
+    "avatar" : "https://storage.googleapis.com/dev-env-storage/c86ef738-4a95-4087-ad44-fac14deb94ba_admin um __ scaled_256 __ cropped__scaled_32.png",
     "organizations" : [ {
       "id" : "2",
       "name" : "Sdfsdfsdf",
@@ -22,5 +21,6 @@
     "created_at" : "1420066800000",
     "phone_number" : "12345621",
     "last_online" : "1469609210000"
-  }
+  },
+  "remember_me" : null
 }
