@@ -1,6 +1,6 @@
 {
-  "result" : "TTTTTTTTTTTTTTTTTTTTTTTTTT",
-  "token" : "TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT",
+  "result" : "running off app token",
+  "token" : "TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT <||>",
   "loggedUser" : {
     "id" : "TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT",
     "first_name" : "regress",
