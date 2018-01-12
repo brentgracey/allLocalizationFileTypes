@@ -1,0 +1,26 @@
+{
+  "result" : "ge GEE",
+  "token" : "",
+  "remember_me" : "ge GEE",
+  "loggedUser" : {
+    "id" : "ge GEE",
+    "first_name" : "ge GEE",
+    "last_name" : "ge GEE",
+    "email" : "ge GEE",
+    "name" : "ge GEE",
+    "avatar" : "ge GEE",
+    "organizations" : [ {
+      "id" : "ge GEE",
+      "name" : "ge GEE",
+      "role" : "ge GEE"
+    }, {
+      "id" : "ge GEE\nge GEE",
+      "name" : "ge GEE",
+      "role" : "ge GEE"
+    } ],
+    "timezone" : "ge GEE",
+    "created_at" : "ge GEE",
+    "phone_number" : "ge GEE",
+    "last_online" : "ge GEEge GEE"
+  }
+}
