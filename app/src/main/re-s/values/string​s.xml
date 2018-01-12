@@ -48,7 +48,7 @@
         android:id="@+id/cancel_button"
         android:text="Cancel"
         android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="wrap_content_"
     />
     <TextView
         android:id="@+id/result"
