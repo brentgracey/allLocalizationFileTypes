@@ -27,11 +27,10 @@ msgstr "today today sha calzz"
 msgid "new new new has nothing todo with it"
 msgstr "new new new to do sha sha it"
 
-#: mainwindow.cpp:127
+#: mainwindow.cpp:127 GITHUH
 #, kde-format
 msgid "Time: %1 second"
 msgid_plural "Time: %1 seconds"
 msgstr[0] "Czas: %1 sekunda t"
 msgstr[1] "Czas: %1 sekundy"
 msgstr[2] "Czas: %1 sekund"
-
