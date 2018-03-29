@@ -1,26 +1,12 @@
 {
-  "result" : "32",
-  "token" : "",
-  "loggedUser" : {
-    "id" : "1",
-    "first_name" : "regress",
-    "last_name" : "26sep",
-    "email" : "may@qordoba.com",
-    "name" : "Brent",
-    "avatar" : "86ef738-4a95-4087-ad44-fac14deb94ba _ _scaled_ _admin a_ __ __",
-    "organizations" : [ {
-      "id" : "2",
-      "name" : "Controlled Test Org",
-      "role" : "owner"
-    }, {
-      "id" : "1002",
-      "name" : "test 3scale api call",
-      "role" : "owner"
-    } ],
-    "timezone" : "Pacific/Niue",
-    "created_at" : "1.4200668E12",
-    "phone_number" : "12345621",
-    "last_online" : "1.46960921E12"
-  },
-  "remember_me" : null
+  "key-0" : "",
+  "key-1-number" : "10",
+  "key-1" : "Fox T lady",
+  "key-2" : "TTTTTTTTTTTTTTTTTTTTTTTTTTTT \n",
+  "key-3" : "It's ducks all the way down.",
+  "day_of_week_array" : [ {
+    "Monday" : "Monday is the first day",
+    "Tuesday" : "the rest is the past"
+  } ],
+  "key-00" : null
 }
