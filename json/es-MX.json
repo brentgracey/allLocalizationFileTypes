@@ -1,7 +1,6 @@
 {
   "result" : "",
   "token" : "",
-  "remember_me" : "",
   "loggedUser" : {
     "id" : "",
     "first_name" : "",
@@ -22,5 +21,6 @@
     "created_at" : "",
     "phone_number" : "",
     "last_online" : ""
-  }
+  },
+  "remember_me" : null
 }
