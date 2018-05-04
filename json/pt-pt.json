@@ -1,26 +1,26 @@
 {
-  "result" : "321",
+  "result" : "",
   "token" : "",
-  "remember_me" : "Sdfsdf",
   "loggedUser" : {
-    "id" : "1",
-    "first_name" : "regress",
-    "last_name" : "26sep",
-    "email" : "may@qordoba.com",
-    "name" : "Sdfsdf",
-    "avatar" : "Sdfsdf scaled_86ef738-4a95-4087-ad44-fac14deb94ba_admin https://storage.googleapis.com/dev-env-storage/c86ef738-4a95-4087-ad44-fac14deb94ba_admin cropped__scaled_32.png cropped__scaled_32.png cropped scaled_32.png cropped scaled_32.png cropped scaled_32.png cropped scaled_32.png cropped scaled_32.png cropped scaled_32.png cropped scaled_32.png",
+    "id" : "",
+    "first_name" : "",
+    "last_name" : "",
+    "email" : "",
+    "name" : "",
+    "avatar" : "",
     "organizations" : [ {
-      "id" : "2",
-      "name" : "Sdfsdfsdf",
-      "role" : "Sdfsdf"
+      "id" : "",
+      "name" : "",
+      "role" : ""
     }, {
-      "id" : "1002",
-      "name" : "Sdfsdf",
-      "role" : "Sdfsdf"
+      "id" : "",
+      "name" : "",
+      "role" : ""
     } ],
-    "timezone" : "Sdfsdf",
-    "created_at" : "1420066800000",
-    "phone_number" : "12345621",
-    "last_online" : "1469609210000"
-  }
+    "timezone" : "",
+    "created_at" : "",
+    "phone_number" : "",
+    "last_online" : ""
+  },
+  "remember_me" : null
 }
