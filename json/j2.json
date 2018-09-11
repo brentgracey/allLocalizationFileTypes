@@ -1,6 +1,6 @@
 {
   "result" : "321",
-  "token" : "",
+  "token" : "token",
   "remember_me" : null,
   "loggedUser" : {
     "id" : 1,
