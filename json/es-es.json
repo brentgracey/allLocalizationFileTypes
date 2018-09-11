@@ -1,0 +1,26 @@
+{
+  "result" : "321",
+  "token" : "simbólico",
+  "loggedUser" : {
+    "id" : "1",
+    "first_name" : "regreso",
+    "last_name" : "26sep",
+    "email" : "may@qordoba.com",
+    "name" : "Brent Gracey",
+    "avatar" : "https://storage.googleapis.com/dev-env-storage/c86ef738-4a95-4087-ad44-fac14deb94ba_admin a__scaled_256__recortada__escalada_32.png",
+    "organizations" : [ {
+      "id" : "2",
+      "name" : "Controlado organización de prueba",
+      "role" : "Owner"
+    }, {
+      "id" : "1002",
+      "name" : "prueba 3scale api call",
+      "role" : "Owner"
+    } ],
+    "timezone" : "Pacífico / Niue",
+    "created_at" : "1.4200668E12",
+    "phone_number" : "12345621",
+    "last_online" : "1.46960921E12"
+  },
+  "remember_me" : null
+}
