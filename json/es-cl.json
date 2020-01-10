@@ -1,0 +1,12 @@
+{
+  "key-0" : "neer",
+  "key-1-number" : 10,
+  "key-1" : "The [[quick]] brown fox jumped over the lazy dog.",
+  "key-2" : "No buscas un caballo de regalo \n En la boca",
+  "key-3" : "Se agacha hasta el fondo.",
+  "day_of_week_array" : [ {
+    "Monday" : "El lunes es el primer día",
+    "Tuesday" : "el resto"
+  } ],
+  "key-00" : null
+}
